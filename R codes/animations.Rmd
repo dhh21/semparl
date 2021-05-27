@@ -18,7 +18,7 @@ library(dplyr)
 map_coordinates <- readRDS("citiesinparl/map_coordinates.rds")
 not_city <- readRDS("citiesinparl/not_city.rds")
 
-recession <- map_coordinates %>% 
+depression <- map_coordinates %>% 
   filter(period == "1986-1995")
 
 crisis <- map_coordinates %>% 
@@ -40,14 +40,14 @@ theme_set(
 
 ```
 
-## 90s Recession
+## 90s Depression
 
 ### Absolute
 
-```{r recession_abs}
+```{r depression_abs}
 animated1 <- ggplot() +
   geom_sf(data = not_city, col = alpha("white", 1/3), fill = "grey") +
-  geom_sf(data = recession, aes(fill = mention_count , geometry = geom), colour = alpha("white", 1/3)) +
+  geom_sf(data = depression, aes(fill = mention_count , geometry = geom), colour = alpha("white", 1/3)) +
   viridis::scale_fill_viridis(limits = global_limits) +
   labs(title = "Cities mentioned in plenary sessions of\nFinnish parliament 1986-1995",
        subtitle = "Year: {closest_state}", fill = "No. mentions") +
@@ -59,10 +59,10 @@ animate(animated1)
 
 ### Per capita
 
-```{r recession_per_capita}
+```{r depression_per_capita}
 animated2 <- ggplot() +
   geom_sf(data = not_city, col = alpha("white", 1/3), fill = "grey") +
-  geom_sf(data = recession, aes(fill = per_capita , geometry = geom), colour = alpha("white", 1/3)) +
+  geom_sf(data = depression, aes(fill = per_capita , geometry = geom), colour = alpha("white", 1/3)) +
   viridis::scale_fill_viridis(limits = global_limits_per_capita) +
   labs(title = "Cities mentioned in plenary sessions of\nFinnish parliament 1986-1995",
        subtitle = "Year: {closest_state}", fill = "No. mentions\nper capita",
@@ -79,7 +79,7 @@ animate(animated2)
 
 ### Absolute
 
-```{r recession_abs}
+```{r depression_abs}
 animated3 <- ggplot() +
   geom_sf(data = not_city, col = alpha("white", 1/3), fill = "grey") +
   geom_sf(data = crisis, aes(fill = mention_count , geometry = geom), colour = alpha("white", 1/3)) +
@@ -94,7 +94,7 @@ animate(animated3)
 
 ### Per capita
 
-```{r recession_per_capita}
+```{r depression_per_capita}
 animated4 <- ggplot() +
   geom_sf(data = not_city, col = alpha("white", 1/3), fill = "grey") +
   geom_sf(data = crisis, aes(fill = per_capita , geometry = geom), colour = alpha("white", 1/3)) +

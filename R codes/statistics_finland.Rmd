@@ -22,7 +22,7 @@ library(pxweb)
 
 # Data retrieval using pxweb
 
-## 1990s Recession 
+## 1990s Depression 
 
 ### 1980-1993
 
@@ -78,8 +78,8 @@ pxweb_cite(px_data)
 ### Merge population datasets
 
 
-```{r recession_years}
-population_recession <- population_1980_1993 %>%
+```{r depression_years}
+population_depression <- population_1980_1993 %>%
   filter(Vuosi %in% 1986:1992) %>% # Select specified years and avoid selecting overlapping years
   bind_rows(population_1993_1996) %>%
   filter(Vuosi %in% 1986:1995) %>%
@@ -88,7 +88,7 @@ population_recession <- population_1980_1993 %>%
   arrange(Kunta, Vuosi)
 
 
-head(population_recession)
+head(population_depression)
 ```
 
 
@@ -317,7 +317,7 @@ head(population_financial_crisis)
 ## Merge datasets
 
 ```{r merge_data}
-municipal_population <- population_recession %>%
+municipal_population <- population_depression %>%
   bind_rows(population_financial_crisis) %>%
   arrange(Kunta, Vuosi) %>% 
   complete(Kunta, Vuosi, fill = list(`Kuntien tunnusluvut` = 0)) # Add missing rows for indentified missing populations

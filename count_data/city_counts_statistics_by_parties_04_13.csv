@@ -1,0 +1,3416 @@
+year,city,party,mention_count
+2004,Helsinki,Vihreä liitto,48
+2004,Helsinki,Vasemmistoliitto,65
+2004,Helsinki,Kansallinen Kokoomus,103
+2004,Helsinki,Suomen ruotsalainen kansanpuolue,5
+2004,Helsinki,Suomen Keskusta,75
+2004,Helsinki,Suomen Sosialidemokraattinen Puolue,94
+2004,Helsinki,Perussuomalaiset,11
+2004,Helsinki,Suomen Kristillisdemokraatit,23
+2004,Helsinki,Sininen tulevaisuus,6
+2004,Helsinki,Suomen Kansan Demokraattinen Liitto,4
+2004,Espoo,Vihreä liitto,4
+2004,Espoo,Kansallinen Kokoomus,12
+2004,Espoo,Suomen Keskusta,5
+2004,Espoo,Suomen Sosialidemokraattinen Puolue,7
+2004,Espoo,Sininen tulevaisuus,13
+2004,Espoo,Vasemmistoliitto,6
+2004,Espoo,Suomen Kristillisdemokraatit,5
+2004,Espoo,Perussuomalaiset,1
+2004,Tampere,Kansallinen Kokoomus,26
+2004,Tampere,Suomen Keskusta,33
+2004,Tampere,Suomen Sosialidemokraattinen Puolue,37
+2004,Tampere,Vasemmistoliitto,19
+2004,Tampere,Suomen ruotsalainen kansanpuolue,1
+2004,Tampere,Vihreä liitto,5
+2004,Tampere,Suomen Kansan Demokraattinen Liitto,2
+2004,Tampere,Suomen Kristillisdemokraatit,4
+2004,Vantaa,Suomen Sosialidemokraattinen Puolue,9
+2004,Vantaa,Suomen Keskusta,2
+2004,Vantaa,Vihreä liitto,3
+2004,Vantaa,Vasemmistoliitto,5
+2004,Vantaa,Kansallinen Kokoomus,5
+2004,Vantaa,Perussuomalaiset,1
+2004,Vantaa,Sininen tulevaisuus,3
+2004,Vantaa,Suomen Kristillisdemokraatit,1
+2004,Oulu,Suomen Kristillisdemokraatit,15
+2004,Oulu,Vasemmistoliitto,15
+2004,Oulu,Vihreä liitto,20
+2004,Oulu,Suomen Keskusta,19
+2004,Oulu,Kansallinen Kokoomus,16
+2004,Oulu,Suomen Sosialidemokraattinen Puolue,7
+2004,Turku,Suomen Sosialidemokraattinen Puolue,21
+2004,Turku,Vasemmistoliitto,28
+2004,Turku,Kansallinen Kokoomus,24
+2004,Turku,Vihreä liitto,5
+2004,Turku,Suomen Kristillisdemokraatit,7
+2004,Turku,Suomen Keskusta,21
+2004,Turku,Sininen tulevaisuus,2
+2004,Turku,Suomen Kansan Demokraattinen Liitto,3
+2004,Turku,Suomen ruotsalainen kansanpuolue,1
+2004,Jyväskylä,Vasemmistoliitto,12
+2004,Jyväskylä,Suomen Kristillisdemokraatit,13
+2004,Jyväskylä,Suomen Keskusta,18
+2004,Jyväskylä,Vihreä liitto,1
+2004,Jyväskylä,Suomen Sosialidemokraattinen Puolue,9
+2004,Jyväskylä,Kansallinen Kokoomus,7
+2004,Jyväskylä,Sininen tulevaisuus,1
+2004,Jyväskylä,Perussuomalaiset,1
+2004,Kuopio,Suomen Keskusta,11
+2004,Kuopio,Kansallinen Kokoomus,10
+2004,Kuopio,Vasemmistoliitto,21
+2004,Kuopio,Suomen Sosialidemokraattinen Puolue,9
+2004,Kuopio,Sininen tulevaisuus,2
+2004,Kuopio,Suomen Kristillisdemokraatit,2
+2004,Lahti,Suomen Keskusta,13
+2004,Lahti,Suomen Sosialidemokraattinen Puolue,4
+2004,Lahti,Vasemmistoliitto,3
+2004,Lahti,Kansallinen Kokoomus,7
+2004,Lahti,Vihreä liitto,1
+2004,Pori,Suomen Sosialidemokraattinen Puolue,8
+2004,Pori,Suomen Keskusta,4
+2004,Pori,Vasemmistoliitto,3
+2004,Pori,Sininen tulevaisuus,1
+2004,Pori,Kansallinen Kokoomus,5
+2004,Pori,Vihreä liitto,1
+2004,Pori,Suomen Kristillisdemokraatit,1
+2004,Kouvola,Kansallinen Kokoomus,5
+2004,Kouvola,Suomen Sosialidemokraattinen Puolue,3
+2004,Kouvola,Suomen Keskusta,3
+2004,Kouvola,Vasemmistoliitto,4
+2004,Kouvola,Vihreä liitto,1
+2004,Kouvola,Suomen Kristillisdemokraatit,1
+2004,Joensuu,Suomen Sosialidemokraattinen Puolue,16
+2004,Joensuu,Kansallinen Kokoomus,3
+2004,Joensuu,Suomen Keskusta,33
+2004,Joensuu,Sininen tulevaisuus,1
+2004,Joensuu,Vihreä liitto,2
+2004,Joensuu,Vasemmistoliitto,1
+2004,Lappeenranta,Suomen Sosialidemokraattinen Puolue,11
+2004,Lappeenranta,Suomen Keskusta,4
+2004,Lappeenranta,Kansallinen Kokoomus,7
+2004,Lappeenranta,Vasemmistoliitto,5
+2004,Hämeenlinna,Suomen Kansan Demokraattinen Liitto,2
+2004,Hämeenlinna,Vasemmistoliitto,1
+2004,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,1
+2004,Hämeenlinna,Kansallinen Kokoomus,4
+2004,Hämeenlinna,Suomen Kristillisdemokraatit,1
+2004,Hämeenlinna,Suomen Keskusta,1
+2004,Vaasa,Suomen Keskusta,9
+2004,Vaasa,Kansallinen Kokoomus,5
+2004,Vaasa,Suomen Sosialidemokraattinen Puolue,6
+2004,Vaasa,Suomen Kristillisdemokraatit,3
+2004,Vaasa,Vasemmistoliitto,1
+2004,Seinäjoki,Kansallinen Kokoomus,7
+2004,Seinäjoki,Suomen Keskusta,13
+2004,Seinäjoki,Vasemmistoliitto,1
+2004,Seinäjoki,Suomen Sosialidemokraattinen Puolue,6
+2004,Seinäjoki,Vihreä liitto,1
+2004,Seinäjoki,Perussuomalaiset,2
+2004,Seinäjoki,Suomen Kristillisdemokraatit,1
+2004,Rovaniemi,Suomen Kristillisdemokraatit,2
+2004,Rovaniemi,Suomen Keskusta,11
+2004,Rovaniemi,Vasemmistoliitto,3
+2004,Rovaniemi,Suomen Sosialidemokraattinen Puolue,3
+2004,Rovaniemi,Kansallinen Kokoomus,2
+2004,Mikkeli,Suomen Sosialidemokraattinen Puolue,7
+2004,Mikkeli,Kansallinen Kokoomus,10
+2004,Mikkeli,Suomen Keskusta,13
+2004,Mikkeli,Vasemmistoliitto,2
+2004,Mikkeli,Suomen Kristillisdemokraatit,1
+2004,Mikkeli,Vihreä liitto,1
+2004,Kotka,Kansallinen Kokoomus,7
+2004,Kotka,Vasemmistoliitto,23
+2004,Kotka,Suomen Keskusta,6
+2004,Kotka,Sininen tulevaisuus,1
+2004,Kotka,Suomen ruotsalainen kansanpuolue,2
+2004,Salo,Vihreä liitto,3
+2004,Salo,Suomen Sosialidemokraattinen Puolue,3
+2004,Salo,Kansallinen Kokoomus,2
+2004,Porvoo,Kansallinen Kokoomus,1
+2004,Porvoo,Suomen Keskusta,1
+2004,Porvoo,Suomen Sosialidemokraattinen Puolue,1
+2004,Porvoo,Vasemmistoliitto,1
+2004,Kokkola,Perussuomalaiset,1
+2004,Kokkola,Suomen Sosialidemokraattinen Puolue,8
+2004,Kokkola,Vihreä liitto,1
+2004,Kokkola,Kansallinen Kokoomus,2
+2004,Kokkola,Suomen Keskusta,1
+2004,Kokkola,Suomen Kristillisdemokraatit,2
+2004,Hyvinkää,Vasemmistoliitto,1
+2004,Lohja,Vasemmistoliitto,2
+2004,Lohja,Suomen Sosialidemokraattinen Puolue,2
+2004,Lohja,Vihreä liitto,1
+2004,Järvenpää,Vasemmistoliitto,1
+2004,Rauma,Suomen Sosialidemokraattinen Puolue,5
+2004,Rauma,Vasemmistoliitto,2
+2004,Rauma,Suomen Keskusta,2
+2004,Rauma,Kansallinen Kokoomus,2
+2004,Rauma,Sininen tulevaisuus,1
+2004,Kerava,Suomen Sosialidemokraattinen Puolue,1
+2004,Kajaani,Suomen Keskusta,8
+2004,Kajaani,Suomen Kristillisdemokraatit,3
+2004,Kajaani,Vasemmistoliitto,28
+2004,Kajaani,Kansallinen Kokoomus,10
+2004,Kajaani,Suomen Sosialidemokraattinen Puolue,6
+2004,Kajaani,Sininen tulevaisuus,1
+2004,Kajaani,Vihreä liitto,5
+2004,Kajaani,Perussuomalaiset,1
+2004,Nokia,Suomen Kristillisdemokraatit,8
+2004,Nokia,Suomen Keskusta,6
+2004,Nokia,Vasemmistoliitto,4
+2004,Nokia,Perussuomalaiset,3
+2004,Nokia,Suomen ruotsalainen kansanpuolue,2
+2004,Nokia,Suomen Sosialidemokraattinen Puolue,6
+2004,Nokia,Vihreä liitto,6
+2004,Nokia,Kansallinen Kokoomus,2
+2004,Nokia,Sininen tulevaisuus,1
+2004,Ylöjärvi,Suomen Keskusta,1
+2004,Savonlinna,Suomen Sosialidemokraattinen Puolue,2
+2004,Savonlinna,Suomen Keskusta,3
+2004,Savonlinna,Kansallinen Kokoomus,3
+2004,Savonlinna,Suomen Kristillisdemokraatit,1
+2004,Imatra,Kansallinen Kokoomus,2
+2004,Imatra,Suomen Sosialidemokraattinen Puolue,7
+2004,Imatra,Suomen Keskusta,12
+2004,Imatra,Vasemmistoliitto,3
+2004,Raisio,Vasemmistoliitto,1
+2004,Raahe,Suomen Keskusta,8
+2004,Raahe,Suomen Sosialidemokraattinen Puolue,4
+2004,Raahe,Vasemmistoliitto,15
+2004,Raahe,Suomen Kansan Demokraattinen Liitto,1
+2004,Raahe,Vihreä liitto,2
+2004,Raahe,Perussuomalaiset,1
+2004,Raahe,Suomen Kristillisdemokraatit,1
+2004,Tornio,Vasemmistoliitto,14
+2004,Tornio,Suomen Keskusta,6
+2004,Tornio,Suomen Sosialidemokraattinen Puolue,8
+2004,Tornio,Vihreä liitto,3
+2004,Tornio,Kansallinen Kokoomus,1
+2004,Tornio,Suomen Kristillisdemokraatit,2
+2004,Iisalmi,Vasemmistoliitto,2
+2004,Valkeakoski,Suomen Keskusta,1
+2004,Kemi,Vasemmistoliitto,7
+2004,Kemi,Suomen Keskusta,5
+2004,Kemi,Suomen Kristillisdemokraatit,1
+2004,Kemi,Suomen Sosialidemokraattinen Puolue,2
+2004,Kemi,Vihreä liitto,1
+2004,Varkaus,Suomen Sosialidemokraattinen Puolue,3
+2004,Varkaus,Vihreä liitto,3
+2004,Varkaus,Suomen Keskusta,2
+2004,Jämsä,Vasemmistoliitto,2
+2004,Hamina,Vasemmistoliitto,9
+2004,Hamina,Suomen Keskusta,8
+2004,Hamina,Suomen Sosialidemokraattinen Puolue,1
+2004,Hamina,Kansallinen Kokoomus,1
+2004,Hamina,Sininen tulevaisuus,1
+2004,Naantali,Vasemmistoliitto,1
+2004,Pietarsaari,Suomen Keskusta,1
+2004,Pietarsaari,Suomen ruotsalainen kansanpuolue,1
+2004,Äänekoski,Suomen Sosialidemokraattinen Puolue,1
+2004,Äänekoski,Suomen Kristillisdemokraatit,1
+2004,Heinola,Suomen Sosialidemokraattinen Puolue,1
+2004,Pieksämäki,Suomen Keskusta,2
+2004,Pieksämäki,Suomen Kristillisdemokraatit,1
+2004,Forssa,Suomen Keskusta,1
+2004,Forssa,Vasemmistoliitto,2
+2004,Forssa,Sininen tulevaisuus,1
+2004,Forssa,Vihreä liitto,1
+2004,Orimattila,Suomen Sosialidemokraattinen Puolue,1
+2004,Loimaa,Suomen Keskusta,2
+2004,Loimaa,Kansallinen Kokoomus,1
+2004,Kauhava,Suomen Keskusta,10
+2004,Kauhava,Kansallinen Kokoomus,2
+2004,Uusikaupunki,Suomen Kansan Demokraattinen Liitto,1
+2004,Uusikaupunki,Vasemmistoliitto,1
+2004,Ylivieska,Suomen Keskusta,2
+2004,Ylivieska,Suomen Kristillisdemokraatit,1
+2004,Kuusamo,Suomen Keskusta,2
+2004,Kuusamo,Kansallinen Kokoomus,2
+2004,Loviisa,Kansallinen Kokoomus,2
+2004,Loviisa,Vasemmistoliitto,1
+2004,Loviisa,Suomen Keskusta,1
+2004,Lapua,Suomen Sosialidemokraattinen Puolue,1
+2004,Lapua,Suomen Keskusta,1
+2004,Kauhajoki,Suomen Sosialidemokraattinen Puolue,2
+2004,Kankaanpää,Suomen Keskusta,1
+2004,Maarianhamina,Suomen Keskusta,1
+2004,Lieksa,Vihreä liitto,1
+2004,Lieksa,Suomen Sosialidemokraattinen Puolue,3
+2004,Lieksa,Suomen Keskusta,1
+2004,Kauniainen,Suomen Sosialidemokraattinen Puolue,2
+2004,Kitee,Suomen Keskusta,1
+2004,Kitee,Suomen Sosialidemokraattinen Puolue,4
+2004,Huittinen,Suomen Keskusta,1
+2004,Närpiö,Suomen Kristillisdemokraatit,1
+2004,Nurmes,Suomen Sosialidemokraattinen Puolue,3
+2004,Nurmes,Perussuomalaiset,2
+2004,Keuruu,Suomen Keskusta,20
+2004,Keuruu,Vasemmistoliitto,1
+2004,Keuruu,Vihreä liitto,1
+2004,Keuruu,Suomen Kristillisdemokraatit,2
+2004,Alajärvi,Suomen Keskusta,2
+2004,Alajärvi,Perussuomalaiset,1
+2004,Saarijärvi,Suomen Keskusta,1
+2004,Saarijärvi,Suomen Kristillisdemokraatit,1
+2004,Orivesi,Suomen Keskusta,2
+2004,Orivesi,Suomen Kristillisdemokraatit,1
+2004,Orivesi,Suomen Sosialidemokraattinen Puolue,1
+2004,Karkkila,Suomen Keskusta,1
+2004,Hanko,Suomen ruotsalainen kansanpuolue,2
+2004,Hanko,Suomen Sosialidemokraattinen Puolue,2
+2004,Hanko,Sininen tulevaisuus,1
+2004,Kuhmo,Vasemmistoliitto,3
+2004,Kuhmo,Suomen Sosialidemokraattinen Puolue,4
+2004,Kuhmo,Suomen Keskusta,2
+2004,Kuhmo,Suomen Kristillisdemokraatit,1
+2004,Kiuruvesi,Kansallinen Kokoomus,1
+2004,Kiuruvesi,Suomen Sosialidemokraattinen Puolue,1
+2004,Kiuruvesi,Suomen Keskusta,2
+2004,Kemijärvi,Vasemmistoliitto,9
+2004,Kemijärvi,Suomen Kristillisdemokraatit,4
+2004,Kemijärvi,Suomen Keskusta,9
+2004,Kemijärvi,Suomen Sosialidemokraattinen Puolue,2
+2004,Kemijärvi,Sininen tulevaisuus,1
+2004,Kemijärvi,Kansallinen Kokoomus,1
+2004,Kemijärvi,Perussuomalaiset,1
+2004,Kokemäki,Suomen Keskusta,1
+2004,Kokemäki,Vasemmistoliitto,1
+2004,Suonenjoki,Suomen Sosialidemokraattinen Puolue,1
+2004,Haapajärvi,Suomen Kristillisdemokraatit,1
+2004,Haapajärvi,Suomen Keskusta,1
+2004,Ikaalinen,Suomen Kristillisdemokraatit,1
+2004,Ikaalinen,Suomen Keskusta,1
+2004,Harjavalta,Suomen Keskusta,1
+2004,Haapavesi,Kansallinen Kokoomus,2
+2004,Haapavesi,Suomen Keskusta,1
+2004,Haapavesi,Suomen Sosialidemokraattinen Puolue,1
+2004,Outokumpu,Sininen tulevaisuus,2
+2004,Outokumpu,Vasemmistoliitto,2
+2004,Outokumpu,Suomen Sosialidemokraattinen Puolue,2
+2004,Outokumpu,Suomen Keskusta,3
+2004,Virrat,Suomen Keskusta,1
+2004,Parkano,Suomen Keskusta,6
+2004,Parkano,Kansallinen Kokoomus,1
+2004,Parkano,Sininen tulevaisuus,1
+2004,Parkano,Vasemmistoliitto,1
+2004,Ähtäri,Suomen Keskusta,2
+2004,Kannus,Kansallinen Kokoomus,1
+2004,Kannus,Suomen Kristillisdemokraatit,1
+2004,Pyhäjärvi,Suomen Kansan Demokraattinen Liitto,1
+2004,Pyhäjärvi,Suomen Sosialidemokraattinen Puolue,1
+2007,Helsinki,Vihreä liitto,37
+2007,Helsinki,Kansallinen Kokoomus,88
+2007,Helsinki,Vasemmistoliitto,54
+2007,Helsinki,Suomen Kristillisdemokraatit,19
+2007,Helsinki,Suomen Keskusta,53
+2007,Helsinki,Suomen Sosialidemokraattinen Puolue,105
+2007,Helsinki,Sininen tulevaisuus,4
+2007,Helsinki,Suomen ruotsalainen kansanpuolue,4
+2007,Helsinki,Suomen Kansan Demokraattinen Liitto,1
+2007,Helsinki,Perussuomalaiset,3
+2007,Espoo,Suomen Sosialidemokraattinen Puolue,13
+2007,Espoo,Kansallinen Kokoomus,16
+2007,Espoo,Vasemmistoliitto,6
+2007,Espoo,Suomen Kristillisdemokraatit,2
+2007,Espoo,Suomen Keskusta,7
+2007,Espoo,Vihreä liitto,1
+2007,Espoo,Sininen tulevaisuus,1
+2007,Espoo,Suomen ruotsalainen kansanpuolue,1
+2007,Tampere,Suomen Sosialidemokraattinen Puolue,23
+2007,Tampere,Suomen Kristillisdemokraatit,7
+2007,Tampere,Suomen Keskusta,22
+2007,Tampere,Vihreä liitto,3
+2007,Tampere,Kansallinen Kokoomus,20
+2007,Tampere,Vasemmistoliitto,9
+2007,Tampere,Suomen Kansan Demokraattinen Liitto,1
+2007,Vantaa,Kansallinen Kokoomus,10
+2007,Vantaa,Suomen Sosialidemokraattinen Puolue,8
+2007,Vantaa,Vihreä liitto,6
+2007,Vantaa,Suomen Kristillisdemokraatit,1
+2007,Vantaa,Suomen Keskusta,6
+2007,Vantaa,Suomen ruotsalainen kansanpuolue,1
+2007,Oulu,Suomen Keskusta,24
+2007,Oulu,Vihreä liitto,18
+2007,Oulu,Kansallinen Kokoomus,19
+2007,Oulu,Suomen Sosialidemokraattinen Puolue,15
+2007,Oulu,Suomen Kristillisdemokraatit,11
+2007,Oulu,Vasemmistoliitto,6
+2007,Oulu,Suomen Kansan Demokraattinen Liitto,1
+2007,Oulu,Suomen ruotsalainen kansanpuolue,1
+2007,Turku,Kansallinen Kokoomus,24
+2007,Turku,Suomen Sosialidemokraattinen Puolue,26
+2007,Turku,Suomen Kristillisdemokraatit,7
+2007,Turku,Vasemmistoliitto,16
+2007,Turku,Suomen Keskusta,10
+2007,Turku,Sininen tulevaisuus,1
+2007,Turku,Vihreä liitto,6
+2007,Jyväskylä,Suomen Kristillisdemokraatit,8
+2007,Jyväskylä,Suomen Keskusta,12
+2007,Jyväskylä,Vihreä liitto,2
+2007,Jyväskylä,Kansallinen Kokoomus,9
+2007,Jyväskylä,Suomen Sosialidemokraattinen Puolue,6
+2007,Jyväskylä,Vasemmistoliitto,7
+2007,Kuopio,Kansallinen Kokoomus,9
+2007,Kuopio,Suomen Keskusta,20
+2007,Kuopio,Suomen Kansan Demokraattinen Liitto,1
+2007,Kuopio,Vasemmistoliitto,9
+2007,Kuopio,Sininen tulevaisuus,2
+2007,Kuopio,Suomen Sosialidemokraattinen Puolue,10
+2007,Kuopio,Perussuomalaiset,3
+2007,Kuopio,Suomen ruotsalainen kansanpuolue,3
+2007,Kuopio,Suomen Kristillisdemokraatit,2
+2007,Kuopio,Vihreä liitto,1
+2007,Lahti,Vasemmistoliitto,7
+2007,Lahti,Vihreä liitto,2
+2007,Lahti,Suomen Sosialidemokraattinen Puolue,14
+2007,Lahti,Kansallinen Kokoomus,22
+2007,Lahti,Suomen Keskusta,9
+2007,Lahti,Perussuomalaiset,2
+2007,Lahti,Suomen Kristillisdemokraatit,1
+2007,Pori,Kansallinen Kokoomus,10
+2007,Pori,Suomen Keskusta,14
+2007,Pori,Vasemmistoliitto,2
+2007,Pori,Suomen Sosialidemokraattinen Puolue,14
+2007,Kouvola,Kansallinen Kokoomus,2
+2007,Kouvola,Vasemmistoliitto,4
+2007,Kouvola,Suomen Kristillisdemokraatit,2
+2007,Kouvola,Suomen Keskusta,1
+2007,Joensuu,Suomen Keskusta,11
+2007,Joensuu,Suomen Sosialidemokraattinen Puolue,24
+2007,Joensuu,Suomen Kristillisdemokraatit,1
+2007,Joensuu,Kansallinen Kokoomus,7
+2007,Joensuu,Vasemmistoliitto,4
+2007,Joensuu,Suomen Kansan Demokraattinen Liitto,1
+2007,Lappeenranta,Suomen Keskusta,5
+2007,Lappeenranta,Suomen Sosialidemokraattinen Puolue,13
+2007,Lappeenranta,Kansallinen Kokoomus,2
+2007,Lappeenranta,Vasemmistoliitto,2
+2007,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,8
+2007,Hämeenlinna,Suomen Kristillisdemokraatit,1
+2007,Hämeenlinna,Vihreä liitto,5
+2007,Hämeenlinna,Suomen Keskusta,2
+2007,Hämeenlinna,Vasemmistoliitto,2
+2007,Hämeenlinna,Kansallinen Kokoomus,1
+2007,Vaasa,Suomen Keskusta,8
+2007,Vaasa,Kansallinen Kokoomus,6
+2007,Vaasa,Vasemmistoliitto,2
+2007,Vaasa,Suomen Sosialidemokraattinen Puolue,10
+2007,Vaasa,Suomen Kristillisdemokraatit,2
+2007,Vaasa,Suomen ruotsalainen kansanpuolue,6
+2007,Vaasa,Vihreä liitto,1
+2007,Seinäjoki,Suomen Sosialidemokraattinen Puolue,5
+2007,Seinäjoki,Suomen Keskusta,5
+2007,Seinäjoki,Kansallinen Kokoomus,4
+2007,Seinäjoki,Suomen ruotsalainen kansanpuolue,2
+2007,Seinäjoki,Suomen Kristillisdemokraatit,1
+2007,Rovaniemi,Suomen Keskusta,5
+2007,Rovaniemi,Vihreä liitto,1
+2007,Rovaniemi,Suomen Sosialidemokraattinen Puolue,8
+2007,Rovaniemi,Kansallinen Kokoomus,3
+2007,Rovaniemi,Vasemmistoliitto,3
+2007,Rovaniemi,Suomen Kristillisdemokraatit,1
+2007,Mikkeli,Suomen Sosialidemokraattinen Puolue,8
+2007,Mikkeli,Vasemmistoliitto,2
+2007,Mikkeli,Suomen Keskusta,3
+2007,Mikkeli,Kansallinen Kokoomus,8
+2007,Mikkeli,Vihreä liitto,2
+2007,Kotka,Suomen Keskusta,3
+2007,Kotka,Vasemmistoliitto,16
+2007,Kotka,Suomen Sosialidemokraattinen Puolue,8
+2007,Kotka,Suomen Kristillisdemokraatit,2
+2007,Kotka,Kansallinen Kokoomus,3
+2007,Kotka,Suomen ruotsalainen kansanpuolue,1
+2007,Kotka,Vihreä liitto,1
+2007,Salo,Vihreä liitto,3
+2007,Salo,Vasemmistoliitto,1
+2007,Salo,Kansallinen Kokoomus,4
+2007,Salo,Suomen Keskusta,6
+2007,Salo,Suomen Sosialidemokraattinen Puolue,1
+2007,Salo,Suomen Kristillisdemokraatit,1
+2007,Porvoo,Vihreä liitto,2
+2007,Porvoo,Kansallinen Kokoomus,1
+2007,Porvoo,Suomen Keskusta,2
+2007,Porvoo,Suomen ruotsalainen kansanpuolue,3
+2007,Porvoo,Vasemmistoliitto,1
+2007,Kokkola,Suomen Sosialidemokraattinen Puolue,10
+2007,Kokkola,Suomen Kristillisdemokraatit,6
+2007,Kokkola,Suomen Keskusta,5
+2007,Kokkola,Vasemmistoliitto,1
+2007,Kokkola,Kansallinen Kokoomus,1
+2007,Hyvinkää,Suomen Sosialidemokraattinen Puolue,1
+2007,Hyvinkää,Kansallinen Kokoomus,1
+2007,Lohja,Sininen tulevaisuus,1
+2007,Lohja,Suomen Sosialidemokraattinen Puolue,2
+2007,Järvenpää,Suomen Sosialidemokraattinen Puolue,6
+2007,Järvenpää,Suomen Keskusta,1
+2007,Rauma,Kansallinen Kokoomus,1
+2007,Rauma,Suomen Keskusta,7
+2007,Rauma,Suomen Sosialidemokraattinen Puolue,6
+2007,Rauma,Vihreä liitto,1
+2007,Rauma,Vasemmistoliitto,3
+2007,Kerava,Suomen Sosialidemokraattinen Puolue,9
+2007,Kerava,Kansallinen Kokoomus,5
+2007,Kajaani,Vihreä liitto,3
+2007,Kajaani,Suomen Keskusta,7
+2007,Kajaani,Suomen Sosialidemokraattinen Puolue,4
+2007,Kajaani,Vasemmistoliitto,6
+2007,Nokia,Kansallinen Kokoomus,12
+2007,Nokia,Vasemmistoliitto,9
+2007,Nokia,Suomen Sosialidemokraattinen Puolue,8
+2007,Nokia,Suomen Keskusta,9
+2007,Nokia,Suomen Kristillisdemokraatit,3
+2007,Nokia,Vihreä liitto,2
+2007,Nokia,Sininen tulevaisuus,2
+2007,Nokia,Suomen Kansan Demokraattinen Liitto,1
+2007,Ylöjärvi,Suomen Sosialidemokraattinen Puolue,1
+2007,Ylöjärvi,Vasemmistoliitto,2
+2007,Ylöjärvi,Suomen Keskusta,1
+2007,Savonlinna,Vihreä liitto,3
+2007,Savonlinna,Suomen Keskusta,13
+2007,Savonlinna,Suomen Sosialidemokraattinen Puolue,12
+2007,Savonlinna,Kansallinen Kokoomus,8
+2007,Kangasala,Suomen Keskusta,1
+2007,Riihimäki,Suomen Sosialidemokraattinen Puolue,3
+2007,Riihimäki,Suomen Kristillisdemokraatit,1
+2007,Riihimäki,Suomen Keskusta,1
+2007,Raasepori,Sininen tulevaisuus,1
+2007,Imatra,Suomen Sosialidemokraattinen Puolue,6
+2007,Imatra,Suomen Keskusta,3
+2007,Imatra,Kansallinen Kokoomus,2
+2007,Imatra,Vasemmistoliitto,2
+2007,Imatra,Vihreä liitto,1
+2007,Raisio,Vasemmistoliitto,2
+2007,Raisio,Suomen Kansan Demokraattinen Liitto,1
+2007,Raisio,Vihreä liitto,1
+2007,Raisio,Suomen Sosialidemokraattinen Puolue,2
+2007,Raisio,Suomen Keskusta,1
+2007,Raisio,Kansallinen Kokoomus,1
+2007,Raahe,Vasemmistoliitto,11
+2007,Raahe,Suomen Kristillisdemokraatit,2
+2007,Raahe,Suomen Keskusta,2
+2007,Raahe,Vihreä liitto,3
+2007,Raahe,Suomen Sosialidemokraattinen Puolue,1
+2007,Tornio,Suomen Sosialidemokraattinen Puolue,8
+2007,Tornio,Suomen Keskusta,3
+2007,Tornio,Suomen Kristillisdemokraatit,2
+2007,Tornio,Vihreä liitto,1
+2007,Tornio,Suomen ruotsalainen kansanpuolue,1
+2007,Tornio,Vasemmistoliitto,6
+2007,Iisalmi,Suomen Keskusta,1
+2007,Iisalmi,Kansallinen Kokoomus,1
+2007,Iisalmi,Sininen tulevaisuus,1
+2007,Valkeakoski,Vasemmistoliitto,1
+2007,Kemi,Suomen Kristillisdemokraatit,8
+2007,Kemi,Kansallinen Kokoomus,23
+2007,Kemi,Vasemmistoliitto,28
+2007,Kemi,Suomen Sosialidemokraattinen Puolue,19
+2007,Kemi,Suomen Keskusta,8
+2007,Kemi,Vihreä liitto,9
+2007,Kemi,Suomen Kansan Demokraattinen Liitto,3
+2007,Kemi,Sininen tulevaisuus,1
+2007,Varkaus,Vihreä liitto,1
+2007,Varkaus,Suomen Keskusta,4
+2007,Varkaus,Suomen Kansan Demokraattinen Liitto,1
+2007,Jämsä,Suomen Kristillisdemokraatit,2
+2007,Jämsä,Suomen Keskusta,4
+2007,Jämsä,Suomen Sosialidemokraattinen Puolue,2
+2007,Hamina,Vihreä liitto,1
+2007,Hamina,Vasemmistoliitto,8
+2007,Hamina,Suomen Keskusta,5
+2007,Hamina,Suomen Sosialidemokraattinen Puolue,2
+2007,Hamina,Kansallinen Kokoomus,3
+2007,Naantali,Kansallinen Kokoomus,1
+2007,Pietarsaari,Suomen Sosialidemokraattinen Puolue,3
+2007,Pietarsaari,Suomen Keskusta,1
+2007,Äänekoski,Suomen Keskusta,5
+2007,Äänekoski,Suomen Kristillisdemokraatit,5
+2007,Äänekoski,Suomen Sosialidemokraattinen Puolue,1
+2007,Heinola,Kansallinen Kokoomus,2
+2007,Heinola,Suomen Sosialidemokraattinen Puolue,2
+2007,Pieksämäki,Suomen Keskusta,4
+2007,Pieksämäki,Vasemmistoliitto,1
+2007,Akaa,Suomen Sosialidemokraattinen Puolue,1
+2007,Loimaa,Kansallinen Kokoomus,1
+2007,Loimaa,Suomen Sosialidemokraattinen Puolue,1
+2007,Kauhava,Suomen Keskusta,2
+2007,Kauhava,Suomen Sosialidemokraattinen Puolue,1
+2007,Kauhava,Suomen ruotsalainen kansanpuolue,1
+2007,Kauhava,Kansallinen Kokoomus,2
+2007,Ylivieska,Suomen Keskusta,3
+2007,Kuusamo,Suomen Sosialidemokraattinen Puolue,2
+2007,Kuusamo,Vasemmistoliitto,3
+2007,Kuusamo,Suomen Keskusta,3
+2007,Kuusamo,Vihreä liitto,1
+2007,Loviisa,Vihreä liitto,2
+2007,Lapua,Suomen Keskusta,1
+2007,Kauhajoki,Suomen Sosialidemokraattinen Puolue,2
+2007,Kankaanpää,Suomen Keskusta,3
+2007,Kankaanpää,Suomen Kristillisdemokraatit,1
+2007,Kankaanpää,Suomen Sosialidemokraattinen Puolue,2
+2007,Kalajoki,Vihreä liitto,1
+2007,Maarianhamina,Suomen Keskusta,1
+2007,Maarianhamina,Suomen ruotsalainen kansanpuolue,1
+2007,Alavus,Suomen Sosialidemokraattinen Puolue,3
+2007,Lieksa,Suomen Sosialidemokraattinen Puolue,4
+2007,Lieksa,Vasemmistoliitto,1
+2007,Nivala,Suomen Kristillisdemokraatit,1
+2007,Kauniainen,Suomen Kansan Demokraattinen Liitto,1
+2007,Kauniainen,Suomen Sosialidemokraattinen Puolue,1
+2007,Kauniainen,Sininen tulevaisuus,2
+2007,Kauniainen,Kansallinen Kokoomus,2
+2007,Kauniainen,Suomen Keskusta,2
+2007,Kitee,Suomen Sosialidemokraattinen Puolue,1
+2007,Huittinen,Suomen Sosialidemokraattinen Puolue,1
+2007,Närpiö,Suomen Kristillisdemokraatit,1
+2007,Nurmes,Suomen Sosialidemokraattinen Puolue,2
+2007,Keuruu,Suomen Kristillisdemokraatit,4
+2007,Keuruu,Suomen Keskusta,20
+2007,Keuruu,Vasemmistoliitto,2
+2007,Keuruu,Suomen Sosialidemokraattinen Puolue,1
+2007,Keuruu,Vihreä liitto,1
+2007,Alajärvi,Vasemmistoliitto,3
+2007,Saarijärvi,Suomen Kristillisdemokraatit,3
+2007,Saarijärvi,Vasemmistoliitto,1
+2007,Saarijärvi,Suomen Keskusta,7
+2007,Saarijärvi,Suomen Sosialidemokraattinen Puolue,1
+2007,Orivesi,Suomen Keskusta,1
+2007,Orivesi,Suomen Sosialidemokraattinen Puolue,1
+2007,Hanko,Suomen Keskusta,1
+2007,Hanko,Suomen Sosialidemokraattinen Puolue,1
+2007,Hanko,Vihreä liitto,2
+2007,Hanko,Vasemmistoliitto,1
+2007,Hanko,Kansallinen Kokoomus,1
+2007,Kuhmo,Suomen Keskusta,3
+2007,Kuhmo,Vasemmistoliitto,1
+2007,Kiuruvesi,Suomen Keskusta,1
+2007,Pudasjärvi,Suomen Sosialidemokraattinen Puolue,2
+2007,Pudasjärvi,Vasemmistoliitto,1
+2007,Uusikaarlepyy,Suomen Sosialidemokraattinen Puolue,1
+2007,Kemijärvi,Kansallinen Kokoomus,4
+2007,Kemijärvi,Suomen Keskusta,23
+2007,Kemijärvi,Vasemmistoliitto,22
+2007,Kemijärvi,Suomen Sosialidemokraattinen Puolue,14
+2007,Kemijärvi,Vihreä liitto,10
+2007,Kemijärvi,Suomen Kristillisdemokraatit,3
+2007,Kokemäki,Kansallinen Kokoomus,2
+2007,Kokemäki,Suomen Sosialidemokraattinen Puolue,1
+2007,Kokemäki,Suomen Keskusta,1
+2007,Haapajärvi,Suomen Keskusta,5
+2007,Ikaalinen,Suomen Sosialidemokraattinen Puolue,1
+2007,Harjavalta,Suomen ruotsalainen kansanpuolue,1
+2007,Haapavesi,Vasemmistoliitto,2
+2007,Outokumpu,Suomen Kansan Demokraattinen Liitto,1
+2007,Outokumpu,Vasemmistoliitto,20
+2007,Outokumpu,Suomen Keskusta,9
+2007,Outokumpu,Suomen Sosialidemokraattinen Puolue,12
+2007,Outokumpu,Suomen Kristillisdemokraatit,7
+2007,Outokumpu,Kansallinen Kokoomus,2
+2007,Virrat,Suomen Sosialidemokraattinen Puolue,1
+2007,Parkano,Suomen Keskusta,4
+2007,Viitasaari,Suomen Kristillisdemokraatit,3
+2007,Viitasaari,Suomen Keskusta,1
+2007,Ähtäri,Suomen Keskusta,6
+2007,Kannus,Suomen Sosialidemokraattinen Puolue,4
+2007,Kannus,Suomen Keskusta,1
+2007,Pyhäjärvi,Vihreä liitto,1
+2009,Helsinki,Vihreä liitto,43
+2009,Helsinki,Suomen Keskusta,107
+2009,Helsinki,Suomen ruotsalainen kansanpuolue,12
+2009,Helsinki,Vasemmistoliitto,78
+2009,Helsinki,Suomen Kristillisdemokraatit,21
+2009,Helsinki,Kansallinen Kokoomus,153
+2009,Helsinki,Suomen Sosialidemokraattinen Puolue,143
+2009,Helsinki,Perussuomalaiset,13
+2009,Helsinki,Suomen Kansan Demokraattinen Liitto,2
+2009,Helsinki,Sininen tulevaisuus,2
+2009,Espoo,Kansallinen Kokoomus,15
+2009,Espoo,Suomen Sosialidemokraattinen Puolue,14
+2009,Espoo,Vasemmistoliitto,7
+2009,Espoo,Sininen tulevaisuus,1
+2009,Espoo,Vihreä liitto,6
+2009,Espoo,Suomen Keskusta,6
+2009,Espoo,Suomen ruotsalainen kansanpuolue,2
+2009,Tampere,Suomen Keskusta,33
+2009,Tampere,Vasemmistoliitto,7
+2009,Tampere,Suomen Sosialidemokraattinen Puolue,33
+2009,Tampere,Kansallinen Kokoomus,33
+2009,Tampere,Suomen Kansan Demokraattinen Liitto,2
+2009,Tampere,Suomen Kristillisdemokraatit,4
+2009,Tampere,Suomen ruotsalainen kansanpuolue,1
+2009,Tampere,Vihreä liitto,4
+2009,Vantaa,Vihreä liitto,3
+2009,Vantaa,Kansallinen Kokoomus,14
+2009,Vantaa,Suomen Sosialidemokraattinen Puolue,9
+2009,Vantaa,Suomen Keskusta,7
+2009,Vantaa,Vasemmistoliitto,6
+2009,Vantaa,Perussuomalaiset,4
+2009,Vantaa,Suomen ruotsalainen kansanpuolue,1
+2009,Oulu,Vihreä liitto,48
+2009,Oulu,Suomen Sosialidemokraattinen Puolue,14
+2009,Oulu,Perussuomalaiset,1
+2009,Oulu,Kansallinen Kokoomus,34
+2009,Oulu,Suomen Kristillisdemokraatit,18
+2009,Oulu,Vasemmistoliitto,10
+2009,Oulu,Suomen ruotsalainen kansanpuolue,2
+2009,Oulu,Suomen Keskusta,29
+2009,Turku,Kansallinen Kokoomus,38
+2009,Turku,Suomen Keskusta,22
+2009,Turku,Suomen Sosialidemokraattinen Puolue,25
+2009,Turku,Vasemmistoliitto,10
+2009,Turku,Suomen Kristillisdemokraatit,10
+2009,Turku,Vihreä liitto,7
+2009,Turku,Suomen ruotsalainen kansanpuolue,3
+2009,Turku,Perussuomalaiset,1
+2009,Jyväskylä,Suomen Kristillisdemokraatit,16
+2009,Jyväskylä,Suomen Keskusta,31
+2009,Jyväskylä,Suomen Sosialidemokraattinen Puolue,15
+2009,Jyväskylä,Vasemmistoliitto,18
+2009,Jyväskylä,Kansallinen Kokoomus,6
+2009,Jyväskylä,Vihreä liitto,2
+2009,Kuopio,Suomen Sosialidemokraattinen Puolue,29
+2009,Kuopio,Suomen Kristillisdemokraatit,3
+2009,Kuopio,Kansallinen Kokoomus,36
+2009,Kuopio,Suomen Keskusta,42
+2009,Kuopio,Vasemmistoliitto,28
+2009,Kuopio,Vihreä liitto,7
+2009,Kuopio,Suomen ruotsalainen kansanpuolue,2
+2009,Kuopio,Perussuomalaiset,2
+2009,Kuopio,Suomen Kansan Demokraattinen Liitto,1
+2009,Lahti,Kansallinen Kokoomus,19
+2009,Lahti,Suomen Keskusta,3
+2009,Lahti,Vasemmistoliitto,6
+2009,Lahti,Suomen Sosialidemokraattinen Puolue,6
+2009,Lahti,Suomen Kristillisdemokraatit,2
+2009,Lahti,Perussuomalaiset,1
+2009,Pori,Suomen Sosialidemokraattinen Puolue,13
+2009,Pori,Vihreä liitto,2
+2009,Pori,Kansallinen Kokoomus,13
+2009,Pori,Suomen Keskusta,16
+2009,Pori,Vasemmistoliitto,1
+2009,Kouvola,Kansallinen Kokoomus,4
+2009,Kouvola,Suomen Kristillisdemokraatit,2
+2009,Kouvola,Suomen Keskusta,8
+2009,Kouvola,Vasemmistoliitto,5
+2009,Kouvola,Suomen Sosialidemokraattinen Puolue,2
+2009,Joensuu,Vasemmistoliitto,3
+2009,Joensuu,Kansallinen Kokoomus,11
+2009,Joensuu,Suomen Sosialidemokraattinen Puolue,18
+2009,Joensuu,Suomen Keskusta,11
+2009,Joensuu,Suomen Kristillisdemokraatit,3
+2009,Joensuu,Vihreä liitto,1
+2009,Joensuu,Perussuomalaiset,1
+2009,Lappeenranta,Suomen Keskusta,4
+2009,Lappeenranta,Vasemmistoliitto,3
+2009,Lappeenranta,Suomen Sosialidemokraattinen Puolue,10
+2009,Lappeenranta,Suomen Kristillisdemokraatit,2
+2009,Lappeenranta,Kansallinen Kokoomus,10
+2009,Hämeenlinna,Vihreä liitto,5
+2009,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,9
+2009,Hämeenlinna,Suomen Keskusta,2
+2009,Hämeenlinna,Kansallinen Kokoomus,8
+2009,Hämeenlinna,Suomen Kristillisdemokraatit,1
+2009,Hämeenlinna,Suomen ruotsalainen kansanpuolue,1
+2009,Vaasa,Suomen ruotsalainen kansanpuolue,13
+2009,Vaasa,Suomen Keskusta,10
+2009,Vaasa,Suomen Sosialidemokraattinen Puolue,14
+2009,Vaasa,Suomen Kristillisdemokraatit,4
+2009,Vaasa,Perussuomalaiset,2
+2009,Vaasa,Kansallinen Kokoomus,10
+2009,Vaasa,Vihreä liitto,2
+2009,Seinäjoki,Suomen Sosialidemokraattinen Puolue,5
+2009,Seinäjoki,Suomen ruotsalainen kansanpuolue,5
+2009,Seinäjoki,Suomen Keskusta,13
+2009,Seinäjoki,Kansallinen Kokoomus,7
+2009,Seinäjoki,Vasemmistoliitto,1
+2009,Seinäjoki,Suomen Kristillisdemokraatit,2
+2009,Rovaniemi,Perussuomalaiset,2
+2009,Rovaniemi,Vihreä liitto,2
+2009,Rovaniemi,Suomen Keskusta,7
+2009,Rovaniemi,Vasemmistoliitto,10
+2009,Rovaniemi,Suomen Sosialidemokraattinen Puolue,9
+2009,Rovaniemi,Kansallinen Kokoomus,3
+2009,Mikkeli,Kansallinen Kokoomus,7
+2009,Mikkeli,Suomen Keskusta,3
+2009,Mikkeli,Vihreä liitto,1
+2009,Mikkeli,Vasemmistoliitto,1
+2009,Mikkeli,Suomen Sosialidemokraattinen Puolue,4
+2009,Mikkeli,Suomen Kristillisdemokraatit,1
+2009,Kotka,Kansallinen Kokoomus,4
+2009,Kotka,Suomen Sosialidemokraattinen Puolue,7
+2009,Kotka,Vasemmistoliitto,20
+2009,Salo,Suomen Keskusta,6
+2009,Salo,Suomen Sosialidemokraattinen Puolue,2
+2009,Salo,Perussuomalaiset,1
+2009,Salo,Kansallinen Kokoomus,2
+2009,Salo,Suomen ruotsalainen kansanpuolue,1
+2009,Porvoo,Suomen Sosialidemokraattinen Puolue,4
+2009,Porvoo,Vasemmistoliitto,2
+2009,Porvoo,Perussuomalaiset,3
+2009,Kokkola,Suomen Keskusta,3
+2009,Kokkola,Suomen Sosialidemokraattinen Puolue,6
+2009,Kokkola,Vasemmistoliitto,2
+2009,Kokkola,Suomen Kristillisdemokraatit,2
+2009,Kokkola,Kansallinen Kokoomus,3
+2009,Kokkola,Suomen ruotsalainen kansanpuolue,6
+2009,Hyvinkää,Suomen Sosialidemokraattinen Puolue,1
+2009,Lohja,Suomen Sosialidemokraattinen Puolue,3
+2009,Järvenpää,Suomen Sosialidemokraattinen Puolue,6
+2009,Järvenpää,Kansallinen Kokoomus,1
+2009,Rauma,Suomen Sosialidemokraattinen Puolue,2
+2009,Rauma,Kansallinen Kokoomus,1
+2009,Rauma,Suomen Keskusta,2
+2009,Kerava,Suomen Keskusta,3
+2009,Kerava,Kansallinen Kokoomus,5
+2009,Kerava,Vasemmistoliitto,1
+2009,Kerava,Suomen ruotsalainen kansanpuolue,1
+2009,Kerava,Suomen Sosialidemokraattinen Puolue,3
+2009,Kerava,Vihreä liitto,1
+2009,Kajaani,Suomen Sosialidemokraattinen Puolue,12
+2009,Kajaani,Kansallinen Kokoomus,2
+2009,Kajaani,Vasemmistoliitto,6
+2009,Kajaani,Suomen Keskusta,8
+2009,Nokia,Vasemmistoliitto,16
+2009,Nokia,Suomen Kristillisdemokraatit,3
+2009,Nokia,Kansallinen Kokoomus,11
+2009,Nokia,Vihreä liitto,8
+2009,Nokia,Perussuomalaiset,4
+2009,Nokia,Suomen Keskusta,8
+2009,Nokia,Suomen Sosialidemokraattinen Puolue,7
+2009,Nokia,Suomen Kansan Demokraattinen Liitto,1
+2009,Savonlinna,Suomen Keskusta,9
+2009,Savonlinna,Vihreä liitto,6
+2009,Savonlinna,Suomen Sosialidemokraattinen Puolue,3
+2009,Savonlinna,Kansallinen Kokoomus,2
+2009,Savonlinna,Vasemmistoliitto,2
+2009,Kangasala,Suomen Sosialidemokraattinen Puolue,1
+2009,Kangasala,Suomen Keskusta,1
+2009,Riihimäki,Suomen Kristillisdemokraatit,1
+2009,Riihimäki,Kansallinen Kokoomus,2
+2009,Riihimäki,Vasemmistoliitto,1
+2009,Riihimäki,Vihreä liitto,1
+2009,Raasepori,Suomen Sosialidemokraattinen Puolue,1
+2009,Raasepori,Suomen ruotsalainen kansanpuolue,1
+2009,Raasepori,Kansallinen Kokoomus,1
+2009,Imatra,Suomen Sosialidemokraattinen Puolue,3
+2009,Imatra,Vihreä liitto,1
+2009,Imatra,Kansallinen Kokoomus,3
+2009,Raisio,Kansallinen Kokoomus,3
+2009,Raisio,Suomen Sosialidemokraattinen Puolue,1
+2009,Raahe,Vasemmistoliitto,4
+2009,Raahe,Suomen Kristillisdemokraatit,1
+2009,Sastamala,Kansallinen Kokoomus,3
+2009,Sastamala,Suomen Keskusta,2
+2009,Tornio,Suomen Kristillisdemokraatit,7
+2009,Tornio,Vasemmistoliitto,3
+2009,Tornio,Suomen Sosialidemokraattinen Puolue,3
+2009,Tornio,Suomen Keskusta,3
+2009,Tornio,Vihreä liitto,1
+2009,Iisalmi,Suomen Sosialidemokraattinen Puolue,1
+2009,Iisalmi,Suomen Keskusta,2
+2009,Valkeakoski,Suomen Sosialidemokraattinen Puolue,3
+2009,Valkeakoski,Suomen Kansan Demokraattinen Liitto,2
+2009,Valkeakoski,Kansallinen Kokoomus,3
+2009,Valkeakoski,Vasemmistoliitto,1
+2009,Valkeakoski,Suomen Keskusta,1
+2009,Kurikka,Suomen Keskusta,2
+2009,Kemi,Vasemmistoliitto,7
+2009,Kemi,Kansallinen Kokoomus,3
+2009,Kemi,Suomen Kristillisdemokraatit,1
+2009,Kemi,Suomen Keskusta,4
+2009,Kemi,Suomen Sosialidemokraattinen Puolue,1
+2009,Varkaus,Suomen Keskusta,10
+2009,Varkaus,Vihreä liitto,4
+2009,Varkaus,Suomen Sosialidemokraattinen Puolue,11
+2009,Varkaus,Vasemmistoliitto,3
+2009,Varkaus,Suomen Kristillisdemokraatit,2
+2009,Varkaus,Suomen ruotsalainen kansanpuolue,1
+2009,Varkaus,Kansallinen Kokoomus,1
+2009,Jämsä,Suomen Keskusta,2
+2009,Jämsä,Suomen Kristillisdemokraatit,2
+2009,Jämsä,Suomen Sosialidemokraattinen Puolue,9
+2009,Jämsä,Vasemmistoliitto,3
+2009,Jämsä,Vihreä liitto,1
+2009,Hamina,Vihreä liitto,2
+2009,Hamina,Suomen Sosialidemokraattinen Puolue,3
+2009,Hamina,Vasemmistoliitto,7
+2009,Hamina,Suomen Keskusta,4
+2009,Hamina,Kansallinen Kokoomus,2
+2009,Hamina,Suomen Kristillisdemokraatit,1
+2009,Pietarsaari,Kansallinen Kokoomus,3
+2009,Pietarsaari,Suomen ruotsalainen kansanpuolue,6
+2009,Pietarsaari,Suomen Kristillisdemokraatit,1
+2009,Pietarsaari,Suomen Sosialidemokraattinen Puolue,1
+2009,Pietarsaari,Suomen Keskusta,1
+2009,Heinola,Vasemmistoliitto,4
+2009,Heinola,Suomen Sosialidemokraattinen Puolue,4
+2009,Heinola,Suomen Keskusta,2
+2009,Heinola,Suomen Kristillisdemokraatit,1
+2009,Heinola,Vihreä liitto,1
+2009,Heinola,Kansallinen Kokoomus,2
+2009,Pieksämäki,Suomen Keskusta,3
+2009,Forssa,Suomen Keskusta,1
+2009,Akaa,Suomen Kristillisdemokraatit,1
+2009,Akaa,Suomen Keskusta,1
+2009,Akaa,Suomen Sosialidemokraattinen Puolue,1
+2009,Orimattila,Suomen Sosialidemokraattinen Puolue,1
+2009,Kauhava,Kansallinen Kokoomus,1
+2009,Kauhava,Suomen Keskusta,1
+2009,Kauhava,Vasemmistoliitto,1
+2009,Kauhava,Suomen Kansan Demokraattinen Liitto,1
+2009,Ylivieska,Vihreä liitto,1
+2009,Ylivieska,Suomen Sosialidemokraattinen Puolue,1
+2009,Ylivieska,Kansallinen Kokoomus,1
+2009,Kuusamo,Suomen Keskusta,4
+2009,Kuusamo,Vasemmistoliitto,1
+2009,Kuusamo,Suomen Kristillisdemokraatit,1
+2009,Kuusamo,Suomen Sosialidemokraattinen Puolue,1
+2009,Loviisa,Vasemmistoliitto,1
+2009,Loviisa,Suomen Keskusta,2
+2009,Loviisa,Perussuomalaiset,1
+2009,Loviisa,Suomen Sosialidemokraattinen Puolue,2
+2009,Loviisa,Vihreä liitto,2
+2009,Loviisa,Kansallinen Kokoomus,3
+2009,Lapua,Suomen Keskusta,1
+2009,Kauhajoki,Suomen Keskusta,11
+2009,Kauhajoki,Perussuomalaiset,1
+2009,Kauhajoki,Vasemmistoliitto,4
+2009,Kauhajoki,Kansallinen Kokoomus,7
+2009,Kauhajoki,Suomen Sosialidemokraattinen Puolue,9
+2009,Kauhajoki,Suomen Kristillisdemokraatit,2
+2009,Kauhajoki,Vihreä liitto,2
+2009,Kankaanpää,Suomen Keskusta,1
+2009,Ulvila,Suomen Keskusta,1
+2009,Ulvila,Kansallinen Kokoomus,1
+2009,Maarianhamina,Suomen Kristillisdemokraatit,1
+2009,Lieksa,Suomen Sosialidemokraattinen Puolue,6
+2009,Lieksa,Suomen Keskusta,1
+2009,Kauniainen,Vasemmistoliitto,2
+2009,Kauniainen,Kansallinen Kokoomus,1
+2009,Kauniainen,Suomen Kristillisdemokraatit,3
+2009,Kauniainen,Suomen Keskusta,1
+2009,Kauniainen,Suomen Sosialidemokraattinen Puolue,2
+2009,Kitee,Suomen Keskusta,1
+2009,Kitee,Suomen Sosialidemokraattinen Puolue,5
+2009,Kitee,Suomen Kristillisdemokraatit,1
+2009,Närpiö,Kansallinen Kokoomus,1
+2009,Nurmes,Suomen Sosialidemokraattinen Puolue,2
+2009,Nurmes,Suomen Keskusta,2
+2009,Nurmes,Perussuomalaiset,1
+2009,Nurmes,Kansallinen Kokoomus,1
+2009,Keuruu,Suomen Keskusta,18
+2009,Keuruu,Suomen Kristillisdemokraatit,1
+2009,Keuruu,Vasemmistoliitto,1
+2009,Alajärvi,Perussuomalaiset,3
+2009,Alajärvi,Suomen Keskusta,1
+2009,Saarijärvi,Perussuomalaiset,1
+2009,Saarijärvi,Suomen Kristillisdemokraatit,2
+2009,Saarijärvi,Suomen Sosialidemokraattinen Puolue,1
+2009,Orivesi,Suomen Sosialidemokraattinen Puolue,2
+2009,Orivesi,Vasemmistoliitto,1
+2009,Karkkila,Suomen Keskusta,1
+2009,Karkkila,Vihreä liitto,1
+2009,Somero,Suomen Keskusta,1
+2009,Laitila,Suomen Keskusta,1
+2009,Hanko,Suomen Kristillisdemokraatit,1
+2009,Hanko,Kansallinen Kokoomus,2
+2009,Hanko,Vasemmistoliitto,2
+2009,Hanko,Suomen Sosialidemokraattinen Puolue,3
+2009,Hanko,Vihreä liitto,1
+2009,Hanko,Suomen Keskusta,1
+2009,Hanko,Suomen ruotsalainen kansanpuolue,1
+2009,Kuhmo,Suomen Sosialidemokraattinen Puolue,2
+2009,Kuhmo,Suomen Keskusta,4
+2009,Kuhmo,Vasemmistoliitto,1
+2009,Kuhmo,Suomen Kristillisdemokraatit,1
+2009,Pudasjärvi,Suomen Keskusta,3
+2009,Pudasjärvi,Suomen Sosialidemokraattinen Puolue,2
+2009,Kemijärvi,Vasemmistoliitto,12
+2009,Kemijärvi,Suomen Keskusta,4
+2009,Kemijärvi,Suomen Sosialidemokraattinen Puolue,4
+2009,Kemijärvi,Kansallinen Kokoomus,1
+2009,Kemijärvi,Suomen Kristillisdemokraatit,1
+2009,Kokemäki,Kansallinen Kokoomus,1
+2009,Kokemäki,Vasemmistoliitto,2
+2009,Kokemäki,Suomen Keskusta,2
+2009,Suonenjoki,Suomen Keskusta,1
+2009,Haapajärvi,Vasemmistoliitto,1
+2009,Harjavalta,Kansallinen Kokoomus,1
+2009,Harjavalta,Suomen Keskusta,1
+2009,Haapavesi,Vihreä liitto,2
+2009,Outokumpu,Kansallinen Kokoomus,2
+2009,Outokumpu,Vasemmistoliitto,3
+2009,Virrat,Suomen Keskusta,1
+2009,Parkano,Vasemmistoliitto,1
+2009,Parkano,Suomen Keskusta,2
+2009,Parkano,Suomen Kristillisdemokraatit,1
+2009,Ähtäri,Suomen Keskusta,1
+2009,Kaskinen,Vasemmistoliitto,3
+2009,Kaskinen,Suomen Keskusta,1
+2009,Kaskinen,Suomen Kristillisdemokraatit,1
+2009,Kaskinen,Suomen ruotsalainen kansanpuolue,1
+2005,Helsinki,Suomen Keskusta,64
+2005,Helsinki,Vasemmistoliitto,59
+2005,Helsinki,Vihreä liitto,72
+2005,Helsinki,Suomen Kristillisdemokraatit,27
+2005,Helsinki,Kansallinen Kokoomus,103
+2005,Helsinki,Suomen Sosialidemokraattinen Puolue,79
+2005,Helsinki,Perussuomalaiset,12
+2005,Helsinki,Sininen tulevaisuus,1
+2005,Helsinki,Suomen ruotsalainen kansanpuolue,5
+2005,Helsinki,Suomen Kansan Demokraattinen Liitto,1
+2005,Espoo,Suomen ruotsalainen kansanpuolue,2
+2005,Espoo,Kansallinen Kokoomus,13
+2005,Espoo,Sininen tulevaisuus,4
+2005,Espoo,Suomen Sosialidemokraattinen Puolue,11
+2005,Espoo,Vihreä liitto,11
+2005,Espoo,Vasemmistoliitto,7
+2005,Espoo,Suomen Keskusta,1
+2005,Espoo,Suomen Kristillisdemokraatit,1
+2005,Tampere,Suomen Keskusta,35
+2005,Tampere,Suomen Sosialidemokraattinen Puolue,28
+2005,Tampere,Vasemmistoliitto,13
+2005,Tampere,Kansallinen Kokoomus,26
+2005,Tampere,Vihreä liitto,17
+2005,Tampere,Suomen Kristillisdemokraatit,7
+2005,Tampere,Suomen Kansan Demokraattinen Liitto,4
+2005,Tampere,Perussuomalaiset,1
+2005,Tampere,Suomen ruotsalainen kansanpuolue,1
+2005,Vantaa,Vihreä liitto,12
+2005,Vantaa,Suomen Sosialidemokraattinen Puolue,17
+2005,Vantaa,Kansallinen Kokoomus,16
+2005,Vantaa,Suomen Keskusta,12
+2005,Vantaa,Sininen tulevaisuus,3
+2005,Vantaa,Suomen Kristillisdemokraatit,2
+2005,Vantaa,Vasemmistoliitto,13
+2005,Vantaa,Perussuomalaiset,1
+2005,Oulu,Suomen Sosialidemokraattinen Puolue,17
+2005,Oulu,Kansallinen Kokoomus,22
+2005,Oulu,Suomen Keskusta,31
+2005,Oulu,Suomen Kristillisdemokraatit,17
+2005,Oulu,Vihreä liitto,29
+2005,Oulu,Perussuomalaiset,2
+2005,Oulu,Vasemmistoliitto,15
+2005,Turku,Suomen Sosialidemokraattinen Puolue,17
+2005,Turku,Vihreä liitto,11
+2005,Turku,Suomen Kristillisdemokraatit,3
+2005,Turku,Kansallinen Kokoomus,25
+2005,Turku,Vasemmistoliitto,16
+2005,Turku,Suomen Keskusta,19
+2005,Turku,Suomen Kansan Demokraattinen Liitto,1
+2005,Turku,Sininen tulevaisuus,2
+2005,Turku,Suomen ruotsalainen kansanpuolue,5
+2005,Turku,Perussuomalaiset,1
+2005,Jyväskylä,Vihreä liitto,5
+2005,Jyväskylä,Suomen Keskusta,24
+2005,Jyväskylä,Suomen Kristillisdemokraatit,13
+2005,Jyväskylä,Vasemmistoliitto,15
+2005,Jyväskylä,Kansallinen Kokoomus,8
+2005,Jyväskylä,Suomen Sosialidemokraattinen Puolue,10
+2005,Jyväskylä,Perussuomalaiset,2
+2005,Kuopio,Kansallinen Kokoomus,7
+2005,Kuopio,Suomen Sosialidemokraattinen Puolue,8
+2005,Kuopio,Vasemmistoliitto,20
+2005,Kuopio,Suomen Keskusta,10
+2005,Kuopio,Vihreä liitto,6
+2005,Lahti,Kansallinen Kokoomus,23
+2005,Lahti,Suomen Keskusta,12
+2005,Lahti,Vasemmistoliitto,18
+2005,Lahti,Suomen Sosialidemokraattinen Puolue,10
+2005,Lahti,Suomen Kristillisdemokraatit,1
+2005,Lahti,Vihreä liitto,3
+2005,Pori,Suomen Keskusta,6
+2005,Pori,Kansallinen Kokoomus,2
+2005,Pori,Suomen Kristillisdemokraatit,3
+2005,Pori,Suomen Sosialidemokraattinen Puolue,9
+2005,Pori,Vasemmistoliitto,1
+2005,Kouvola,Vihreä liitto,1
+2005,Kouvola,Kansallinen Kokoomus,9
+2005,Kouvola,Vasemmistoliitto,8
+2005,Kouvola,Suomen Kristillisdemokraatit,2
+2005,Kouvola,Suomen Sosialidemokraattinen Puolue,10
+2005,Kouvola,Suomen Keskusta,10
+2005,Joensuu,Suomen Sosialidemokraattinen Puolue,20
+2005,Joensuu,Suomen Keskusta,8
+2005,Joensuu,Vasemmistoliitto,1
+2005,Joensuu,Perussuomalaiset,1
+2005,Joensuu,Kansallinen Kokoomus,4
+2005,Joensuu,Suomen Kristillisdemokraatit,3
+2005,Joensuu,Vihreä liitto,3
+2005,Lappeenranta,Kansallinen Kokoomus,10
+2005,Lappeenranta,Suomen Keskusta,5
+2005,Lappeenranta,Vasemmistoliitto,3
+2005,Lappeenranta,Suomen Sosialidemokraattinen Puolue,9
+2005,Hämeenlinna,Kansallinen Kokoomus,10
+2005,Hämeenlinna,Vasemmistoliitto,4
+2005,Hämeenlinna,Perussuomalaiset,1
+2005,Hämeenlinna,Suomen Keskusta,9
+2005,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,7
+2005,Hämeenlinna,Vihreä liitto,4
+2005,Hämeenlinna,Suomen ruotsalainen kansanpuolue,3
+2005,Vaasa,Suomen Keskusta,12
+2005,Vaasa,Perussuomalaiset,2
+2005,Vaasa,Vasemmistoliitto,2
+2005,Vaasa,Suomen Sosialidemokraattinen Puolue,5
+2005,Vaasa,Suomen ruotsalainen kansanpuolue,1
+2005,Vaasa,Vihreä liitto,1
+2005,Vaasa,Kansallinen Kokoomus,5
+2005,Seinäjoki,Suomen Keskusta,15
+2005,Seinäjoki,Suomen Sosialidemokraattinen Puolue,13
+2005,Seinäjoki,Kansallinen Kokoomus,14
+2005,Seinäjoki,Perussuomalaiset,3
+2005,Seinäjoki,Suomen ruotsalainen kansanpuolue,1
+2005,Seinäjoki,Vasemmistoliitto,2
+2005,Seinäjoki,Suomen Kristillisdemokraatit,1
+2005,Rovaniemi,Suomen Keskusta,13
+2005,Rovaniemi,Vasemmistoliitto,7
+2005,Rovaniemi,Suomen Sosialidemokraattinen Puolue,2
+2005,Rovaniemi,Vihreä liitto,3
+2005,Rovaniemi,Perussuomalaiset,1
+2005,Rovaniemi,Kansallinen Kokoomus,1
+2005,Rovaniemi,Suomen Kristillisdemokraatit,1
+2005,Mikkeli,Suomen Keskusta,6
+2005,Mikkeli,Kansallinen Kokoomus,10
+2005,Mikkeli,Vasemmistoliitto,4
+2005,Mikkeli,Suomen Sosialidemokraattinen Puolue,2
+2005,Mikkeli,Vihreä liitto,2
+2005,Kotka,Kansallinen Kokoomus,5
+2005,Kotka,Vasemmistoliitto,35
+2005,Kotka,Suomen Keskusta,13
+2005,Kotka,Suomen Kristillisdemokraatit,2
+2005,Kotka,Vihreä liitto,2
+2005,Kotka,Suomen Sosialidemokraattinen Puolue,4
+2005,Salo,Vihreä liitto,1
+2005,Salo,Kansallinen Kokoomus,4
+2005,Salo,Suomen Keskusta,1
+2005,Salo,Vasemmistoliitto,1
+2005,Porvoo,Suomen Keskusta,2
+2005,Porvoo,Vasemmistoliitto,2
+2005,Porvoo,Kansallinen Kokoomus,2
+2005,Kokkola,Suomen Sosialidemokraattinen Puolue,3
+2005,Kokkola,Kansallinen Kokoomus,2
+2005,Kokkola,Vihreä liitto,1
+2005,Kokkola,Suomen ruotsalainen kansanpuolue,1
+2005,Kokkola,Suomen Keskusta,1
+2005,Hyvinkää,Suomen Kristillisdemokraatit,1
+2005,Hyvinkää,Perussuomalaiset,1
+2005,Hyvinkää,Suomen ruotsalainen kansanpuolue,1
+2005,Hyvinkää,Sininen tulevaisuus,1
+2005,Lohja,Vasemmistoliitto,1
+2005,Lohja,Vihreä liitto,1
+2005,Lohja,Suomen ruotsalainen kansanpuolue,1
+2005,Lohja,Kansallinen Kokoomus,1
+2005,Järvenpää,Suomen Keskusta,3
+2005,Järvenpää,Suomen Sosialidemokraattinen Puolue,1
+2005,Järvenpää,Vasemmistoliitto,1
+2005,Rauma,Suomen Sosialidemokraattinen Puolue,4
+2005,Rauma,Kansallinen Kokoomus,1
+2005,Rauma,Suomen Kristillisdemokraatit,1
+2005,Rauma,Suomen Keskusta,2
+2005,Rauma,Vasemmistoliitto,2
+2005,Kerava,Suomen Keskusta,3
+2005,Kerava,Kansallinen Kokoomus,3
+2005,Kerava,Suomen Kristillisdemokraatit,1
+2005,Kerava,Vasemmistoliitto,1
+2005,Kerava,Suomen Sosialidemokraattinen Puolue,2
+2005,Kajaani,Vasemmistoliitto,14
+2005,Kajaani,Suomen Keskusta,3
+2005,Kajaani,Suomen Sosialidemokraattinen Puolue,6
+2005,Kajaani,Vihreä liitto,3
+2005,Kajaani,Kansallinen Kokoomus,1
+2005,Nokia,Suomen Sosialidemokraattinen Puolue,8
+2005,Nokia,Vihreä liitto,4
+2005,Nokia,Suomen Kansan Demokraattinen Liitto,2
+2005,Nokia,Suomen Keskusta,3
+2005,Nokia,Vasemmistoliitto,2
+2005,Nokia,Kansallinen Kokoomus,9
+2005,Nokia,Suomen Kristillisdemokraatit,4
+2005,Ylöjärvi,Suomen Sosialidemokraattinen Puolue,3
+2005,Ylöjärvi,Vasemmistoliitto,1
+2005,Ylöjärvi,Kansallinen Kokoomus,1
+2005,Savonlinna,Suomen Sosialidemokraattinen Puolue,3
+2005,Savonlinna,Suomen Keskusta,6
+2005,Savonlinna,Perussuomalaiset,1
+2005,Savonlinna,Kansallinen Kokoomus,2
+2005,Savonlinna,Vasemmistoliitto,1
+2005,Kangasala,Suomen Keskusta,3
+2005,Riihimäki,Kansallinen Kokoomus,1
+2005,Riihimäki,Suomen Keskusta,5
+2005,Riihimäki,Vasemmistoliitto,1
+2005,Riihimäki,Suomen Kristillisdemokraatit,4
+2005,Riihimäki,Suomen Sosialidemokraattinen Puolue,3
+2005,Riihimäki,Suomen Kansan Demokraattinen Liitto,1
+2005,Imatra,Suomen Kristillisdemokraatit,2
+2005,Imatra,Vasemmistoliitto,2
+2005,Imatra,Suomen Sosialidemokraattinen Puolue,4
+2005,Imatra,Suomen Keskusta,7
+2005,Imatra,Vihreä liitto,2
+2005,Imatra,Kansallinen Kokoomus,1
+2005,Imatra,Suomen Kansan Demokraattinen Liitto,1
+2005,Raisio,Vihreä liitto,1
+2005,Raisio,Suomen Sosialidemokraattinen Puolue,1
+2005,Raisio,Vasemmistoliitto,1
+2005,Raahe,Suomen Keskusta,3
+2005,Raahe,Vasemmistoliitto,3
+2005,Raahe,Suomen Kristillisdemokraatit,2
+2005,Raahe,Vihreä liitto,1
+2005,Raahe,Suomen ruotsalainen kansanpuolue,1
+2005,Tornio,Suomen Sosialidemokraattinen Puolue,2
+2005,Tornio,Vasemmistoliitto,5
+2005,Tornio,Kansallinen Kokoomus,1
+2005,Tornio,Suomen Kristillisdemokraatit,3
+2005,Tornio,Vihreä liitto,1
+2005,Iisalmi,Suomen Sosialidemokraattinen Puolue,1
+2005,Iisalmi,Vasemmistoliitto,1
+2005,Valkeakoski,Suomen Sosialidemokraattinen Puolue,1
+2005,Valkeakoski,Suomen Keskusta,4
+2005,Kurikka,Suomen Keskusta,1
+2005,Kurikka,Kansallinen Kokoomus,1
+2005,Kemi,Vasemmistoliitto,14
+2005,Kemi,Suomen Sosialidemokraattinen Puolue,4
+2005,Kemi,Suomen Keskusta,2
+2005,Kemi,Suomen ruotsalainen kansanpuolue,1
+2005,Kemi,Vihreä liitto,1
+2005,Kemi,Suomen Kristillisdemokraatit,1
+2005,Kemi,Kansallinen Kokoomus,1
+2005,Varkaus,Suomen Keskusta,3
+2005,Varkaus,Kansallinen Kokoomus,2
+2005,Varkaus,Suomen Sosialidemokraattinen Puolue,1
+2005,Jämsä,Suomen Keskusta,2
+2005,Jämsä,Suomen Sosialidemokraattinen Puolue,2
+2005,Jämsä,Suomen Kristillisdemokraatit,2
+2005,Jämsä,Kansallinen Kokoomus,2
+2005,Jämsä,Vihreä liitto,2
+2005,Jämsä,Vasemmistoliitto,3
+2005,Hamina,Kansallinen Kokoomus,4
+2005,Hamina,Vasemmistoliitto,9
+2005,Hamina,Suomen Keskusta,9
+2005,Hamina,Suomen Sosialidemokraattinen Puolue,2
+2005,Naantali,Suomen Kansan Demokraattinen Liitto,1
+2005,Pietarsaari,Perussuomalaiset,2
+2005,Pietarsaari,Suomen Sosialidemokraattinen Puolue,9
+2005,Pietarsaari,Kansallinen Kokoomus,3
+2005,Pietarsaari,Vihreä liitto,1
+2005,Pietarsaari,Suomen Keskusta,4
+2005,Äänekoski,Suomen Kristillisdemokraatit,1
+2005,Äänekoski,Suomen Keskusta,2
+2005,Heinola,Kansallinen Kokoomus,3
+2005,Heinola,Vasemmistoliitto,2
+2005,Heinola,Suomen Kristillisdemokraatit,1
+2005,Heinola,Suomen Sosialidemokraattinen Puolue,1
+2005,Pieksämäki,Suomen Keskusta,2
+2005,Pieksämäki,Vasemmistoliitto,1
+2005,Forssa,Suomen Sosialidemokraattinen Puolue,1
+2005,Forssa,Kansallinen Kokoomus,1
+2005,Forssa,Suomen Keskusta,7
+2005,Forssa,Suomen Kristillisdemokraatit,1
+2005,Forssa,Sininen tulevaisuus,1
+2005,Orimattila,Kansallinen Kokoomus,1
+2005,Loimaa,Suomen Keskusta,3
+2005,Loimaa,Vasemmistoliitto,3
+2005,Loimaa,Suomen Kristillisdemokraatit,3
+2005,Loimaa,Vihreä liitto,1
+2005,Loimaa,Kansallinen Kokoomus,2
+2005,Loimaa,Suomen Sosialidemokraattinen Puolue,1
+2005,Kauhava,Kansallinen Kokoomus,5
+2005,Kauhava,Suomen Keskusta,4
+2005,Kauhava,Perussuomalaiset,1
+2005,Kauhava,Suomen Sosialidemokraattinen Puolue,1
+2005,Uusikaupunki,Suomen Sosialidemokraattinen Puolue,1
+2005,Ylivieska,Suomen Sosialidemokraattinen Puolue,1
+2005,Ylivieska,Suomen Keskusta,2
+2005,Kuusamo,Suomen Keskusta,14
+2005,Kuusamo,Vasemmistoliitto,5
+2005,Kuusamo,Vihreä liitto,1
+2005,Kuusamo,Suomen Kristillisdemokraatit,2
+2005,Kuusamo,Kansallinen Kokoomus,3
+2005,Kuusamo,Suomen Sosialidemokraattinen Puolue,1
+2005,Parainen,Vihreä liitto,1
+2005,Loviisa,Kansallinen Kokoomus,1
+2005,Loviisa,Vasemmistoliitto,5
+2005,Loviisa,Suomen Keskusta,1
+2005,Loviisa,Suomen ruotsalainen kansanpuolue,1
+2005,Lapua,Kansallinen Kokoomus,4
+2005,Lapua,Perussuomalaiset,1
+2005,Lapua,Suomen Keskusta,1
+2005,Kauhajoki,Suomen Keskusta,5
+2005,Kauhajoki,Kansallinen Kokoomus,1
+2005,Kauhajoki,Suomen Kristillisdemokraatit,1
+2005,Kankaanpää,Suomen Keskusta,2
+2005,Kankaanpää,Suomen Kristillisdemokraatit,1
+2005,Ulvila,Suomen Keskusta,1
+2005,Kalajoki,Suomen Keskusta,1
+2005,Maarianhamina,Vihreä liitto,1
+2005,Paimio,Suomen Kristillisdemokraatit,1
+2005,Lieksa,Suomen Sosialidemokraattinen Puolue,3
+2005,Lieksa,Suomen Keskusta,3
+2005,Lieksa,Vihreä liitto,3
+2005,Nivala,Suomen Keskusta,1
+2005,Nivala,Suomen Kristillisdemokraatit,1
+2005,Kauniainen,Suomen Kristillisdemokraatit,1
+2005,Kauniainen,Suomen Sosialidemokraattinen Puolue,2
+2005,Kauniainen,Kansallinen Kokoomus,1
+2005,Kitee,Suomen Sosialidemokraattinen Puolue,2
+2005,Kitee,Vihreä liitto,1
+2005,Huittinen,Suomen Sosialidemokraattinen Puolue,1
+2005,Närpiö,Suomen Keskusta,1
+2005,Nurmes,Suomen Sosialidemokraattinen Puolue,5
+2005,Nurmes,Suomen Keskusta,1
+2005,Nurmes,Vihreä liitto,1
+2005,Keuruu,Suomen Keskusta,26
+2005,Keuruu,Suomen Kristillisdemokraatit,2
+2005,Keuruu,Vasemmistoliitto,1
+2005,Alajärvi,Suomen Keskusta,4
+2005,Alajärvi,Kansallinen Kokoomus,1
+2005,Saarijärvi,Suomen Kristillisdemokraatit,2
+2005,Saarijärvi,Suomen Keskusta,5
+2005,Orivesi,Suomen Keskusta,2
+2005,Orivesi,Vasemmistoliitto,1
+2005,Orivesi,Suomen Sosialidemokraattinen Puolue,1
+2005,Karkkila,Vasemmistoliitto,1
+2005,Karkkila,Vihreä liitto,1
+2005,Somero,Vasemmistoliitto,1
+2005,Hanko,Suomen Sosialidemokraattinen Puolue,6
+2005,Hanko,Suomen Keskusta,1
+2005,Hanko,Kansallinen Kokoomus,2
+2005,Hanko,Vihreä liitto,1
+2005,Hanko,Suomen ruotsalainen kansanpuolue,3
+2005,Kuhmo,Vasemmistoliitto,2
+2005,Kuhmo,Suomen Keskusta,3
+2005,Kuhmo,Suomen Sosialidemokraattinen Puolue,2
+2005,Kuhmo,Vihreä liitto,1
+2005,Kiuruvesi,Suomen Keskusta,2
+2005,Kiuruvesi,Kansallinen Kokoomus,1
+2005,Kemijärvi,Vasemmistoliitto,5
+2005,Kemijärvi,Suomen Keskusta,3
+2005,Kemijärvi,Kansallinen Kokoomus,2
+2005,Kemijärvi,Suomen Sosialidemokraattinen Puolue,2
+2005,Kemijärvi,Vihreä liitto,1
+2005,Kokemäki,Kansallinen Kokoomus,1
+2005,Kokemäki,Suomen Sosialidemokraattinen Puolue,1
+2005,Suonenjoki,Suomen Keskusta,2
+2005,Haapajärvi,Suomen Keskusta,1
+2005,Ikaalinen,Suomen Keskusta,2
+2005,Haapavesi,Vihreä liitto,3
+2005,Haapavesi,Suomen Sosialidemokraattinen Puolue,1
+2005,Haapavesi,Sininen tulevaisuus,1
+2005,Haapavesi,Vasemmistoliitto,1
+2005,Outokumpu,Suomen Keskusta,2
+2005,Virrat,Suomen Keskusta,1
+2005,Parkano,Suomen Keskusta,4
+2005,Viitasaari,Suomen Keskusta,3
+2005,Viitasaari,Suomen Kristillisdemokraatit,1
+2005,Ähtäri,Suomen Keskusta,8
+2005,Ähtäri,Suomen Sosialidemokraattinen Puolue,1
+2005,Ähtäri,Vihreä liitto,1
+2005,Kaskinen,Suomen Keskusta,1
+2005,Kaskinen,Kansallinen Kokoomus,1
+2013,Helsinki,Suomen Sosialidemokraattinen Puolue,77
+2013,Helsinki,Kansallinen Kokoomus,123
+2013,Helsinki,Perussuomalaiset,98
+2013,Helsinki,Vasemmistoliitto,37
+2013,Helsinki,Suomen Keskusta,90
+2013,Helsinki,Vihreä liitto,26
+2013,Helsinki,Suomen ruotsalainen kansanpuolue,8
+2013,Helsinki,Suomen Kristillisdemokraatit,8
+2013,Helsinki,Sininen tulevaisuus,8
+2013,Espoo,Suomen Sosialidemokraattinen Puolue,5
+2013,Espoo,Perussuomalaiset,13
+2013,Espoo,Sininen tulevaisuus,5
+2013,Espoo,Suomen Keskusta,8
+2013,Espoo,Kansallinen Kokoomus,14
+2013,Espoo,Vihreä liitto,5
+2013,Espoo,Suomen Kristillisdemokraatit,2
+2013,Espoo,Vasemmistoliitto,2
+2013,Tampere,Vihreä liitto,6
+2013,Tampere,Suomen Sosialidemokraattinen Puolue,12
+2013,Tampere,Kansallinen Kokoomus,31
+2013,Tampere,Suomen Keskusta,33
+2013,Tampere,Perussuomalaiset,19
+2013,Tampere,Vasemmistoliitto,6
+2013,Tampere,Suomen ruotsalainen kansanpuolue,1
+2013,Tampere,Sininen tulevaisuus,2
+2013,Vantaa,Perussuomalaiset,21
+2013,Vantaa,Suomen Sosialidemokraattinen Puolue,10
+2013,Vantaa,Sininen tulevaisuus,3
+2013,Vantaa,Suomen Keskusta,7
+2013,Vantaa,Vihreä liitto,3
+2013,Vantaa,Kansallinen Kokoomus,12
+2013,Vantaa,Suomen Kristillisdemokraatit,1
+2013,Oulu,Suomen Keskusta,35
+2013,Oulu,Perussuomalaiset,15
+2013,Oulu,Kansallinen Kokoomus,26
+2013,Oulu,Vasemmistoliitto,16
+2013,Oulu,Vihreä liitto,6
+2013,Oulu,Suomen Kristillisdemokraatit,2
+2013,Oulu,Suomen Sosialidemokraattinen Puolue,18
+2013,Turku,Suomen Sosialidemokraattinen Puolue,24
+2013,Turku,Suomen Keskusta,13
+2013,Turku,Vasemmistoliitto,17
+2013,Turku,Kansallinen Kokoomus,31
+2013,Turku,Vihreä liitto,6
+2013,Turku,Perussuomalaiset,24
+2013,Turku,Suomen ruotsalainen kansanpuolue,2
+2013,Turku,Sininen tulevaisuus,1
+2013,Turku,Suomen Kristillisdemokraatit,2
+2013,Jyväskylä,Suomen Sosialidemokraattinen Puolue,26
+2013,Jyväskylä,Kansallinen Kokoomus,19
+2013,Jyväskylä,Perussuomalaiset,10
+2013,Jyväskylä,Suomen Keskusta,57
+2013,Jyväskylä,Vasemmistoliitto,4
+2013,Jyväskylä,Suomen Kristillisdemokraatit,1
+2013,Jyväskylä,Sininen tulevaisuus,1
+2013,Jyväskylä,Vihreä liitto,1
+2013,Kuopio,Kansallinen Kokoomus,10
+2013,Kuopio,Perussuomalaiset,23
+2013,Kuopio,Suomen Keskusta,15
+2013,Kuopio,Suomen Sosialidemokraattinen Puolue,4
+2013,Kuopio,Vasemmistoliitto,3
+2013,Kuopio,Suomen Kristillisdemokraatit,1
+2013,Lahti,Suomen Sosialidemokraattinen Puolue,13
+2013,Lahti,Perussuomalaiset,7
+2013,Lahti,Kansallinen Kokoomus,3
+2013,Lahti,Suomen Keskusta,6
+2013,Lahti,Vasemmistoliitto,2
+2013,Pori,Suomen Keskusta,3
+2013,Pori,Perussuomalaiset,5
+2013,Pori,Kansallinen Kokoomus,5
+2013,Pori,Suomen Sosialidemokraattinen Puolue,2
+2013,Pori,Vasemmistoliitto,1
+2013,Kouvola,Suomen Kristillisdemokraatit,1
+2013,Kouvola,Perussuomalaiset,23
+2013,Kouvola,Kansallinen Kokoomus,4
+2013,Kouvola,Suomen Keskusta,2
+2013,Kouvola,Suomen Sosialidemokraattinen Puolue,5
+2013,Kouvola,Vasemmistoliitto,2
+2013,Joensuu,Suomen Keskusta,12
+2013,Joensuu,Kansallinen Kokoomus,8
+2013,Joensuu,Perussuomalaiset,2
+2013,Joensuu,Suomen Sosialidemokraattinen Puolue,12
+2013,Joensuu,Suomen Kristillisdemokraatit,1
+2013,Lappeenranta,Kansallinen Kokoomus,30
+2013,Lappeenranta,Suomen Keskusta,11
+2013,Lappeenranta,Suomen Sosialidemokraattinen Puolue,20
+2013,Lappeenranta,Perussuomalaiset,7
+2013,Lappeenranta,Vasemmistoliitto,2
+2013,Lappeenranta,Vihreä liitto,2
+2013,Hämeenlinna,Suomen Kristillisdemokraatit,1
+2013,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,4
+2013,Hämeenlinna,Perussuomalaiset,4
+2013,Hämeenlinna,Kansallinen Kokoomus,5
+2013,Hämeenlinna,Suomen Keskusta,6
+2013,Hämeenlinna,Suomen ruotsalainen kansanpuolue,1
+2013,Hämeenlinna,Vasemmistoliitto,1
+2013,Vaasa,Suomen Keskusta,7
+2013,Vaasa,Suomen Sosialidemokraattinen Puolue,16
+2013,Vaasa,Kansallinen Kokoomus,12
+2013,Vaasa,Perussuomalaiset,5
+2013,Vaasa,Suomen ruotsalainen kansanpuolue,3
+2013,Seinäjoki,Kansallinen Kokoomus,2
+2013,Seinäjoki,Suomen Keskusta,17
+2013,Seinäjoki,Suomen Sosialidemokraattinen Puolue,7
+2013,Seinäjoki,Perussuomalaiset,5
+2013,Seinäjoki,Suomen ruotsalainen kansanpuolue,1
+2013,Rovaniemi,Suomen Sosialidemokraattinen Puolue,10
+2013,Rovaniemi,Suomen Keskusta,22
+2013,Rovaniemi,Perussuomalaiset,8
+2013,Rovaniemi,Vasemmistoliitto,2
+2013,Rovaniemi,Kansallinen Kokoomus,13
+2013,Rovaniemi,Vihreä liitto,2
+2013,Mikkeli,Suomen Keskusta,13
+2013,Mikkeli,Suomen Sosialidemokraattinen Puolue,6
+2013,Mikkeli,Perussuomalaiset,1
+2013,Mikkeli,Kansallinen Kokoomus,8
+2013,Mikkeli,Vasemmistoliitto,1
+2013,Kotka,Perussuomalaiset,15
+2013,Kotka,Kansallinen Kokoomus,6
+2013,Kotka,Vasemmistoliitto,1
+2013,Kotka,Suomen Sosialidemokraattinen Puolue,3
+2013,Kotka,Vihreä liitto,1
+2013,Kotka,Suomen Keskusta,3
+2013,Salo,Kansallinen Kokoomus,3
+2013,Salo,Vasemmistoliitto,2
+2013,Salo,Suomen Sosialidemokraattinen Puolue,6
+2013,Salo,Perussuomalaiset,3
+2013,Salo,Suomen Keskusta,1
+2013,Porvoo,Suomen ruotsalainen kansanpuolue,3
+2013,Porvoo,Perussuomalaiset,6
+2013,Porvoo,Kansallinen Kokoomus,2
+2013,Porvoo,Suomen Keskusta,1
+2013,Kokkola,Suomen Keskusta,5
+2013,Kokkola,Perussuomalaiset,1
+2013,Kokkola,Vasemmistoliitto,1
+2013,Kokkola,Suomen Sosialidemokraattinen Puolue,1
+2013,Hyvinkää,Kansallinen Kokoomus,3
+2013,Hyvinkää,Suomen ruotsalainen kansanpuolue,2
+2013,Hyvinkää,Suomen Sosialidemokraattinen Puolue,2
+2013,Hyvinkää,Perussuomalaiset,1
+2013,Hyvinkää,Vasemmistoliitto,1
+2013,Lohja,Suomen Keskusta,1
+2013,Lohja,Suomen Kristillisdemokraatit,1
+2013,Lohja,Suomen ruotsalainen kansanpuolue,2
+2013,Järvenpää,Suomen Sosialidemokraattinen Puolue,2
+2013,Järvenpää,Suomen Keskusta,1
+2013,Rauma,Suomen Sosialidemokraattinen Puolue,14
+2013,Rauma,Sininen tulevaisuus,1
+2013,Rauma,Perussuomalaiset,9
+2013,Rauma,Vasemmistoliitto,1
+2013,Rauma,Vihreä liitto,1
+2013,Rauma,Suomen Kristillisdemokraatit,5
+2013,Rauma,Kansallinen Kokoomus,8
+2013,Rauma,Suomen Keskusta,4
+2013,Kerava,Kansallinen Kokoomus,2
+2013,Kerava,Suomen ruotsalainen kansanpuolue,3
+2013,Kerava,Vasemmistoliitto,1
+2013,Kajaani,Kansallinen Kokoomus,8
+2013,Kajaani,Perussuomalaiset,1
+2013,Kajaani,Suomen Keskusta,2
+2013,Kajaani,Suomen Sosialidemokraattinen Puolue,7
+2013,Kaarina,Perussuomalaiset,1
+2013,Kaarina,Suomen Keskusta,1
+2013,Nokia,Suomen Sosialidemokraattinen Puolue,16
+2013,Nokia,Kansallinen Kokoomus,13
+2013,Nokia,Perussuomalaiset,16
+2013,Nokia,Vasemmistoliitto,4
+2013,Nokia,Suomen Keskusta,11
+2013,Nokia,Suomen Kristillisdemokraatit,1
+2013,Nokia,Suomen ruotsalainen kansanpuolue,1
+2013,Nokia,Vihreä liitto,1
+2013,Nokia,Sininen tulevaisuus,1
+2013,Ylöjärvi,Suomen Keskusta,2
+2013,Ylöjärvi,Vasemmistoliitto,1
+2013,Savonlinna,Vasemmistoliitto,3
+2013,Savonlinna,Perussuomalaiset,8
+2013,Savonlinna,Suomen Keskusta,8
+2013,Savonlinna,Kansallinen Kokoomus,5
+2013,Savonlinna,Suomen Sosialidemokraattinen Puolue,4
+2013,Kangasala,Suomen Keskusta,1
+2013,Riihimäki,Kansallinen Kokoomus,8
+2013,Riihimäki,Vasemmistoliitto,5
+2013,Riihimäki,Perussuomalaiset,1
+2013,Raasepori,Perussuomalaiset,2
+2013,Raasepori,Suomen ruotsalainen kansanpuolue,2
+2013,Raasepori,Suomen Sosialidemokraattinen Puolue,1
+2013,Raasepori,Vasemmistoliitto,1
+2013,Raasepori,Suomen Kristillisdemokraatit,1
+2013,Imatra,Suomen Sosialidemokraattinen Puolue,10
+2013,Imatra,Suomen Keskusta,4
+2013,Imatra,Kansallinen Kokoomus,6
+2013,Imatra,Suomen Kristillisdemokraatit,3
+2013,Imatra,Perussuomalaiset,2
+2013,Imatra,Vasemmistoliitto,1
+2013,Raisio,Vasemmistoliitto,2
+2013,Raisio,Suomen Keskusta,2
+2013,Raahe,Perussuomalaiset,2
+2013,Raahe,Suomen Sosialidemokraattinen Puolue,4
+2013,Raahe,Vasemmistoliitto,2
+2013,Raahe,Suomen Keskusta,6
+2013,Raahe,Kansallinen Kokoomus,6
+2013,Raahe,Vihreä liitto,1
+2013,Sastamala,Suomen Keskusta,4
+2013,Sastamala,Kansallinen Kokoomus,10
+2013,Sastamala,Sininen tulevaisuus,1
+2013,Sastamala,Perussuomalaiset,1
+2013,Tornio,Suomen Keskusta,5
+2013,Tornio,Vasemmistoliitto,2
+2013,Tornio,Suomen Sosialidemokraattinen Puolue,1
+2013,Iisalmi,Kansallinen Kokoomus,5
+2013,Iisalmi,Suomen Keskusta,1
+2013,Iisalmi,Vasemmistoliitto,1
+2013,Iisalmi,Perussuomalaiset,1
+2013,Valkeakoski,Suomen Sosialidemokraattinen Puolue,1
+2013,Valkeakoski,Kansallinen Kokoomus,4
+2013,Valkeakoski,Suomen Keskusta,1
+2013,Kurikka,Perussuomalaiset,3
+2013,Kurikka,Suomen Keskusta,1
+2013,Kemi,Suomen Sosialidemokraattinen Puolue,5
+2013,Kemi,Perussuomalaiset,3
+2013,Kemi,Suomen Keskusta,8
+2013,Kemi,Vasemmistoliitto,4
+2013,Kemi,Kansallinen Kokoomus,7
+2013,Kemi,Vihreä liitto,1
+2013,Varkaus,Suomen Sosialidemokraattinen Puolue,2
+2013,Varkaus,Suomen Keskusta,3
+2013,Varkaus,Perussuomalaiset,7
+2013,Varkaus,Kansallinen Kokoomus,3
+2013,Jämsä,Suomen Sosialidemokraattinen Puolue,4
+2013,Jämsä,Suomen Keskusta,4
+2013,Jämsä,Kansallinen Kokoomus,3
+2013,Hamina,Suomen Keskusta,4
+2013,Hamina,Suomen Sosialidemokraattinen Puolue,5
+2013,Hamina,Kansallinen Kokoomus,9
+2013,Hamina,Perussuomalaiset,3
+2013,Hamina,Vasemmistoliitto,4
+2013,Hamina,Suomen ruotsalainen kansanpuolue,1
+2013,Naantali,Perussuomalaiset,2
+2013,Naantali,Suomen Keskusta,2
+2013,Pietarsaari,Suomen Keskusta,6
+2013,Pietarsaari,Kansallinen Kokoomus,5
+2013,Pietarsaari,Perussuomalaiset,1
+2013,Pietarsaari,Suomen Kristillisdemokraatit,1
+2013,Pietarsaari,Suomen Sosialidemokraattinen Puolue,2
+2013,Äänekoski,Suomen Keskusta,1
+2013,Heinola,Kansallinen Kokoomus,1
+2013,Pieksämäki,Suomen Sosialidemokraattinen Puolue,1
+2013,Forssa,Kansallinen Kokoomus,4
+2013,Forssa,Sininen tulevaisuus,1
+2013,Forssa,Suomen Keskusta,3
+2013,Forssa,Vasemmistoliitto,1
+2013,Forssa,Suomen Sosialidemokraattinen Puolue,1
+2013,Akaa,Kansallinen Kokoomus,1
+2013,Orimattila,Kansallinen Kokoomus,1
+2013,Loimaa,Kansallinen Kokoomus,1
+2013,Loimaa,Perussuomalaiset,2
+2013,Loimaa,Suomen Sosialidemokraattinen Puolue,1
+2013,Kauhava,Perussuomalaiset,1
+2013,Kauhava,Suomen Sosialidemokraattinen Puolue,1
+2013,Kauhava,Kansallinen Kokoomus,1
+2013,Kauhava,Suomen ruotsalainen kansanpuolue,1
+2013,Uusikaupunki,Perussuomalaiset,1
+2013,Ylivieska,Perussuomalaiset,1
+2013,Kuusamo,Suomen Sosialidemokraattinen Puolue,1
+2013,Kuusamo,Suomen Keskusta,2
+2013,Kuusamo,Kansallinen Kokoomus,1
+2013,Kuusamo,Vihreä liitto,1
+2013,Parainen,Perussuomalaiset,1
+2013,Parainen,Suomen Sosialidemokraattinen Puolue,1
+2013,Loviisa,Suomen Sosialidemokraattinen Puolue,1
+2013,Loviisa,Kansallinen Kokoomus,1
+2013,Loviisa,Vihreä liitto,1
+2013,Lapua,Perussuomalaiset,1
+2013,Kauhajoki,Perussuomalaiset,2
+2013,Kauhajoki,Suomen Sosialidemokraattinen Puolue,2
+2013,Kauhajoki,Suomen Keskusta,3
+2013,Kauhajoki,Kansallinen Kokoomus,1
+2013,Kankaanpää,Suomen Sosialidemokraattinen Puolue,1
+2013,Ulvila,Vasemmistoliitto,1
+2013,Ulvila,Suomen Keskusta,1
+2013,Alavus,Suomen Keskusta,1
+2013,Lieksa,Suomen Keskusta,1
+2013,Lieksa,Sininen tulevaisuus,1
+2013,Lieksa,Perussuomalaiset,1
+2013,Nivala,Vasemmistoliitto,1
+2013,Kauniainen,Vasemmistoliitto,1
+2013,Kauniainen,Kansallinen Kokoomus,3
+2013,Kauniainen,Sininen tulevaisuus,2
+2013,Kauniainen,Perussuomalaiset,2
+2013,Kauniainen,Suomen Keskusta,2
+2013,Kauniainen,Suomen Sosialidemokraattinen Puolue,1
+2013,Huittinen,Kansallinen Kokoomus,1
+2013,Mänttä-Vilppula,Kansallinen Kokoomus,3
+2013,Mänttä-Vilppula,Suomen Keskusta,4
+2013,Mänttä-Vilppula,Suomen Sosialidemokraattinen Puolue,1
+2013,Nurmes,Perussuomalaiset,1
+2013,Keuruu,Suomen Keskusta,5
+2013,Keuruu,Kansallinen Kokoomus,3
+2013,Keuruu,Suomen Sosialidemokraattinen Puolue,2
+2013,Alajärvi,Perussuomalaiset,1
+2013,Alajärvi,Kansallinen Kokoomus,1
+2013,Alajärvi,Suomen Keskusta,1
+2013,Saarijärvi,Suomen Sosialidemokraattinen Puolue,4
+2013,Saarijärvi,Suomen Keskusta,9
+2013,Saarijärvi,Perussuomalaiset,2
+2013,Orivesi,Suomen Sosialidemokraattinen Puolue,1
+2013,Karkkila,Kansallinen Kokoomus,1
+2013,Karkkila,Suomen Kristillisdemokraatit,1
+2013,Somero,Perussuomalaiset,3
+2013,Laitila,Perussuomalaiset,1
+2013,Laitila,Suomen Keskusta,1
+2013,Hanko,Perussuomalaiset,2
+2013,Hanko,Suomen Sosialidemokraattinen Puolue,2
+2013,Hanko,Suomen Keskusta,2
+2013,Hanko,Vihreä liitto,1
+2013,Hanko,Kansallinen Kokoomus,1
+2013,Kuhmo,Suomen Sosialidemokraattinen Puolue,1
+2013,Kuhmo,Perussuomalaiset,1
+2013,Kiuruvesi,Perussuomalaiset,1
+2013,Kiuruvesi,Vasemmistoliitto,3
+2013,Pudasjärvi,Suomen Keskusta,1
+2013,Uusikaarlepyy,Kansallinen Kokoomus,1
+2013,Uusikaarlepyy,Suomen Keskusta,1
+2013,Kemijärvi,Vasemmistoliitto,6
+2013,Kemijärvi,Suomen Keskusta,6
+2013,Kemijärvi,Perussuomalaiset,2
+2013,Kemijärvi,Suomen Sosialidemokraattinen Puolue,3
+2013,Oulainen,Vasemmistoliitto,1
+2013,Kokemäki,Kansallinen Kokoomus,2
+2013,Kokemäki,Vasemmistoliitto,1
+2013,Suonenjoki,Suomen Keskusta,3
+2013,Suonenjoki,Kansallinen Kokoomus,1
+2013,Haapajärvi,Suomen Keskusta,1
+2013,Harjavalta,Vasemmistoliitto,1
+2013,Outokumpu,Kansallinen Kokoomus,2
+2013,Outokumpu,Suomen Keskusta,2
+2013,Outokumpu,Perussuomalaiset,1
+2013,Outokumpu,Suomen Sosialidemokraattinen Puolue,1
+2013,Virrat,Suomen Keskusta,4
+2013,Virrat,Perussuomalaiset,1
+2013,Virrat,Suomen Sosialidemokraattinen Puolue,1
+2013,Kristiinankaupunki,Kansallinen Kokoomus,1
+2013,Parkano,Perussuomalaiset,3
+2013,Viitasaari,Suomen Keskusta,2
+2013,Viitasaari,Perussuomalaiset,5
+2013,Ähtäri,Suomen Keskusta,6
+2013,Ähtäri,Suomen Sosialidemokraattinen Puolue,2
+2013,Kannus,Vasemmistoliitto,1
+2013,Pyhäjärvi,Perussuomalaiset,2
+2013,Pyhäjärvi,Vasemmistoliitto,1
+2013,Pyhäjärvi,Suomen Sosialidemokraattinen Puolue,1
+2013,Kaskinen,Suomen Keskusta,4
+2013,Kaskinen,Suomen Sosialidemokraattinen Puolue,2
+2010,Helsinki,Suomen Keskusta,107
+2010,Helsinki,Suomen ruotsalainen kansanpuolue,14
+2010,Helsinki,Suomen Sosialidemokraattinen Puolue,117
+2010,Helsinki,Vasemmistoliitto,75
+2010,Helsinki,Vihreä liitto,43
+2010,Helsinki,Kansallinen Kokoomus,146
+2010,Helsinki,Suomen Kristillisdemokraatit,22
+2010,Helsinki,Suomen Kansan Demokraattinen Liitto,8
+2010,Helsinki,Perussuomalaiset,11
+2010,Espoo,Kansallinen Kokoomus,16
+2010,Espoo,Vasemmistoliitto,8
+2010,Espoo,Suomen Sosialidemokraattinen Puolue,7
+2010,Espoo,Vihreä liitto,6
+2010,Espoo,Perussuomalaiset,3
+2010,Espoo,Suomen Kristillisdemokraatit,3
+2010,Espoo,Suomen Keskusta,2
+2010,Tampere,Kansallinen Kokoomus,32
+2010,Tampere,Suomen Sosialidemokraattinen Puolue,28
+2010,Tampere,Vasemmistoliitto,13
+2010,Tampere,Perussuomalaiset,2
+2010,Tampere,Suomen Keskusta,30
+2010,Tampere,Suomen Kristillisdemokraatit,7
+2010,Tampere,Suomen Kansan Demokraattinen Liitto,5
+2010,Tampere,Vihreä liitto,3
+2010,Vantaa,Suomen Sosialidemokraattinen Puolue,6
+2010,Vantaa,Kansallinen Kokoomus,13
+2010,Vantaa,Vasemmistoliitto,5
+2010,Vantaa,Vihreä liitto,6
+2010,Vantaa,Suomen Keskusta,7
+2010,Vantaa,Suomen Kristillisdemokraatit,2
+2010,Vantaa,Suomen ruotsalainen kansanpuolue,1
+2010,Vantaa,Perussuomalaiset,1
+2010,Oulu,Kansallinen Kokoomus,33
+2010,Oulu,Vihreä liitto,57
+2010,Oulu,Suomen Sosialidemokraattinen Puolue,39
+2010,Oulu,Suomen Keskusta,43
+2010,Oulu,Suomen Kristillisdemokraatit,24
+2010,Oulu,Vasemmistoliitto,23
+2010,Turku,Suomen Sosialidemokraattinen Puolue,14
+2010,Turku,Suomen Keskusta,24
+2010,Turku,Kansallinen Kokoomus,34
+2010,Turku,Vihreä liitto,10
+2010,Turku,Vasemmistoliitto,22
+2010,Turku,Suomen Kristillisdemokraatit,4
+2010,Turku,Suomen ruotsalainen kansanpuolue,2
+2010,Jyväskylä,Kansallinen Kokoomus,6
+2010,Jyväskylä,Suomen Sosialidemokraattinen Puolue,13
+2010,Jyväskylä,Suomen Kristillisdemokraatit,6
+2010,Jyväskylä,Suomen Keskusta,16
+2010,Jyväskylä,Vasemmistoliitto,4
+2010,Jyväskylä,Vihreä liitto,1
+2010,Kuopio,Perussuomalaiset,2
+2010,Kuopio,Kansallinen Kokoomus,13
+2010,Kuopio,Suomen Keskusta,12
+2010,Kuopio,Vihreä liitto,1
+2010,Kuopio,Suomen Sosialidemokraattinen Puolue,8
+2010,Kuopio,Suomen ruotsalainen kansanpuolue,3
+2010,Kuopio,Vasemmistoliitto,4
+2010,Lahti,Kansallinen Kokoomus,24
+2010,Lahti,Vihreä liitto,4
+2010,Lahti,Vasemmistoliitto,4
+2010,Lahti,Suomen Sosialidemokraattinen Puolue,13
+2010,Lahti,Suomen Keskusta,7
+2010,Lahti,Suomen ruotsalainen kansanpuolue,2
+2010,Lahti,Perussuomalaiset,1
+2010,Lahti,Suomen Kristillisdemokraatit,1
+2010,Pori,Vasemmistoliitto,5
+2010,Pori,Suomen Keskusta,15
+2010,Pori,Kansallinen Kokoomus,6
+2010,Pori,Suomen Sosialidemokraattinen Puolue,13
+2010,Pori,Suomen Kristillisdemokraatit,1
+2010,Pori,Vihreä liitto,1
+2010,Kouvola,Suomen Keskusta,9
+2010,Kouvola,Vasemmistoliitto,13
+2010,Kouvola,Kansallinen Kokoomus,4
+2010,Kouvola,Suomen Sosialidemokraattinen Puolue,5
+2010,Kouvola,Suomen Kristillisdemokraatit,1
+2010,Joensuu,Suomen Sosialidemokraattinen Puolue,14
+2010,Joensuu,Suomen Keskusta,11
+2010,Joensuu,Vihreä liitto,4
+2010,Joensuu,Kansallinen Kokoomus,3
+2010,Joensuu,Vasemmistoliitto,5
+2010,Joensuu,Perussuomalaiset,1
+2010,Joensuu,Suomen Kristillisdemokraatit,1
+2010,Lappeenranta,Suomen Sosialidemokraattinen Puolue,7
+2010,Lappeenranta,Suomen Keskusta,7
+2010,Lappeenranta,Vasemmistoliitto,2
+2010,Lappeenranta,Kansallinen Kokoomus,2
+2010,Lappeenranta,Vihreä liitto,3
+2010,Hämeenlinna,Suomen Keskusta,2
+2010,Hämeenlinna,Kansallinen Kokoomus,6
+2010,Hämeenlinna,Vihreä liitto,2
+2010,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,4
+2010,Hämeenlinna,Vasemmistoliitto,1
+2010,Vaasa,Suomen Keskusta,12
+2010,Vaasa,Suomen Kristillisdemokraatit,4
+2010,Vaasa,Suomen Sosialidemokraattinen Puolue,13
+2010,Vaasa,Suomen ruotsalainen kansanpuolue,7
+2010,Vaasa,Kansallinen Kokoomus,4
+2010,Vaasa,Vihreä liitto,2
+2010,Vaasa,Perussuomalaiset,1
+2010,Seinäjoki,Suomen Keskusta,15
+2010,Seinäjoki,Suomen Kristillisdemokraatit,2
+2010,Seinäjoki,Perussuomalaiset,1
+2010,Seinäjoki,Kansallinen Kokoomus,1
+2010,Seinäjoki,Vihreä liitto,1
+2010,Seinäjoki,Vasemmistoliitto,1
+2010,Rovaniemi,Vasemmistoliitto,22
+2010,Rovaniemi,Kansallinen Kokoomus,7
+2010,Rovaniemi,Suomen Keskusta,13
+2010,Rovaniemi,Suomen Sosialidemokraattinen Puolue,15
+2010,Rovaniemi,Vihreä liitto,3
+2010,Rovaniemi,Suomen ruotsalainen kansanpuolue,2
+2010,Rovaniemi,Perussuomalaiset,2
+2010,Rovaniemi,Suomen Kristillisdemokraatit,1
+2010,Mikkeli,Kansallinen Kokoomus,6
+2010,Mikkeli,Suomen Keskusta,4
+2010,Mikkeli,Suomen Sosialidemokraattinen Puolue,5
+2010,Mikkeli,Vihreä liitto,1
+2010,Mikkeli,Vasemmistoliitto,2
+2010,Mikkeli,Suomen Kristillisdemokraatit,1
+2010,Kotka,Suomen Kristillisdemokraatit,1
+2010,Kotka,Suomen Sosialidemokraattinen Puolue,5
+2010,Kotka,Vasemmistoliitto,28
+2010,Kotka,Kansallinen Kokoomus,5
+2010,Kotka,Suomen Keskusta,6
+2010,Salo,Suomen Keskusta,4
+2010,Salo,Vasemmistoliitto,2
+2010,Salo,Suomen Sosialidemokraattinen Puolue,4
+2010,Salo,Perussuomalaiset,1
+2010,Salo,Kansallinen Kokoomus,4
+2010,Salo,Suomen ruotsalainen kansanpuolue,1
+2010,Porvoo,Kansallinen Kokoomus,6
+2010,Porvoo,Perussuomalaiset,3
+2010,Porvoo,Vasemmistoliitto,3
+2010,Porvoo,Suomen Keskusta,3
+2010,Porvoo,Suomen Sosialidemokraattinen Puolue,1
+2010,Porvoo,Suomen ruotsalainen kansanpuolue,1
+2010,Kokkola,Kansallinen Kokoomus,3
+2010,Kokkola,Suomen ruotsalainen kansanpuolue,2
+2010,Kokkola,Vihreä liitto,1
+2010,Kokkola,Suomen Sosialidemokraattinen Puolue,4
+2010,Kokkola,Suomen Keskusta,1
+2010,Kokkola,Suomen Kristillisdemokraatit,2
+2010,Kokkola,Vasemmistoliitto,1
+2010,Hyvinkää,Suomen Sosialidemokraattinen Puolue,2
+2010,Lohja,Suomen Sosialidemokraattinen Puolue,3
+2010,Lohja,Suomen Kristillisdemokraatit,1
+2010,Lohja,Kansallinen Kokoomus,1
+2010,Järvenpää,Suomen Sosialidemokraattinen Puolue,4
+2010,Järvenpää,Suomen Keskusta,5
+2010,Järvenpää,Suomen Kristillisdemokraatit,1
+2010,Järvenpää,Kansallinen Kokoomus,1
+2010,Järvenpää,Vasemmistoliitto,2
+2010,Järvenpää,Perussuomalaiset,1
+2010,Rauma,Suomen Keskusta,6
+2010,Rauma,Vasemmistoliitto,2
+2010,Rauma,Suomen Sosialidemokraattinen Puolue,3
+2010,Rauma,Kansallinen Kokoomus,2
+2010,Rauma,Vihreä liitto,1
+2010,Kerava,Suomen Sosialidemokraattinen Puolue,4
+2010,Kerava,Kansallinen Kokoomus,5
+2010,Kerava,Vihreä liitto,1
+2010,Kerava,Suomen Keskusta,1
+2010,Kajaani,Suomen Keskusta,25
+2010,Kajaani,Vihreä liitto,3
+2010,Kajaani,Vasemmistoliitto,14
+2010,Kajaani,Suomen Sosialidemokraattinen Puolue,35
+2010,Kajaani,Kansallinen Kokoomus,9
+2010,Kajaani,Suomen Kansan Demokraattinen Liitto,1
+2010,Kajaani,Suomen Kristillisdemokraatit,1
+2010,Kaarina,Vihreä liitto,1
+2010,Nokia,Suomen Kristillisdemokraatit,2
+2010,Nokia,Suomen Sosialidemokraattinen Puolue,9
+2010,Nokia,Perussuomalaiset,3
+2010,Nokia,Kansallinen Kokoomus,9
+2010,Nokia,Vasemmistoliitto,9
+2010,Nokia,Suomen Keskusta,14
+2010,Nokia,Suomen ruotsalainen kansanpuolue,2
+2010,Nokia,Vihreä liitto,3
+2010,Nokia,Suomen Kansan Demokraattinen Liitto,1
+2010,Ylöjärvi,Suomen Keskusta,3
+2010,Ylöjärvi,Suomen Sosialidemokraattinen Puolue,1
+2010,Savonlinna,Suomen Keskusta,15
+2010,Savonlinna,Kansallinen Kokoomus,5
+2010,Savonlinna,Vasemmistoliitto,5
+2010,Savonlinna,Suomen Sosialidemokraattinen Puolue,5
+2010,Savonlinna,Vihreä liitto,5
+2010,Savonlinna,Perussuomalaiset,1
+2010,Kangasala,Kansallinen Kokoomus,1
+2010,Riihimäki,Kansallinen Kokoomus,2
+2010,Riihimäki,Suomen Kristillisdemokraatit,2
+2010,Riihimäki,Suomen Keskusta,1
+2010,Riihimäki,Suomen Sosialidemokraattinen Puolue,1
+2010,Raasepori,Suomen Keskusta,1
+2010,Imatra,Suomen Sosialidemokraattinen Puolue,3
+2010,Imatra,Kansallinen Kokoomus,5
+2010,Imatra,Vasemmistoliitto,1
+2010,Raisio,Suomen Keskusta,1
+2010,Raisio,Kansallinen Kokoomus,1
+2010,Raisio,Perussuomalaiset,1
+2010,Raahe,Suomen Keskusta,2
+2010,Raahe,Vasemmistoliitto,2
+2010,Sastamala,Suomen Keskusta,1
+2010,Sastamala,Vihreä liitto,2
+2010,Sastamala,Kansallinen Kokoomus,9
+2010,Sastamala,Suomen Sosialidemokraattinen Puolue,1
+2010,Tornio,Vasemmistoliitto,6
+2010,Tornio,Suomen Sosialidemokraattinen Puolue,3
+2010,Tornio,Suomen Keskusta,5
+2010,Tornio,Suomen Kristillisdemokraatit,4
+2010,Iisalmi,Suomen Keskusta,2
+2010,Iisalmi,Suomen Sosialidemokraattinen Puolue,1
+2010,Valkeakoski,Suomen Kansan Demokraattinen Liitto,1
+2010,Kurikka,Suomen Keskusta,10
+2010,Kemi,Suomen Keskusta,9
+2010,Kemi,Vasemmistoliitto,15
+2010,Kemi,Kansallinen Kokoomus,1
+2010,Kemi,Suomen Sosialidemokraattinen Puolue,5
+2010,Kemi,Perussuomalaiset,2
+2010,Kemi,Suomen Kristillisdemokraatit,1
+2010,Kemi,Vihreä liitto,1
+2010,Varkaus,Suomen Keskusta,16
+2010,Varkaus,Suomen Kansan Demokraattinen Liitto,1
+2010,Varkaus,Kansallinen Kokoomus,4
+2010,Varkaus,Suomen Sosialidemokraattinen Puolue,14
+2010,Varkaus,Vasemmistoliitto,6
+2010,Varkaus,Vihreä liitto,8
+2010,Varkaus,Perussuomalaiset,1
+2010,Jämsä,Suomen Keskusta,5
+2010,Jämsä,Suomen Kristillisdemokraatit,3
+2010,Jämsä,Vasemmistoliitto,2
+2010,Jämsä,Kansallinen Kokoomus,1
+2010,Jämsä,Suomen Sosialidemokraattinen Puolue,2
+2010,Hamina,Suomen Keskusta,7
+2010,Hamina,Vasemmistoliitto,7
+2010,Hamina,Suomen Sosialidemokraattinen Puolue,3
+2010,Hamina,Suomen Kristillisdemokraatit,2
+2010,Hamina,Kansallinen Kokoomus,1
+2010,Naantali,Kansallinen Kokoomus,1
+2010,Pietarsaari,Suomen ruotsalainen kansanpuolue,2
+2010,Pietarsaari,Suomen Sosialidemokraattinen Puolue,1
+2010,Pietarsaari,Kansallinen Kokoomus,1
+2010,Äänekoski,Vasemmistoliitto,2
+2010,Äänekoski,Suomen Kristillisdemokraatit,2
+2010,Äänekoski,Suomen Keskusta,4
+2010,Äänekoski,Suomen Sosialidemokraattinen Puolue,1
+2010,Heinola,Kansallinen Kokoomus,27
+2010,Heinola,Suomen Sosialidemokraattinen Puolue,31
+2010,Heinola,Perussuomalaiset,10
+2010,Heinola,Suomen Keskusta,15
+2010,Heinola,Suomen Kristillisdemokraatit,12
+2010,Heinola,Vasemmistoliitto,13
+2010,Heinola,Vihreä liitto,4
+2010,Heinola,Suomen ruotsalainen kansanpuolue,1
+2010,Pieksämäki,Suomen Keskusta,3
+2010,Pieksämäki,Suomen Sosialidemokraattinen Puolue,1
+2010,Pieksämäki,Vihreä liitto,1
+2010,Forssa,Suomen Keskusta,2
+2010,Orimattila,Kansallinen Kokoomus,3
+2010,Orimattila,Vihreä liitto,1
+2010,Loimaa,Kansallinen Kokoomus,2
+2010,Loimaa,Suomen Keskusta,1
+2010,Kauhava,Vasemmistoliitto,3
+2010,Kauhava,Suomen Keskusta,1
+2010,Kauhava,Kansallinen Kokoomus,1
+2010,Uusikaupunki,Suomen Sosialidemokraattinen Puolue,1
+2010,Ylivieska,Suomen Keskusta,1
+2010,Ylivieska,Suomen Sosialidemokraattinen Puolue,1
+2010,Kuusamo,Suomen Sosialidemokraattinen Puolue,1
+2010,Kuusamo,Suomen Keskusta,4
+2010,Kuusamo,Kansallinen Kokoomus,2
+2010,Kuusamo,Vasemmistoliitto,2
+2010,Loviisa,Suomen Keskusta,7
+2010,Loviisa,Vasemmistoliitto,8
+2010,Loviisa,Suomen Sosialidemokraattinen Puolue,5
+2010,Loviisa,Kansallinen Kokoomus,4
+2010,Loviisa,Suomen Kristillisdemokraatit,1
+2010,Kauhajoki,Vasemmistoliitto,4
+2010,Kauhajoki,Suomen Keskusta,4
+2010,Kauhajoki,Kansallinen Kokoomus,3
+2010,Kauhajoki,Suomen Sosialidemokraattinen Puolue,4
+2010,Kauhajoki,Suomen Kristillisdemokraatit,2
+2010,Kauhajoki,Perussuomalaiset,2
+2010,Kauhajoki,Suomen ruotsalainen kansanpuolue,1
+2010,Ulvila,Suomen Sosialidemokraattinen Puolue,1
+2010,Lieksa,Suomen Sosialidemokraattinen Puolue,6
+2010,Nivala,Kansallinen Kokoomus,1
+2010,Kauniainen,Suomen Kristillisdemokraatit,1
+2010,Kauniainen,Perussuomalaiset,3
+2010,Kauniainen,Suomen Sosialidemokraattinen Puolue,4
+2010,Kauniainen,Kansallinen Kokoomus,2
+2010,Kauniainen,Vasemmistoliitto,3
+2010,Kitee,Suomen Sosialidemokraattinen Puolue,4
+2010,Kitee,Suomen Keskusta,1
+2010,Huittinen,Suomen Sosialidemokraattinen Puolue,1
+2010,Huittinen,Suomen Keskusta,2
+2010,Mänttä-Vilppula,Suomen Keskusta,1
+2010,Närpiö,Suomen ruotsalainen kansanpuolue,2
+2010,Nurmes,Suomen Sosialidemokraattinen Puolue,1
+2010,Keuruu,Suomen Keskusta,28
+2010,Keuruu,Kansallinen Kokoomus,2
+2010,Keuruu,Suomen Kristillisdemokraatit,2
+2010,Alajärvi,Suomen Keskusta,1
+2010,Saarijärvi,Suomen Keskusta,3
+2010,Saarijärvi,Suomen Kristillisdemokraatit,2
+2010,Saarijärvi,Vihreä liitto,1
+2010,Orivesi,Suomen Keskusta,1
+2010,Orivesi,Suomen Kristillisdemokraatit,1
+2010,Orivesi,Suomen Sosialidemokraattinen Puolue,1
+2010,Karkkila,Kansallinen Kokoomus,3
+2010,Karkkila,Perussuomalaiset,2
+2010,Karkkila,Vihreä liitto,1
+2010,Karkkila,Suomen Sosialidemokraattinen Puolue,1
+2010,Somero,Suomen Keskusta,5
+2010,Somero,Suomen Kristillisdemokraatit,1
+2010,Hanko,Suomen Sosialidemokraattinen Puolue,8
+2010,Hanko,Suomen Keskusta,8
+2010,Hanko,Suomen ruotsalainen kansanpuolue,2
+2010,Hanko,Kansallinen Kokoomus,1
+2010,Kuhmo,Vihreä liitto,1
+2010,Kuhmo,Suomen Keskusta,3
+2010,Kuhmo,Suomen Kristillisdemokraatit,1
+2010,Kuhmo,Suomen Sosialidemokraattinen Puolue,1
+2010,Kiuruvesi,Vasemmistoliitto,1
+2010,Pudasjärvi,Vihreä liitto,2
+2010,Pudasjärvi,Suomen ruotsalainen kansanpuolue,2
+2010,Pudasjärvi,Suomen Keskusta,4
+2010,Pudasjärvi,Suomen Kristillisdemokraatit,1
+2010,Pudasjärvi,Suomen Sosialidemokraattinen Puolue,1
+2010,Kemijärvi,Suomen Keskusta,5
+2010,Kemijärvi,Vasemmistoliitto,7
+2010,Kemijärvi,Suomen Kansan Demokraattinen Liitto,1
+2010,Kemijärvi,Suomen Sosialidemokraattinen Puolue,3
+2010,Kemijärvi,Kansallinen Kokoomus,4
+2010,Kokemäki,Kansallinen Kokoomus,1
+2010,Kokemäki,Suomen Keskusta,3
+2010,Kokemäki,Suomen Sosialidemokraattinen Puolue,1
+2010,Suonenjoki,Suomen Keskusta,1
+2010,Haapajärvi,Suomen Keskusta,1
+2010,Ikaalinen,Kansallinen Kokoomus,1
+2010,Haapavesi,Suomen Keskusta,1
+2010,Outokumpu,Vasemmistoliitto,9
+2010,Outokumpu,Kansallinen Kokoomus,7
+2010,Outokumpu,Suomen Keskusta,6
+2010,Outokumpu,Suomen Kristillisdemokraatit,4
+2010,Outokumpu,Suomen Sosialidemokraattinen Puolue,2
+2010,Outokumpu,Vihreä liitto,1
+2010,Kristiinankaupunki,Kansallinen Kokoomus,3
+2010,Kristiinankaupunki,Suomen Sosialidemokraattinen Puolue,1
+2010,Parkano,Suomen Keskusta,4
+2010,Viitasaari,Suomen Keskusta,2
+2010,Ähtäri,Suomen Keskusta,3
+2010,Pyhäjärvi,Suomen Keskusta,3
+2010,Pyhäjärvi,Vasemmistoliitto,2
+2010,Pyhäjärvi,Kansallinen Kokoomus,1
+2010,Pyhäjärvi,Suomen Sosialidemokraattinen Puolue,2
+2010,Pyhäjärvi,Suomen ruotsalainen kansanpuolue,1
+2010,Kaskinen,Suomen Kansan Demokraattinen Liitto,1
+2010,Kaskinen,Kansallinen Kokoomus,1
+2010,Kaskinen,Suomen Sosialidemokraattinen Puolue,2
+2008,Helsinki,Kansallinen Kokoomus,136
+2008,Helsinki,Suomen Sosialidemokraattinen Puolue,104
+2008,Helsinki,Vihreä liitto,48
+2008,Helsinki,Vasemmistoliitto,86
+2008,Helsinki,Sininen tulevaisuus,4
+2008,Helsinki,Suomen Kansan Demokraattinen Liitto,10
+2008,Helsinki,Suomen Keskusta,65
+2008,Helsinki,Suomen Kristillisdemokraatit,18
+2008,Helsinki,Suomen ruotsalainen kansanpuolue,10
+2008,Helsinki,Perussuomalaiset,4
+2008,Espoo,Kansallinen Kokoomus,38
+2008,Espoo,Suomen Sosialidemokraattinen Puolue,13
+2008,Espoo,Suomen Keskusta,8
+2008,Espoo,Suomen Kristillisdemokraatit,5
+2008,Espoo,Vasemmistoliitto,12
+2008,Espoo,Suomen ruotsalainen kansanpuolue,3
+2008,Espoo,Sininen tulevaisuus,5
+2008,Espoo,Vihreä liitto,3
+2008,Espoo,Suomen Kansan Demokraattinen Liitto,1
+2008,Tampere,Vasemmistoliitto,11
+2008,Tampere,Kansallinen Kokoomus,30
+2008,Tampere,Suomen Kristillisdemokraatit,8
+2008,Tampere,Suomen Sosialidemokraattinen Puolue,25
+2008,Tampere,Suomen Keskusta,34
+2008,Tampere,Suomen ruotsalainen kansanpuolue,1
+2008,Tampere,Vihreä liitto,4
+2008,Tampere,Suomen Kansan Demokraattinen Liitto,3
+2008,Vantaa,Suomen Kristillisdemokraatit,1
+2008,Vantaa,Suomen ruotsalainen kansanpuolue,2
+2008,Vantaa,Vasemmistoliitto,3
+2008,Vantaa,Suomen Sosialidemokraattinen Puolue,9
+2008,Vantaa,Vihreä liitto,3
+2008,Vantaa,Suomen Keskusta,6
+2008,Vantaa,Kansallinen Kokoomus,22
+2008,Vantaa,Suomen Kansan Demokraattinen Liitto,1
+2008,Oulu,Kansallinen Kokoomus,40
+2008,Oulu,Suomen Kristillisdemokraatit,14
+2008,Oulu,Suomen Sosialidemokraattinen Puolue,22
+2008,Oulu,Vihreä liitto,40
+2008,Oulu,Vasemmistoliitto,12
+2008,Oulu,Suomen Keskusta,28
+2008,Oulu,Suomen ruotsalainen kansanpuolue,1
+2008,Turku,Suomen Sosialidemokraattinen Puolue,21
+2008,Turku,Suomen Keskusta,8
+2008,Turku,Kansallinen Kokoomus,31
+2008,Turku,Vihreä liitto,3
+2008,Turku,Suomen Kristillisdemokraatit,5
+2008,Turku,Suomen Kansan Demokraattinen Liitto,3
+2008,Turku,Vasemmistoliitto,16
+2008,Turku,Suomen ruotsalainen kansanpuolue,1
+2008,Jyväskylä,Kansallinen Kokoomus,6
+2008,Jyväskylä,Suomen Kristillisdemokraatit,7
+2008,Jyväskylä,Suomen Keskusta,17
+2008,Jyväskylä,Suomen Sosialidemokraattinen Puolue,14
+2008,Jyväskylä,Vasemmistoliitto,10
+2008,Jyväskylä,Vihreä liitto,2
+2008,Jyväskylä,Suomen ruotsalainen kansanpuolue,3
+2008,Kuopio,Suomen Keskusta,35
+2008,Kuopio,Kansallinen Kokoomus,10
+2008,Kuopio,Vihreä liitto,4
+2008,Kuopio,Suomen ruotsalainen kansanpuolue,2
+2008,Kuopio,Suomen Sosialidemokraattinen Puolue,12
+2008,Kuopio,Vasemmistoliitto,24
+2008,Kuopio,Suomen Kristillisdemokraatit,3
+2008,Kuopio,Perussuomalaiset,1
+2008,Lahti,Kansallinen Kokoomus,16
+2008,Lahti,Suomen Sosialidemokraattinen Puolue,8
+2008,Lahti,Suomen Kristillisdemokraatit,4
+2008,Lahti,Vasemmistoliitto,9
+2008,Lahti,Vihreä liitto,3
+2008,Lahti,Suomen Keskusta,5
+2008,Lahti,Sininen tulevaisuus,1
+2008,Pori,Kansallinen Kokoomus,7
+2008,Pori,Vasemmistoliitto,3
+2008,Pori,Suomen Keskusta,14
+2008,Pori,Suomen Sosialidemokraattinen Puolue,6
+2008,Pori,Vihreä liitto,3
+2008,Pori,Suomen Kristillisdemokraatit,3
+2008,Kouvola,Vasemmistoliitto,10
+2008,Kouvola,Kansallinen Kokoomus,8
+2008,Kouvola,Vihreä liitto,1
+2008,Kouvola,Suomen Sosialidemokraattinen Puolue,3
+2008,Kouvola,Suomen Keskusta,6
+2008,Kouvola,Suomen Kristillisdemokraatit,2
+2008,Joensuu,Suomen Keskusta,10
+2008,Joensuu,Suomen Sosialidemokraattinen Puolue,12
+2008,Joensuu,Kansallinen Kokoomus,8
+2008,Joensuu,Vasemmistoliitto,4
+2008,Joensuu,Vihreä liitto,1
+2008,Lappeenranta,Suomen Keskusta,3
+2008,Lappeenranta,Kansallinen Kokoomus,7
+2008,Lappeenranta,Suomen Sosialidemokraattinen Puolue,9
+2008,Lappeenranta,Suomen Kristillisdemokraatit,1
+2008,Lappeenranta,Vasemmistoliitto,4
+2008,Hämeenlinna,Vihreä liitto,2
+2008,Hämeenlinna,Suomen Keskusta,2
+2008,Hämeenlinna,Kansallinen Kokoomus,6
+2008,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,5
+2008,Hämeenlinna,Vasemmistoliitto,2
+2008,Vaasa,Suomen Keskusta,15
+2008,Vaasa,Kansallinen Kokoomus,5
+2008,Vaasa,Suomen ruotsalainen kansanpuolue,10
+2008,Vaasa,Suomen Kristillisdemokraatit,2
+2008,Vaasa,Vihreä liitto,1
+2008,Vaasa,Vasemmistoliitto,1
+2008,Vaasa,Perussuomalaiset,1
+2008,Vaasa,Suomen Sosialidemokraattinen Puolue,1
+2008,Seinäjoki,Vihreä liitto,2
+2008,Seinäjoki,Suomen Keskusta,14
+2008,Seinäjoki,Kansallinen Kokoomus,5
+2008,Seinäjoki,Suomen ruotsalainen kansanpuolue,5
+2008,Seinäjoki,Perussuomalaiset,1
+2008,Rovaniemi,Vasemmistoliitto,9
+2008,Rovaniemi,Suomen Sosialidemokraattinen Puolue,16
+2008,Rovaniemi,Kansallinen Kokoomus,5
+2008,Rovaniemi,Suomen Keskusta,10
+2008,Rovaniemi,Suomen Kristillisdemokraatit,3
+2008,Rovaniemi,Vihreä liitto,6
+2008,Mikkeli,Kansallinen Kokoomus,6
+2008,Mikkeli,Vihreä liitto,2
+2008,Mikkeli,Suomen Keskusta,6
+2008,Mikkeli,Vasemmistoliitto,1
+2008,Mikkeli,Suomen Sosialidemokraattinen Puolue,6
+2008,Kotka,Vasemmistoliitto,37
+2008,Kotka,Suomen Sosialidemokraattinen Puolue,12
+2008,Kotka,Suomen Keskusta,10
+2008,Kotka,Kansallinen Kokoomus,6
+2008,Kotka,Suomen ruotsalainen kansanpuolue,1
+2008,Salo,Vasemmistoliitto,3
+2008,Salo,Vihreä liitto,1
+2008,Salo,Kansallinen Kokoomus,4
+2008,Salo,Suomen Keskusta,2
+2008,Salo,Suomen Sosialidemokraattinen Puolue,1
+2008,Porvoo,Suomen ruotsalainen kansanpuolue,2
+2008,Porvoo,Perussuomalaiset,2
+2008,Porvoo,Kansallinen Kokoomus,3
+2008,Porvoo,Suomen Sosialidemokraattinen Puolue,1
+2008,Porvoo,Vihreä liitto,2
+2008,Porvoo,Suomen Keskusta,2
+2008,Porvoo,Suomen Kansan Demokraattinen Liitto,1
+2008,Porvoo,Suomen Kristillisdemokraatit,1
+2008,Kokkola,Perussuomalaiset,1
+2008,Kokkola,Suomen Kristillisdemokraatit,1
+2008,Kokkola,Suomen Keskusta,2
+2008,Kokkola,Vasemmistoliitto,1
+2008,Kokkola,Vihreä liitto,2
+2008,Hyvinkää,Suomen Keskusta,1
+2008,Hyvinkää,Suomen Kristillisdemokraatit,2
+2008,Hyvinkää,Kansallinen Kokoomus,2
+2008,Hyvinkää,Suomen Sosialidemokraattinen Puolue,1
+2008,Lohja,Vasemmistoliitto,2
+2008,Lohja,Suomen Keskusta,2
+2008,Lohja,Kansallinen Kokoomus,3
+2008,Lohja,Vihreä liitto,1
+2008,Lohja,Suomen Sosialidemokraattinen Puolue,2
+2008,Järvenpää,Suomen Sosialidemokraattinen Puolue,3
+2008,Järvenpää,Kansallinen Kokoomus,1
+2008,Järvenpää,Vihreä liitto,1
+2008,Järvenpää,Vasemmistoliitto,1
+2008,Järvenpää,Suomen Keskusta,1
+2008,Rauma,Suomen Keskusta,11
+2008,Rauma,Vasemmistoliitto,3
+2008,Rauma,Suomen Kristillisdemokraatit,1
+2008,Rauma,Kansallinen Kokoomus,2
+2008,Rauma,Suomen Sosialidemokraattinen Puolue,1
+2008,Rauma,Suomen Kansan Demokraattinen Liitto,1
+2008,Kerava,Suomen Sosialidemokraattinen Puolue,5
+2008,Kerava,Vihreä liitto,1
+2008,Kerava,Suomen Keskusta,1
+2008,Kerava,Kansallinen Kokoomus,1
+2008,Kerava,Vasemmistoliitto,1
+2008,Kajaani,Suomen Keskusta,11
+2008,Kajaani,Vasemmistoliitto,7
+2008,Kajaani,Suomen ruotsalainen kansanpuolue,2
+2008,Kajaani,Kansallinen Kokoomus,6
+2008,Kajaani,Vihreä liitto,5
+2008,Kajaani,Suomen Sosialidemokraattinen Puolue,2
+2008,Kajaani,Suomen Kristillisdemokraatit,1
+2008,Kaarina,Kansallinen Kokoomus,1
+2008,Nokia,Vasemmistoliitto,15
+2008,Nokia,Vihreä liitto,4
+2008,Nokia,Suomen Keskusta,17
+2008,Nokia,Kansallinen Kokoomus,18
+2008,Nokia,Suomen Sosialidemokraattinen Puolue,14
+2008,Nokia,Perussuomalaiset,1
+2008,Nokia,Suomen Kansan Demokraattinen Liitto,2
+2008,Nokia,Suomen Kristillisdemokraatit,1
+2008,Ylöjärvi,Suomen Keskusta,6
+2008,Savonlinna,Suomen Keskusta,8
+2008,Savonlinna,Suomen Sosialidemokraattinen Puolue,13
+2008,Savonlinna,Kansallinen Kokoomus,3
+2008,Savonlinna,Vihreä liitto,6
+2008,Kangasala,Suomen Keskusta,2
+2008,Riihimäki,Suomen Sosialidemokraattinen Puolue,9
+2008,Riihimäki,Kansallinen Kokoomus,4
+2008,Riihimäki,Suomen Keskusta,1
+2008,Riihimäki,Suomen Kristillisdemokraatit,2
+2008,Riihimäki,Vihreä liitto,1
+2008,Imatra,Suomen Sosialidemokraattinen Puolue,16
+2008,Imatra,Kansallinen Kokoomus,6
+2008,Imatra,Suomen Keskusta,5
+2008,Imatra,Vasemmistoliitto,3
+2008,Raisio,Kansallinen Kokoomus,5
+2008,Raisio,Suomen Sosialidemokraattinen Puolue,3
+2008,Raisio,Vasemmistoliitto,4
+2008,Raahe,Suomen Keskusta,2
+2008,Raahe,Vasemmistoliitto,3
+2008,Sastamala,Kansallinen Kokoomus,1
+2008,Tornio,Suomen Keskusta,3
+2008,Tornio,Kansallinen Kokoomus,4
+2008,Tornio,Vasemmistoliitto,3
+2008,Tornio,Suomen Sosialidemokraattinen Puolue,1
+2008,Iisalmi,Vasemmistoliitto,1
+2008,Iisalmi,Kansallinen Kokoomus,1
+2008,Valkeakoski,Kansallinen Kokoomus,2
+2008,Valkeakoski,Suomen Sosialidemokraattinen Puolue,1
+2008,Valkeakoski,Suomen Keskusta,1
+2008,Valkeakoski,Vasemmistoliitto,1
+2008,Valkeakoski,Suomen Kansan Demokraattinen Liitto,1
+2008,Kurikka,Kansallinen Kokoomus,1
+2008,Kurikka,Suomen Keskusta,6
+2008,Kemi,Vihreä liitto,2
+2008,Kemi,Suomen Sosialidemokraattinen Puolue,11
+2008,Kemi,Vasemmistoliitto,12
+2008,Kemi,Suomen Keskusta,7
+2008,Kemi,Kansallinen Kokoomus,8
+2008,Kemi,Suomen Kristillisdemokraatit,2
+2008,Kemi,Suomen ruotsalainen kansanpuolue,1
+2008,Varkaus,Suomen Keskusta,13
+2008,Varkaus,Kansallinen Kokoomus,3
+2008,Varkaus,Vihreä liitto,4
+2008,Varkaus,Suomen Sosialidemokraattinen Puolue,6
+2008,Varkaus,Vasemmistoliitto,2
+2008,Varkaus,Suomen Kristillisdemokraatit,2
+2008,Jämsä,Suomen Keskusta,3
+2008,Jämsä,Suomen Kristillisdemokraatit,3
+2008,Jämsä,Suomen Sosialidemokraattinen Puolue,5
+2008,Jämsä,Kansallinen Kokoomus,1
+2008,Hamina,Suomen Keskusta,8
+2008,Hamina,Vasemmistoliitto,10
+2008,Hamina,Suomen Sosialidemokraattinen Puolue,9
+2008,Hamina,Kansallinen Kokoomus,4
+2008,Hamina,Vihreä liitto,1
+2008,Naantali,Suomen Keskusta,1
+2008,Naantali,Vasemmistoliitto,1
+2008,Naantali,Kansallinen Kokoomus,1
+2008,Pietarsaari,Suomen Keskusta,5
+2008,Pietarsaari,Suomen ruotsalainen kansanpuolue,4
+2008,Pietarsaari,Suomen Kristillisdemokraatit,1
+2008,Pietarsaari,Vasemmistoliitto,1
+2008,Pietarsaari,Kansallinen Kokoomus,1
+2008,Äänekoski,Suomen Keskusta,5
+2008,Äänekoski,Suomen Kristillisdemokraatit,3
+2008,Äänekoski,Suomen Sosialidemokraattinen Puolue,1
+2008,Heinola,Suomen Sosialidemokraattinen Puolue,5
+2008,Heinola,Vasemmistoliitto,2
+2008,Heinola,Kansallinen Kokoomus,1
+2008,Heinola,Suomen Keskusta,1
+2008,Pieksämäki,Kansallinen Kokoomus,1
+2008,Pieksämäki,Suomen Keskusta,3
+2008,Pieksämäki,Vasemmistoliitto,1
+2008,Forssa,Kansallinen Kokoomus,2
+2008,Forssa,Vasemmistoliitto,1
+2008,Forssa,Suomen Sosialidemokraattinen Puolue,1
+2008,Orimattila,Vasemmistoliitto,1
+2008,Loimaa,Suomen Keskusta,2
+2008,Kauhava,Suomen Keskusta,3
+2008,Kauhava,Kansallinen Kokoomus,1
+2008,Kauhava,Perussuomalaiset,1
+2008,Uusikaupunki,Vihreä liitto,1
+2008,Uusikaupunki,Kansallinen Kokoomus,1
+2008,Ylivieska,Suomen Keskusta,1
+2008,Ylivieska,Vihreä liitto,1
+2008,Ylivieska,Suomen Kristillisdemokraatit,1
+2008,Kuusamo,Suomen Keskusta,7
+2008,Kuusamo,Suomen Sosialidemokraattinen Puolue,1
+2008,Kuusamo,Vasemmistoliitto,1
+2008,Kuusamo,Suomen Kristillisdemokraatit,1
+2008,Kuusamo,Kansallinen Kokoomus,1
+2008,Kuusamo,Vihreä liitto,1
+2008,Loviisa,Vihreä liitto,2
+2008,Loviisa,Vasemmistoliitto,4
+2008,Loviisa,Kansallinen Kokoomus,1
+2008,Loviisa,Suomen Kansan Demokraattinen Liitto,1
+2008,Loviisa,Suomen Keskusta,1
+2008,Lapua,Perussuomalaiset,2
+2008,Lapua,Suomen Keskusta,1
+2008,Lapua,Kansallinen Kokoomus,1
+2008,Kauhajoki,Suomen Keskusta,14
+2008,Kauhajoki,Vihreä liitto,2
+2008,Kauhajoki,Kansallinen Kokoomus,10
+2008,Kauhajoki,Vasemmistoliitto,7
+2008,Kauhajoki,Suomen Sosialidemokraattinen Puolue,14
+2008,Kauhajoki,Perussuomalaiset,1
+2008,Kauhajoki,Suomen ruotsalainen kansanpuolue,2
+2008,Kauhajoki,Suomen Kristillisdemokraatit,1
+2008,Kalajoki,Suomen Sosialidemokraattinen Puolue,1
+2008,Maarianhamina,Suomen Keskusta,1
+2008,Maarianhamina,Suomen Kristillisdemokraatit,1
+2008,Maarianhamina,Kansallinen Kokoomus,1
+2008,Alavus,Perussuomalaiset,1
+2008,Lieksa,Suomen Sosialidemokraattinen Puolue,5
+2008,Lieksa,Vasemmistoliitto,1
+2008,Kauniainen,Kansallinen Kokoomus,7
+2008,Kauniainen,Suomen Sosialidemokraattinen Puolue,3
+2008,Kauniainen,Suomen Kansan Demokraattinen Liitto,1
+2008,Kauniainen,Suomen Keskusta,1
+2008,Kitee,Suomen Sosialidemokraattinen Puolue,5
+2008,Kitee,Suomen Keskusta,1
+2008,Närpiö,Suomen ruotsalainen kansanpuolue,1
+2008,Nurmes,Perussuomalaiset,1
+2008,Nurmes,Suomen Sosialidemokraattinen Puolue,1
+2008,Keuruu,Suomen Keskusta,32
+2008,Keuruu,Suomen Kristillisdemokraatit,5
+2008,Alajärvi,Suomen Keskusta,2
+2008,Alajärvi,Perussuomalaiset,2
+2008,Saarijärvi,Suomen Keskusta,5
+2008,Saarijärvi,Suomen Kristillisdemokraatit,1
+2008,Orivesi,Suomen Keskusta,5
+2008,Karkkila,Kansallinen Kokoomus,1
+2008,Hanko,Vihreä liitto,1
+2008,Hanko,Kansallinen Kokoomus,4
+2008,Hanko,Suomen ruotsalainen kansanpuolue,3
+2008,Hanko,Suomen Keskusta,2
+2008,Hanko,Suomen Sosialidemokraattinen Puolue,9
+2008,Hanko,Suomen Kristillisdemokraatit,1
+2008,Kuhmo,Suomen Keskusta,2
+2008,Kuhmo,Vihreä liitto,1
+2008,Kuhmo,Vasemmistoliitto,2
+2008,Kemijärvi,Vasemmistoliitto,54
+2008,Kemijärvi,Suomen Keskusta,34
+2008,Kemijärvi,Suomen Sosialidemokraattinen Puolue,41
+2008,Kemijärvi,Kansallinen Kokoomus,23
+2008,Kemijärvi,Suomen Kristillisdemokraatit,11
+2008,Kemijärvi,Suomen Kansan Demokraattinen Liitto,6
+2008,Kemijärvi,Perussuomalaiset,1
+2008,Kemijärvi,Vihreä liitto,8
+2008,Kemijärvi,Sininen tulevaisuus,3
+2008,Kemijärvi,Suomen ruotsalainen kansanpuolue,1
+2008,Oulainen,Suomen Keskusta,2
+2008,Kokemäki,Kansallinen Kokoomus,1
+2008,Kokemäki,Suomen Sosialidemokraattinen Puolue,2
+2008,Haapajärvi,Suomen Keskusta,2
+2008,Haapajärvi,Vihreä liitto,1
+2008,Ikaalinen,Suomen Keskusta,1
+2008,Harjavalta,Suomen Keskusta,1
+2008,Harjavalta,Vasemmistoliitto,1
+2008,Haapavesi,Suomen Keskusta,1
+2008,Outokumpu,Suomen Keskusta,5
+2008,Outokumpu,Kansallinen Kokoomus,6
+2008,Outokumpu,Vasemmistoliitto,8
+2008,Outokumpu,Suomen Sosialidemokraattinen Puolue,3
+2008,Outokumpu,Sininen tulevaisuus,1
+2008,Virrat,Suomen Keskusta,1
+2008,Kristiinankaupunki,Kansallinen Kokoomus,1
+2008,Parkano,Suomen Keskusta,1
+2008,Viitasaari,Suomen Keskusta,2
+2008,Viitasaari,Suomen Kristillisdemokraatit,1
+2008,Ähtäri,Suomen Keskusta,4
+2008,Kannus,Suomen Keskusta,3
+2008,Kannus,Suomen Sosialidemokraattinen Puolue,1
+2008,Kaskinen,Suomen Sosialidemokraattinen Puolue,1
+2008,Kaskinen,Kansallinen Kokoomus,1
+2008,Kaskinen,Suomen Keskusta,3
+2011,Helsinki,Suomen Keskusta,86
+2011,Helsinki,Kansallinen Kokoomus,101
+2011,Helsinki,Vihreä liitto,28
+2011,Helsinki,Suomen Sosialidemokraattinen Puolue,79
+2011,Helsinki,Perussuomalaiset,30
+2011,Helsinki,Suomen ruotsalainen kansanpuolue,9
+2011,Helsinki,Vasemmistoliitto,27
+2011,Helsinki,Suomen Kristillisdemokraatit,6
+2011,Helsinki,Sininen tulevaisuus,3
+2011,Espoo,Suomen Keskusta,9
+2011,Espoo,Suomen Sosialidemokraattinen Puolue,11
+2011,Espoo,Kansallinen Kokoomus,18
+2011,Espoo,Vasemmistoliitto,3
+2011,Espoo,Sininen tulevaisuus,2
+2011,Espoo,Vihreä liitto,3
+2011,Espoo,Perussuomalaiset,2
+2011,Espoo,Suomen ruotsalainen kansanpuolue,1
+2011,Tampere,Suomen Sosialidemokraattinen Puolue,19
+2011,Tampere,Kansallinen Kokoomus,23
+2011,Tampere,Suomen Keskusta,30
+2011,Tampere,Vasemmistoliitto,6
+2011,Tampere,Perussuomalaiset,5
+2011,Tampere,Vihreä liitto,3
+2011,Tampere,Suomen Kristillisdemokraatit,4
+2011,Tampere,Suomen Kansan Demokraattinen Liitto,1
+2011,Vantaa,Kansallinen Kokoomus,17
+2011,Vantaa,Suomen Keskusta,9
+2011,Vantaa,Suomen Sosialidemokraattinen Puolue,17
+2011,Vantaa,Vihreä liitto,6
+2011,Vantaa,Vasemmistoliitto,4
+2011,Vantaa,Perussuomalaiset,15
+2011,Vantaa,Suomen ruotsalainen kansanpuolue,1
+2011,Vantaa,Suomen Kristillisdemokraatit,1
+2011,Oulu,Perussuomalaiset,4
+2011,Oulu,Vihreä liitto,15
+2011,Oulu,Vasemmistoliitto,11
+2011,Oulu,Kansallinen Kokoomus,14
+2011,Oulu,Suomen Sosialidemokraattinen Puolue,18
+2011,Oulu,Suomen Keskusta,33
+2011,Oulu,Suomen ruotsalainen kansanpuolue,1
+2011,Oulu,Suomen Kristillisdemokraatit,4
+2011,Turku,Suomen Keskusta,14
+2011,Turku,Suomen Sosialidemokraattinen Puolue,17
+2011,Turku,Vihreä liitto,8
+2011,Turku,Kansallinen Kokoomus,24
+2011,Turku,Perussuomalaiset,5
+2011,Turku,Suomen ruotsalainen kansanpuolue,4
+2011,Turku,Vasemmistoliitto,10
+2011,Turku,Suomen Kristillisdemokraatit,1
+2011,Turku,Sininen tulevaisuus,1
+2011,Jyväskylä,Suomen Sosialidemokraattinen Puolue,17
+2011,Jyväskylä,Suomen Keskusta,31
+2011,Jyväskylä,Kansallinen Kokoomus,6
+2011,Jyväskylä,Vasemmistoliitto,2
+2011,Jyväskylä,Suomen Kristillisdemokraatit,3
+2011,Jyväskylä,Vihreä liitto,1
+2011,Jyväskylä,Perussuomalaiset,1
+2011,Kuopio,Suomen ruotsalainen kansanpuolue,6
+2011,Kuopio,Suomen Keskusta,17
+2011,Kuopio,Kansallinen Kokoomus,5
+2011,Kuopio,Vasemmistoliitto,7
+2011,Kuopio,Suomen Sosialidemokraattinen Puolue,6
+2011,Kuopio,Perussuomalaiset,6
+2011,Lahti,Kansallinen Kokoomus,7
+2011,Lahti,Suomen Sosialidemokraattinen Puolue,12
+2011,Lahti,Perussuomalaiset,2
+2011,Lahti,Suomen Keskusta,7
+2011,Lahti,Vasemmistoliitto,1
+2011,Pori,Kansallinen Kokoomus,12
+2011,Pori,Suomen Keskusta,6
+2011,Pori,Suomen Sosialidemokraattinen Puolue,4
+2011,Pori,Perussuomalaiset,1
+2011,Kouvola,Kansallinen Kokoomus,7
+2011,Kouvola,Suomen Sosialidemokraattinen Puolue,6
+2011,Kouvola,Perussuomalaiset,20
+2011,Kouvola,Vasemmistoliitto,7
+2011,Kouvola,Suomen Keskusta,9
+2011,Kouvola,Suomen Kristillisdemokraatit,3
+2011,Kouvola,Suomen ruotsalainen kansanpuolue,1
+2011,Joensuu,Perussuomalaiset,2
+2011,Joensuu,Suomen Sosialidemokraattinen Puolue,6
+2011,Joensuu,Suomen Keskusta,4
+2011,Lappeenranta,Suomen Sosialidemokraattinen Puolue,8
+2011,Lappeenranta,Vasemmistoliitto,3
+2011,Lappeenranta,Perussuomalaiset,2
+2011,Lappeenranta,Suomen Keskusta,5
+2011,Lappeenranta,Kansallinen Kokoomus,1
+2011,Hämeenlinna,Perussuomalaiset,3
+2011,Hämeenlinna,Kansallinen Kokoomus,4
+2011,Hämeenlinna,Suomen Keskusta,3
+2011,Hämeenlinna,Suomen ruotsalainen kansanpuolue,2
+2011,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,2
+2011,Vaasa,Suomen Sosialidemokraattinen Puolue,16
+2011,Vaasa,Kansallinen Kokoomus,8
+2011,Vaasa,Suomen Keskusta,8
+2011,Vaasa,Suomen ruotsalainen kansanpuolue,4
+2011,Vaasa,Perussuomalaiset,3
+2011,Vaasa,Vihreä liitto,1
+2011,Vaasa,Vasemmistoliitto,2
+2011,Seinäjoki,Suomen Keskusta,13
+2011,Seinäjoki,Kansallinen Kokoomus,8
+2011,Seinäjoki,Suomen Sosialidemokraattinen Puolue,5
+2011,Rovaniemi,Suomen Sosialidemokraattinen Puolue,12
+2011,Rovaniemi,Kansallinen Kokoomus,11
+2011,Rovaniemi,Vasemmistoliitto,5
+2011,Rovaniemi,Suomen Keskusta,16
+2011,Rovaniemi,Suomen ruotsalainen kansanpuolue,2
+2011,Rovaniemi,Suomen Kristillisdemokraatit,2
+2011,Rovaniemi,Perussuomalaiset,3
+2011,Rovaniemi,Vihreä liitto,1
+2011,Mikkeli,Kansallinen Kokoomus,8
+2011,Mikkeli,Perussuomalaiset,3
+2011,Mikkeli,Suomen Keskusta,7
+2011,Mikkeli,Suomen Sosialidemokraattinen Puolue,3
+2011,Mikkeli,Vihreä liitto,1
+2011,Mikkeli,Vasemmistoliitto,1
+2011,Kotka,Suomen Sosialidemokraattinen Puolue,6
+2011,Kotka,Perussuomalaiset,5
+2011,Kotka,Vihreä liitto,1
+2011,Kotka,Kansallinen Kokoomus,2
+2011,Kotka,Vasemmistoliitto,8
+2011,Kotka,Suomen Keskusta,2
+2011,Salo,Kansallinen Kokoomus,3
+2011,Salo,Perussuomalaiset,1
+2011,Salo,Suomen Sosialidemokraattinen Puolue,2
+2011,Salo,Suomen Keskusta,5
+2011,Salo,Vihreä liitto,1
+2011,Porvoo,Kansallinen Kokoomus,6
+2011,Porvoo,Perussuomalaiset,3
+2011,Porvoo,Vihreä liitto,1
+2011,Porvoo,Suomen Sosialidemokraattinen Puolue,3
+2011,Porvoo,Suomen Keskusta,2
+2011,Porvoo,Vasemmistoliitto,3
+2011,Kokkola,Suomen Sosialidemokraattinen Puolue,2
+2011,Kokkola,Suomen Keskusta,1
+2011,Kokkola,Kansallinen Kokoomus,1
+2011,Hyvinkää,Kansallinen Kokoomus,2
+2011,Hyvinkää,Vihreä liitto,1
+2011,Hyvinkää,Perussuomalaiset,1
+2011,Hyvinkää,Suomen Sosialidemokraattinen Puolue,1
+2011,Lohja,Kansallinen Kokoomus,2
+2011,Lohja,Suomen Sosialidemokraattinen Puolue,3
+2011,Järvenpää,Suomen Sosialidemokraattinen Puolue,3
+2011,Järvenpää,Kansallinen Kokoomus,1
+2011,Rauma,Sininen tulevaisuus,1
+2011,Rauma,Kansallinen Kokoomus,2
+2011,Rauma,Suomen Sosialidemokraattinen Puolue,3
+2011,Rauma,Suomen Keskusta,2
+2011,Kerava,Suomen Keskusta,1
+2011,Kerava,Kansallinen Kokoomus,2
+2011,Kerava,Suomen Kristillisdemokraatit,2
+2011,Kerava,Perussuomalaiset,1
+2011,Kajaani,Perussuomalaiset,6
+2011,Kajaani,Kansallinen Kokoomus,5
+2011,Kajaani,Suomen Sosialidemokraattinen Puolue,6
+2011,Kajaani,Suomen Keskusta,9
+2011,Kajaani,Vihreä liitto,1
+2011,Nokia,Kansallinen Kokoomus,18
+2011,Nokia,Perussuomalaiset,6
+2011,Nokia,Suomen Keskusta,17
+2011,Nokia,Suomen Sosialidemokraattinen Puolue,13
+2011,Nokia,Vihreä liitto,3
+2011,Nokia,Vasemmistoliitto,7
+2011,Nokia,Suomen Kristillisdemokraatit,2
+2011,Ylöjärvi,Suomen Keskusta,5
+2011,Ylöjärvi,Perussuomalaiset,1
+2011,Savonlinna,Suomen Keskusta,6
+2011,Savonlinna,Kansallinen Kokoomus,2
+2011,Savonlinna,Suomen Sosialidemokraattinen Puolue,5
+2011,Kangasala,Suomen Keskusta,2
+2011,Riihimäki,Kansallinen Kokoomus,5
+2011,Riihimäki,Vihreä liitto,1
+2011,Raasepori,Kansallinen Kokoomus,2
+2011,Raasepori,Suomen Sosialidemokraattinen Puolue,1
+2011,Imatra,Suomen Sosialidemokraattinen Puolue,11
+2011,Imatra,Vasemmistoliitto,1
+2011,Imatra,Suomen Keskusta,5
+2011,Imatra,Kansallinen Kokoomus,1
+2011,Raisio,Vasemmistoliitto,1
+2011,Raisio,Kansallinen Kokoomus,1
+2011,Raahe,Perussuomalaiset,1
+2011,Raahe,Vihreä liitto,1
+2011,Raahe,Suomen Keskusta,1
+2011,Sastamala,Kansallinen Kokoomus,2
+2011,Sastamala,Sininen tulevaisuus,1
+2011,Sastamala,Suomen Keskusta,2
+2011,Tornio,Kansallinen Kokoomus,2
+2011,Tornio,Suomen Keskusta,5
+2011,Tornio,Suomen Sosialidemokraattinen Puolue,3
+2011,Tornio,Suomen Kristillisdemokraatit,1
+2011,Tornio,Vasemmistoliitto,3
+2011,Iisalmi,Suomen Keskusta,5
+2011,Iisalmi,Suomen Sosialidemokraattinen Puolue,1
+2011,Valkeakoski,Suomen Keskusta,1
+2011,Valkeakoski,Kansallinen Kokoomus,1
+2011,Kurikka,Perussuomalaiset,4
+2011,Kurikka,Suomen Keskusta,4
+2011,Kurikka,Suomen Sosialidemokraattinen Puolue,1
+2011,Kemi,Suomen Keskusta,10
+2011,Kemi,Suomen Sosialidemokraattinen Puolue,12
+2011,Kemi,Vasemmistoliitto,5
+2011,Kemi,Kansallinen Kokoomus,5
+2011,Kemi,Perussuomalaiset,6
+2011,Varkaus,Suomen Keskusta,4
+2011,Varkaus,Suomen Sosialidemokraattinen Puolue,5
+2011,Varkaus,Kansallinen Kokoomus,1
+2011,Jämsä,Suomen Keskusta,8
+2011,Jämsä,Suomen Sosialidemokraattinen Puolue,3
+2011,Jämsä,Vasemmistoliitto,2
+2011,Jämsä,Suomen Kristillisdemokraatit,1
+2011,Jämsä,Perussuomalaiset,1
+2011,Hamina,Perussuomalaiset,2
+2011,Hamina,Vasemmistoliitto,3
+2011,Hamina,Suomen Keskusta,1
+2011,Hamina,Suomen Sosialidemokraattinen Puolue,2
+2011,Hamina,Kansallinen Kokoomus,1
+2011,Naantali,Suomen Kristillisdemokraatit,1
+2011,Pietarsaari,Vasemmistoliitto,1
+2011,Pietarsaari,Suomen Sosialidemokraattinen Puolue,2
+2011,Äänekoski,Suomen Kristillisdemokraatit,1
+2011,Äänekoski,Suomen Keskusta,7
+2011,Heinola,Kansallinen Kokoomus,1
+2011,Heinola,Suomen Kristillisdemokraatit,1
+2011,Heinola,Suomen Sosialidemokraattinen Puolue,2
+2011,Pieksämäki,Suomen Keskusta,3
+2011,Pieksämäki,Suomen Kristillisdemokraatit,1
+2011,Forssa,Suomen Keskusta,5
+2011,Forssa,Kansallinen Kokoomus,7
+2011,Forssa,Suomen Sosialidemokraattinen Puolue,1
+2011,Forssa,Perussuomalaiset,1
+2011,Orimattila,Suomen Keskusta,2
+2011,Orimattila,Kansallinen Kokoomus,3
+2011,Loimaa,Kansallinen Kokoomus,1
+2011,Loimaa,Perussuomalaiset,1
+2011,Loimaa,Suomen Keskusta,2
+2011,Kauhava,Kansallinen Kokoomus,1
+2011,Kauhava,Suomen Keskusta,2
+2011,Uusikaupunki,Kansallinen Kokoomus,1
+2011,Ylivieska,Perussuomalaiset,1
+2011,Ylivieska,Suomen Keskusta,4
+2011,Kuusamo,Suomen Keskusta,7
+2011,Kuusamo,Suomen Sosialidemokraattinen Puolue,1
+2011,Kuusamo,Vasemmistoliitto,1
+2011,Loviisa,Kansallinen Kokoomus,1
+2011,Loviisa,Vihreä liitto,1
+2011,Kauhajoki,Suomen Sosialidemokraattinen Puolue,1
+2011,Kauhajoki,Vasemmistoliitto,2
+2011,Kauhajoki,Suomen Keskusta,5
+2011,Kauhajoki,Perussuomalaiset,1
+2011,Kankaanpää,Suomen Keskusta,4
+2011,Ulvila,Suomen Keskusta,2
+2011,Ulvila,Suomen Sosialidemokraattinen Puolue,1
+2011,Alavus,Suomen Keskusta,3
+2011,Lieksa,Perussuomalaiset,2
+2011,Lieksa,Suomen Keskusta,2
+2011,Lieksa,Suomen Sosialidemokraattinen Puolue,1
+2011,Kauniainen,Kansallinen Kokoomus,3
+2011,Kauniainen,Suomen ruotsalainen kansanpuolue,1
+2011,Kauniainen,Suomen Keskusta,1
+2011,Kauniainen,Sininen tulevaisuus,1
+2011,Kauniainen,Suomen Sosialidemokraattinen Puolue,5
+2011,Kauniainen,Vihreä liitto,1
+2011,Kitee,Suomen Sosialidemokraattinen Puolue,2
+2011,Kitee,Suomen Keskusta,1
+2011,Huittinen,Suomen Keskusta,2
+2011,Mänttä-Vilppula,Suomen Keskusta,6
+2011,Närpiö,Suomen Sosialidemokraattinen Puolue,1
+2011,Keuruu,Suomen Keskusta,26
+2011,Keuruu,Kansallinen Kokoomus,2
+2011,Keuruu,Suomen Kristillisdemokraatit,3
+2011,Keuruu,Suomen Sosialidemokraattinen Puolue,2
+2011,Keuruu,Vihreä liitto,1
+2011,Alajärvi,Suomen Kristillisdemokraatit,1
+2011,Alajärvi,Suomen Keskusta,1
+2011,Saarijärvi,Suomen Keskusta,3
+2011,Saarijärvi,Suomen Kristillisdemokraatit,1
+2011,Orivesi,Suomen Keskusta,4
+2011,Orivesi,Suomen Sosialidemokraattinen Puolue,1
+2011,Karkkila,Kansallinen Kokoomus,1
+2011,Somero,Suomen Keskusta,5
+2011,Somero,Kansallinen Kokoomus,2
+2011,Somero,Perussuomalaiset,1
+2011,Laitila,Perussuomalaiset,1
+2011,Hanko,Vasemmistoliitto,3
+2011,Hanko,Suomen Sosialidemokraattinen Puolue,3
+2011,Hanko,Suomen Keskusta,1
+2011,Hanko,Kansallinen Kokoomus,1
+2011,Hanko,Perussuomalaiset,2
+2011,Kuhmo,Suomen Sosialidemokraattinen Puolue,1
+2011,Kuhmo,Kansallinen Kokoomus,1
+2011,Kuhmo,Suomen Keskusta,2
+2011,Pudasjärvi,Kansallinen Kokoomus,1
+2011,Kemijärvi,Suomen Keskusta,7
+2011,Kemijärvi,Suomen Sosialidemokraattinen Puolue,2
+2011,Kemijärvi,Vihreä liitto,1
+2011,Kemijärvi,Perussuomalaiset,3
+2011,Kemijärvi,Kansallinen Kokoomus,2
+2011,Kemijärvi,Vasemmistoliitto,3
+2011,Oulainen,Suomen Keskusta,1
+2011,Kokemäki,Suomen Keskusta,1
+2011,Haapajärvi,Suomen Keskusta,5
+2011,Ikaalinen,Perussuomalaiset,1
+2011,Ikaalinen,Suomen Kristillisdemokraatit,1
+2011,Ikaalinen,Suomen Keskusta,1
+2011,Ikaalinen,Suomen Sosialidemokraattinen Puolue,1
+2011,Harjavalta,Suomen Keskusta,1
+2011,Outokumpu,Suomen Keskusta,9
+2011,Outokumpu,Kansallinen Kokoomus,2
+2011,Outokumpu,Perussuomalaiset,1
+2011,Outokumpu,Vasemmistoliitto,3
+2011,Outokumpu,Suomen Sosialidemokraattinen Puolue,3
+2011,Virrat,Suomen Sosialidemokraattinen Puolue,1
+2011,Virrat,Suomen Keskusta,2
+2011,Kristiinankaupunki,Suomen Keskusta,1
+2011,Kristiinankaupunki,Kansallinen Kokoomus,1
+2011,Parkano,Suomen Keskusta,6
+2011,Parkano,Perussuomalaiset,2
+2011,Viitasaari,Suomen Keskusta,1
+2011,Viitasaari,Suomen Kristillisdemokraatit,1
+2011,Viitasaari,Perussuomalaiset,2
+2011,Ähtäri,Suomen Keskusta,12
+2011,Ähtäri,Suomen Sosialidemokraattinen Puolue,2
+2011,Kaskinen,Suomen Keskusta,5
+2006,Helsinki,Kansallinen Kokoomus,110
+2006,Helsinki,Suomen Keskusta,90
+2006,Helsinki,Suomen Sosialidemokraattinen Puolue,99
+2006,Helsinki,Vasemmistoliitto,67
+2006,Helsinki,Suomen Kristillisdemokraatit,29
+2006,Helsinki,Vihreä liitto,58
+2006,Helsinki,Suomen ruotsalainen kansanpuolue,12
+2006,Helsinki,Sininen tulevaisuus,6
+2006,Helsinki,Perussuomalaiset,4
+2006,Espoo,Kansallinen Kokoomus,15
+2006,Espoo,Vihreä liitto,12
+2006,Espoo,Suomen Keskusta,9
+2006,Espoo,Sininen tulevaisuus,9
+2006,Espoo,Suomen Kristillisdemokraatit,6
+2006,Espoo,Suomen ruotsalainen kansanpuolue,1
+2006,Espoo,Vasemmistoliitto,14
+2006,Espoo,Suomen Sosialidemokraattinen Puolue,16
+2006,Espoo,Perussuomalaiset,1
+2006,Tampere,Vasemmistoliitto,20
+2006,Tampere,Kansallinen Kokoomus,44
+2006,Tampere,Suomen Sosialidemokraattinen Puolue,30
+2006,Tampere,Suomen Keskusta,38
+2006,Tampere,Vihreä liitto,16
+2006,Tampere,Suomen Kristillisdemokraatit,6
+2006,Tampere,Suomen Kansan Demokraattinen Liitto,5
+2006,Tampere,Perussuomalaiset,3
+2006,Tampere,Suomen ruotsalainen kansanpuolue,1
+2006,Vantaa,Kansallinen Kokoomus,8
+2006,Vantaa,Vihreä liitto,7
+2006,Vantaa,Vasemmistoliitto,3
+2006,Vantaa,Suomen Sosialidemokraattinen Puolue,9
+2006,Vantaa,Suomen Keskusta,4
+2006,Vantaa,Suomen ruotsalainen kansanpuolue,1
+2006,Vantaa,Sininen tulevaisuus,1
+2006,Vantaa,Suomen Kristillisdemokraatit,2
+2006,Oulu,Suomen Keskusta,39
+2006,Oulu,Suomen Kristillisdemokraatit,25
+2006,Oulu,Suomen Sosialidemokraattinen Puolue,16
+2006,Oulu,Vihreä liitto,29
+2006,Oulu,Vasemmistoliitto,9
+2006,Oulu,Kansallinen Kokoomus,7
+2006,Oulu,Suomen ruotsalainen kansanpuolue,1
+2006,Turku,Suomen Sosialidemokraattinen Puolue,23
+2006,Turku,Vasemmistoliitto,17
+2006,Turku,Suomen Kristillisdemokraatit,9
+2006,Turku,Suomen Keskusta,22
+2006,Turku,Suomen ruotsalainen kansanpuolue,5
+2006,Turku,Vihreä liitto,12
+2006,Turku,Kansallinen Kokoomus,28
+2006,Turku,Suomen Kansan Demokraattinen Liitto,2
+2006,Jyväskylä,Kansallinen Kokoomus,6
+2006,Jyväskylä,Suomen Sosialidemokraattinen Puolue,9
+2006,Jyväskylä,Suomen Kristillisdemokraatit,13
+2006,Jyväskylä,Suomen Keskusta,18
+2006,Jyväskylä,Vasemmistoliitto,11
+2006,Jyväskylä,Vihreä liitto,7
+2006,Jyväskylä,Sininen tulevaisuus,1
+2006,Kuopio,Suomen Sosialidemokraattinen Puolue,14
+2006,Kuopio,Suomen Keskusta,19
+2006,Kuopio,Suomen Kristillisdemokraatit,3
+2006,Kuopio,Vasemmistoliitto,13
+2006,Kuopio,Kansallinen Kokoomus,6
+2006,Kuopio,Vihreä liitto,2
+2006,Kuopio,Sininen tulevaisuus,2
+2006,Kuopio,Ahvenanmaan maltilliset,1
+2006,Lahti,Vihreä liitto,6
+2006,Lahti,Perussuomalaiset,2
+2006,Lahti,Suomen Sosialidemokraattinen Puolue,14
+2006,Lahti,Vasemmistoliitto,41
+2006,Lahti,Suomen Kristillisdemokraatit,3
+2006,Lahti,Kansallinen Kokoomus,32
+2006,Lahti,Suomen Keskusta,19
+2006,Lahti,Sininen tulevaisuus,2
+2006,Pori,Kansallinen Kokoomus,9
+2006,Pori,Suomen Sosialidemokraattinen Puolue,3
+2006,Pori,Suomen Keskusta,8
+2006,Pori,Perussuomalaiset,2
+2006,Kouvola,Kansallinen Kokoomus,13
+2006,Kouvola,Suomen Keskusta,4
+2006,Kouvola,Vasemmistoliitto,8
+2006,Kouvola,Suomen Sosialidemokraattinen Puolue,3
+2006,Kouvola,Suomen ruotsalainen kansanpuolue,2
+2006,Kouvola,Perussuomalaiset,1
+2006,Joensuu,Suomen Sosialidemokraattinen Puolue,27
+2006,Joensuu,Suomen Keskusta,27
+2006,Joensuu,Ahvenanmaan maltilliset,1
+2006,Joensuu,Suomen Kristillisdemokraatit,5
+2006,Joensuu,Sininen tulevaisuus,2
+2006,Joensuu,Vihreä liitto,3
+2006,Joensuu,Kansallinen Kokoomus,4
+2006,Joensuu,Vasemmistoliitto,1
+2006,Joensuu,Suomen ruotsalainen kansanpuolue,1
+2006,Lappeenranta,Suomen Keskusta,9
+2006,Lappeenranta,Suomen Sosialidemokraattinen Puolue,8
+2006,Lappeenranta,Vasemmistoliitto,4
+2006,Lappeenranta,Kansallinen Kokoomus,11
+2006,Lappeenranta,Vihreä liitto,1
+2006,Lappeenranta,Sininen tulevaisuus,1
+2006,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,13
+2006,Hämeenlinna,Kansallinen Kokoomus,6
+2006,Hämeenlinna,Vasemmistoliitto,6
+2006,Hämeenlinna,Vihreä liitto,5
+2006,Hämeenlinna,Suomen Keskusta,2
+2006,Vaasa,Suomen Keskusta,15
+2006,Vaasa,Suomen Sosialidemokraattinen Puolue,4
+2006,Vaasa,Perussuomalaiset,2
+2006,Vaasa,Vihreä liitto,2
+2006,Vaasa,Kansallinen Kokoomus,8
+2006,Vaasa,Suomen ruotsalainen kansanpuolue,1
+2006,Vaasa,Vasemmistoliitto,1
+2006,Vaasa,Sininen tulevaisuus,1
+2006,Seinäjoki,Vihreä liitto,2
+2006,Seinäjoki,Suomen Keskusta,25
+2006,Seinäjoki,Suomen Sosialidemokraattinen Puolue,13
+2006,Seinäjoki,Kansallinen Kokoomus,16
+2006,Seinäjoki,Vasemmistoliitto,6
+2006,Seinäjoki,Suomen Kristillisdemokraatit,5
+2006,Seinäjoki,Perussuomalaiset,2
+2006,Rovaniemi,Vasemmistoliitto,8
+2006,Rovaniemi,Vihreä liitto,3
+2006,Rovaniemi,Suomen Keskusta,14
+2006,Rovaniemi,Suomen Sosialidemokraattinen Puolue,5
+2006,Rovaniemi,Suomen ruotsalainen kansanpuolue,1
+2006,Rovaniemi,Kansallinen Kokoomus,1
+2006,Mikkeli,Suomen Sosialidemokraattinen Puolue,6
+2006,Mikkeli,Suomen Keskusta,11
+2006,Mikkeli,Kansallinen Kokoomus,10
+2006,Mikkeli,Vasemmistoliitto,3
+2006,Mikkeli,Suomen Kristillisdemokraatit,1
+2006,Mikkeli,Suomen ruotsalainen kansanpuolue,1
+2006,Kotka,Suomen Keskusta,10
+2006,Kotka,Vasemmistoliitto,31
+2006,Kotka,Kansallinen Kokoomus,15
+2006,Kotka,Suomen Sosialidemokraattinen Puolue,7
+2006,Kotka,Vihreä liitto,1
+2006,Kotka,Suomen ruotsalainen kansanpuolue,2
+2006,Kotka,Suomen Kristillisdemokraatit,1
+2006,Salo,Kansallinen Kokoomus,12
+2006,Salo,Suomen Keskusta,6
+2006,Salo,Vihreä liitto,1
+2006,Salo,Suomen Kristillisdemokraatit,2
+2006,Salo,Vasemmistoliitto,1
+2006,Salo,Perussuomalaiset,1
+2006,Salo,Suomen Sosialidemokraattinen Puolue,1
+2006,Porvoo,Suomen ruotsalainen kansanpuolue,6
+2006,Porvoo,Suomen Sosialidemokraattinen Puolue,4
+2006,Porvoo,Suomen Keskusta,2
+2006,Porvoo,Sininen tulevaisuus,1
+2006,Kokkola,Suomen Keskusta,2
+2006,Kokkola,Kansallinen Kokoomus,3
+2006,Kokkola,Suomen Sosialidemokraattinen Puolue,8
+2006,Hyvinkää,Suomen Kristillisdemokraatit,1
+2006,Hyvinkää,Suomen Keskusta,1
+2006,Hyvinkää,Suomen Sosialidemokraattinen Puolue,1
+2006,Hyvinkää,Perussuomalaiset,1
+2006,Lohja,Vihreä liitto,1
+2006,Lohja,Suomen Sosialidemokraattinen Puolue,1
+2006,Lohja,Kansallinen Kokoomus,2
+2006,Järvenpää,Suomen Kansan Demokraattinen Liitto,1
+2006,Järvenpää,Vihreä liitto,1
+2006,Järvenpää,Suomen Keskusta,4
+2006,Järvenpää,Suomen Sosialidemokraattinen Puolue,1
+2006,Rauma,Suomen Sosialidemokraattinen Puolue,3
+2006,Rauma,Kansallinen Kokoomus,2
+2006,Kerava,Suomen Keskusta,2
+2006,Kerava,Suomen Kristillisdemokraatit,1
+2006,Kerava,Vasemmistoliitto,1
+2006,Kajaani,Kansallinen Kokoomus,4
+2006,Kajaani,Suomen Sosialidemokraattinen Puolue,5
+2006,Kajaani,Vasemmistoliitto,2
+2006,Kajaani,Suomen Keskusta,2
+2006,Kajaani,Vihreä liitto,2
+2006,Kajaani,Suomen Kristillisdemokraatit,1
+2006,Kaarina,Vihreä liitto,1
+2006,Kaarina,Vasemmistoliitto,1
+2006,Nokia,Suomen Keskusta,5
+2006,Nokia,Sininen tulevaisuus,2
+2006,Nokia,Vasemmistoliitto,2
+2006,Nokia,Kansallinen Kokoomus,6
+2006,Nokia,Suomen Sosialidemokraattinen Puolue,6
+2006,Nokia,Suomen Kristillisdemokraatit,1
+2006,Nokia,Vihreä liitto,5
+2006,Ylöjärvi,Suomen Keskusta,1
+2006,Ylöjärvi,Suomen Sosialidemokraattinen Puolue,1
+2006,Savonlinna,Suomen Sosialidemokraattinen Puolue,5
+2006,Savonlinna,Suomen Keskusta,15
+2006,Savonlinna,Kansallinen Kokoomus,4
+2006,Savonlinna,Vasemmistoliitto,1
+2006,Kangasala,Suomen Keskusta,3
+2006,Riihimäki,Vasemmistoliitto,2
+2006,Riihimäki,Kansallinen Kokoomus,2
+2006,Riihimäki,Suomen Kristillisdemokraatit,4
+2006,Riihimäki,Suomen Sosialidemokraattinen Puolue,1
+2006,Imatra,Suomen Sosialidemokraattinen Puolue,10
+2006,Imatra,Suomen Keskusta,4
+2006,Imatra,Vasemmistoliitto,5
+2006,Imatra,Vihreä liitto,2
+2006,Imatra,Kansallinen Kokoomus,6
+2006,Imatra,Sininen tulevaisuus,1
+2006,Raisio,Suomen Sosialidemokraattinen Puolue,1
+2006,Raisio,Vihreä liitto,1
+2006,Raahe,Vasemmistoliitto,4
+2006,Raahe,Vihreä liitto,1
+2006,Raahe,Suomen Keskusta,1
+2006,Raahe,Suomen Sosialidemokraattinen Puolue,1
+2006,Tornio,Suomen Sosialidemokraattinen Puolue,2
+2006,Tornio,Suomen Keskusta,4
+2006,Tornio,Vasemmistoliitto,6
+2006,Tornio,Suomen Kristillisdemokraatit,1
+2006,Tornio,Kansallinen Kokoomus,1
+2006,Iisalmi,Suomen Keskusta,1
+2006,Iisalmi,Vasemmistoliitto,1
+2006,Iisalmi,Kansallinen Kokoomus,1
+2006,Iisalmi,Suomen Sosialidemokraattinen Puolue,2
+2006,Iisalmi,Sininen tulevaisuus,1
+2006,Valkeakoski,Suomen Keskusta,1
+2006,Kurikka,Suomen Kristillisdemokraatit,1
+2006,Kurikka,Kansallinen Kokoomus,1
+2006,Kemi,Suomen Keskusta,3
+2006,Kemi,Vasemmistoliitto,10
+2006,Kemi,Suomen Sosialidemokraattinen Puolue,4
+2006,Kemi,Kansallinen Kokoomus,2
+2006,Varkaus,Suomen Keskusta,8
+2006,Varkaus,Suomen Sosialidemokraattinen Puolue,3
+2006,Varkaus,Kansallinen Kokoomus,1
+2006,Varkaus,Vasemmistoliitto,1
+2006,Jämsä,Suomen Kristillisdemokraatit,7
+2006,Jämsä,Suomen Keskusta,2
+2006,Hamina,Kansallinen Kokoomus,5
+2006,Hamina,Suomen Keskusta,10
+2006,Hamina,Suomen Sosialidemokraattinen Puolue,6
+2006,Hamina,Vasemmistoliitto,12
+2006,Naantali,Suomen Sosialidemokraattinen Puolue,1
+2006,Pietarsaari,Suomen Keskusta,1
+2006,Pietarsaari,Kansallinen Kokoomus,2
+2006,Pietarsaari,Suomen Sosialidemokraattinen Puolue,5
+2006,Pietarsaari,Perussuomalaiset,1
+2006,Pietarsaari,Vasemmistoliitto,1
+2006,Äänekoski,Suomen Kristillisdemokraatit,5
+2006,Äänekoski,Suomen Keskusta,4
+2006,Heinola,Kansallinen Kokoomus,1
+2006,Heinola,Vasemmistoliitto,3
+2006,Pieksämäki,Suomen Keskusta,3
+2006,Forssa,Vasemmistoliitto,2
+2006,Forssa,Kansallinen Kokoomus,2
+2006,Forssa,Suomen Keskusta,1
+2006,Forssa,Suomen Sosialidemokraattinen Puolue,1
+2006,Akaa,Suomen ruotsalainen kansanpuolue,1
+2006,Orimattila,Vasemmistoliitto,1
+2006,Loimaa,Suomen Keskusta,5
+2006,Kauhava,Suomen Keskusta,7
+2006,Kauhava,Kansallinen Kokoomus,1
+2006,Kuusamo,Suomen Keskusta,1
+2006,Kuusamo,Suomen Kristillisdemokraatit,3
+2006,Kuusamo,Vihreä liitto,1
+2006,Kuusamo,Vasemmistoliitto,1
+2006,Parainen,Vihreä liitto,1
+2006,Loviisa,Vasemmistoliitto,3
+2006,Loviisa,Kansallinen Kokoomus,1
+2006,Loviisa,Vihreä liitto,2
+2006,Loviisa,Suomen Keskusta,1
+2006,Lapua,Perussuomalaiset,2
+2006,Lapua,Suomen Keskusta,1
+2006,Kauhajoki,Suomen Keskusta,3
+2006,Kauhajoki,Suomen Sosialidemokraattinen Puolue,1
+2006,Kauhajoki,Kansallinen Kokoomus,1
+2006,Kauhajoki,Suomen Kristillisdemokraatit,1
+2006,Kauhajoki,Perussuomalaiset,1
+2006,Kankaanpää,Suomen Keskusta,2
+2006,Kankaanpää,Kansallinen Kokoomus,1
+2006,Maarianhamina,Suomen Kansan Demokraattinen Liitto,1
+2006,Alavus,Suomen Keskusta,2
+2006,Alavus,Perussuomalaiset,1
+2006,Paimio,Suomen Kristillisdemokraatit,1
+2006,Lieksa,Suomen Keskusta,4
+2006,Lieksa,Kansallinen Kokoomus,1
+2006,Lieksa,Suomen Sosialidemokraattinen Puolue,3
+2006,Lieksa,Suomen Kristillisdemokraatit,1
+2006,Kauniainen,Kansallinen Kokoomus,4
+2006,Kauniainen,Vasemmistoliitto,2
+2006,Kauniainen,Suomen Keskusta,1
+2006,Kauniainen,Suomen Kansan Demokraattinen Liitto,1
+2006,Kitee,Suomen Sosialidemokraattinen Puolue,4
+2006,Kitee,Suomen Kristillisdemokraatit,1
+2006,Kitee,Kansallinen Kokoomus,1
+2006,Kitee,Suomen Keskusta,1
+2006,Nurmes,Suomen Sosialidemokraattinen Puolue,3
+2006,Nurmes,Suomen Keskusta,3
+2006,Keuruu,Suomen Kristillisdemokraatit,8
+2006,Keuruu,Suomen Keskusta,32
+2006,Keuruu,Vihreä liitto,2
+2006,Keuruu,Suomen Sosialidemokraattinen Puolue,1
+2006,Keuruu,Kansallinen Kokoomus,1
+2006,Alajärvi,Perussuomalaiset,1
+2006,Alajärvi,Suomen Keskusta,1
+2006,Saarijärvi,Suomen Kristillisdemokraatit,5
+2006,Saarijärvi,Suomen Keskusta,6
+2006,Orivesi,Suomen Keskusta,4
+2006,Karkkila,Kansallinen Kokoomus,1
+2006,Karkkila,Suomen Sosialidemokraattinen Puolue,1
+2006,Karkkila,Vihreä liitto,2
+2006,Somero,Suomen Sosialidemokraattinen Puolue,1
+2006,Somero,Suomen Kristillisdemokraatit,1
+2006,Somero,Kansallinen Kokoomus,1
+2006,Somero,Suomen Keskusta,1
+2006,Laitila,Suomen Kristillisdemokraatit,3
+2006,Hanko,Vihreä liitto,4
+2006,Hanko,Suomen Keskusta,6
+2006,Hanko,Suomen Sosialidemokraattinen Puolue,5
+2006,Hanko,Suomen ruotsalainen kansanpuolue,1
+2006,Hanko,Vasemmistoliitto,3
+2006,Hanko,Kansallinen Kokoomus,3
+2006,Hanko,Sininen tulevaisuus,1
+2006,Kuhmo,Sininen tulevaisuus,1
+2006,Kuhmo,Suomen Sosialidemokraattinen Puolue,2
+2006,Kuhmo,Suomen Keskusta,1
+2006,Kuhmo,Kansallinen Kokoomus,1
+2006,Kiuruvesi,Suomen Keskusta,1
+2006,Pudasjärvi,Suomen Keskusta,1
+2006,Pudasjärvi,Suomen Kristillisdemokraatit,1
+2006,Kemijärvi,Suomen Sosialidemokraattinen Puolue,8
+2006,Kemijärvi,Vasemmistoliitto,11
+2006,Kemijärvi,Suomen Keskusta,9
+2006,Kemijärvi,Vihreä liitto,3
+2006,Kemijärvi,Suomen ruotsalainen kansanpuolue,1
+2006,Kemijärvi,Sininen tulevaisuus,1
+2006,Kemijärvi,Kansallinen Kokoomus,1
+2006,Kokemäki,Kansallinen Kokoomus,1
+2006,Suonenjoki,Suomen Keskusta,1
+2006,Suonenjoki,Vasemmistoliitto,1
+2006,Haapajärvi,Suomen Keskusta,4
+2006,Ikaalinen,Suomen Keskusta,1
+2006,Haapavesi,Kansallinen Kokoomus,1
+2006,Outokumpu,Suomen Keskusta,4
+2006,Outokumpu,Vasemmistoliitto,6
+2006,Outokumpu,Suomen Sosialidemokraattinen Puolue,4
+2006,Outokumpu,Kansallinen Kokoomus,1
+2006,Virrat,Suomen Keskusta,2
+2006,Virrat,Vihreä liitto,1
+2006,Virrat,Perussuomalaiset,1
+2006,Virrat,Suomen Sosialidemokraattinen Puolue,1
+2006,Kristiinankaupunki,Kansallinen Kokoomus,4
+2006,Parkano,Suomen Keskusta,3
+2006,Parkano,Kansallinen Kokoomus,2
+2006,Parkano,Suomen Sosialidemokraattinen Puolue,1
+2006,Parkano,Suomen Kansan Demokraattinen Liitto,1
+2006,Viitasaari,Suomen Keskusta,1
+2006,Ähtäri,Perussuomalaiset,1
+2006,Ähtäri,Suomen Keskusta,5
+2006,Kannus,Suomen Sosialidemokraattinen Puolue,1
+2006,Kaskinen,Suomen Kristillisdemokraatit,1
+2012,Helsinki,Kansallinen Kokoomus,99
+2012,Helsinki,Suomen Sosialidemokraattinen Puolue,68
+2012,Helsinki,Suomen Keskusta,90
+2012,Helsinki,Vasemmistoliitto,26
+2012,Helsinki,Suomen ruotsalainen kansanpuolue,8
+2012,Helsinki,Perussuomalaiset,67
+2012,Helsinki,Sininen tulevaisuus,10
+2012,Helsinki,Vihreä liitto,24
+2012,Helsinki,Suomen Kristillisdemokraatit,6
+2012,Espoo,Suomen Keskusta,19
+2012,Espoo,Vasemmistoliitto,3
+2012,Espoo,Vihreä liitto,5
+2012,Espoo,Perussuomalaiset,16
+2012,Espoo,Kansallinen Kokoomus,14
+2012,Espoo,Suomen Sosialidemokraattinen Puolue,5
+2012,Espoo,Sininen tulevaisuus,4
+2012,Espoo,Suomen Kristillisdemokraatit,1
+2012,Espoo,Suomen ruotsalainen kansanpuolue,1
+2012,Tampere,Suomen Keskusta,34
+2012,Tampere,Perussuomalaiset,25
+2012,Tampere,Kansallinen Kokoomus,23
+2012,Tampere,Vasemmistoliitto,7
+2012,Tampere,Suomen Sosialidemokraattinen Puolue,9
+2012,Tampere,Sininen tulevaisuus,3
+2012,Tampere,Suomen Kristillisdemokraatit,3
+2012,Tampere,Vihreä liitto,3
+2012,Tampere,Suomen ruotsalainen kansanpuolue,1
+2012,Vantaa,Suomen Sosialidemokraattinen Puolue,16
+2012,Vantaa,Perussuomalaiset,20
+2012,Vantaa,Suomen Kristillisdemokraatit,2
+2012,Vantaa,Kansallinen Kokoomus,13
+2012,Vantaa,Suomen Keskusta,20
+2012,Vantaa,Sininen tulevaisuus,2
+2012,Vantaa,Vasemmistoliitto,2
+2012,Vantaa,Vihreä liitto,2
+2012,Oulu,Perussuomalaiset,27
+2012,Oulu,Vihreä liitto,8
+2012,Oulu,Kansallinen Kokoomus,30
+2012,Oulu,Suomen Keskusta,34
+2012,Oulu,Vasemmistoliitto,15
+2012,Oulu,Suomen Sosialidemokraattinen Puolue,18
+2012,Oulu,Sininen tulevaisuus,2
+2012,Oulu,Suomen ruotsalainen kansanpuolue,4
+2012,Oulu,Suomen Kristillisdemokraatit,2
+2012,Turku,Suomen Keskusta,27
+2012,Turku,Perussuomalaiset,16
+2012,Turku,Kansallinen Kokoomus,23
+2012,Turku,Vasemmistoliitto,16
+2012,Turku,Suomen Sosialidemokraattinen Puolue,18
+2012,Turku,Vihreä liitto,4
+2012,Turku,Sininen tulevaisuus,2
+2012,Turku,Suomen ruotsalainen kansanpuolue,6
+2012,Jyväskylä,Suomen Keskusta,41
+2012,Jyväskylä,Suomen Sosialidemokraattinen Puolue,16
+2012,Jyväskylä,Kansallinen Kokoomus,12
+2012,Jyväskylä,Vasemmistoliitto,3
+2012,Jyväskylä,Perussuomalaiset,5
+2012,Jyväskylä,Sininen tulevaisuus,3
+2012,Jyväskylä,Suomen ruotsalainen kansanpuolue,2
+2012,Kuopio,Perussuomalaiset,18
+2012,Kuopio,Suomen ruotsalainen kansanpuolue,5
+2012,Kuopio,Kansallinen Kokoomus,6
+2012,Kuopio,Suomen Sosialidemokraattinen Puolue,5
+2012,Kuopio,Suomen Keskusta,16
+2012,Kuopio,Suomen Kristillisdemokraatit,1
+2012,Kuopio,Vasemmistoliitto,1
+2012,Lahti,Perussuomalaiset,17
+2012,Lahti,Kansallinen Kokoomus,22
+2012,Lahti,Suomen Sosialidemokraattinen Puolue,16
+2012,Lahti,Suomen Keskusta,6
+2012,Lahti,Vasemmistoliitto,2
+2012,Lahti,Sininen tulevaisuus,1
+2012,Pori,Vasemmistoliitto,6
+2012,Pori,Perussuomalaiset,8
+2012,Pori,Suomen Keskusta,5
+2012,Pori,Kansallinen Kokoomus,7
+2012,Pori,Suomen Sosialidemokraattinen Puolue,1
+2012,Pori,Suomen Kristillisdemokraatit,1
+2012,Pori,Sininen tulevaisuus,1
+2012,Kouvola,Perussuomalaiset,34
+2012,Kouvola,Suomen Keskusta,9
+2012,Kouvola,Suomen ruotsalainen kansanpuolue,6
+2012,Kouvola,Suomen Sosialidemokraattinen Puolue,12
+2012,Kouvola,Suomen Kristillisdemokraatit,2
+2012,Kouvola,Kansallinen Kokoomus,9
+2012,Joensuu,Perussuomalaiset,8
+2012,Joensuu,Suomen Keskusta,11
+2012,Joensuu,Suomen Sosialidemokraattinen Puolue,16
+2012,Joensuu,Suomen ruotsalainen kansanpuolue,2
+2012,Joensuu,Sininen tulevaisuus,1
+2012,Lappeenranta,Kansallinen Kokoomus,7
+2012,Lappeenranta,Suomen Sosialidemokraattinen Puolue,13
+2012,Lappeenranta,Suomen Keskusta,6
+2012,Lappeenranta,Perussuomalaiset,3
+2012,Lappeenranta,Sininen tulevaisuus,1
+2012,Hämeenlinna,Kansallinen Kokoomus,3
+2012,Hämeenlinna,Suomen Sosialidemokraattinen Puolue,2
+2012,Hämeenlinna,Vasemmistoliitto,2
+2012,Hämeenlinna,Suomen ruotsalainen kansanpuolue,2
+2012,Hämeenlinna,Perussuomalaiset,1
+2012,Hämeenlinna,Suomen Keskusta,1
+2012,Vaasa,Kansallinen Kokoomus,16
+2012,Vaasa,Suomen Sosialidemokraattinen Puolue,19
+2012,Vaasa,Suomen ruotsalainen kansanpuolue,2
+2012,Vaasa,Perussuomalaiset,4
+2012,Vaasa,Suomen Keskusta,2
+2012,Vaasa,Vasemmistoliitto,2
+2012,Vaasa,Sininen tulevaisuus,1
+2012,Seinäjoki,Suomen Keskusta,10
+2012,Seinäjoki,Perussuomalaiset,4
+2012,Seinäjoki,Kansallinen Kokoomus,2
+2012,Seinäjoki,Suomen Sosialidemokraattinen Puolue,1
+2012,Seinäjoki,Sininen tulevaisuus,1
+2012,Rovaniemi,Kansallinen Kokoomus,14
+2012,Rovaniemi,Suomen Sosialidemokraattinen Puolue,17
+2012,Rovaniemi,Suomen ruotsalainen kansanpuolue,3
+2012,Rovaniemi,Perussuomalaiset,8
+2012,Rovaniemi,Suomen Keskusta,28
+2012,Rovaniemi,Vasemmistoliitto,2
+2012,Mikkeli,Suomen Keskusta,12
+2012,Mikkeli,Kansallinen Kokoomus,3
+2012,Mikkeli,Perussuomalaiset,12
+2012,Mikkeli,Suomen Sosialidemokraattinen Puolue,2
+2012,Mikkeli,Suomen Kristillisdemokraatit,1
+2012,Mikkeli,Vasemmistoliitto,1
+2012,Mikkeli,Suomen ruotsalainen kansanpuolue,1
+2012,Kotka,Suomen Keskusta,4
+2012,Kotka,Suomen Sosialidemokraattinen Puolue,7
+2012,Kotka,Kansallinen Kokoomus,2
+2012,Kotka,Perussuomalaiset,15
+2012,Kotka,Sininen tulevaisuus,1
+2012,Kotka,Suomen ruotsalainen kansanpuolue,1
+2012,Salo,Kansallinen Kokoomus,27
+2012,Salo,Suomen Sosialidemokraattinen Puolue,17
+2012,Salo,Perussuomalaiset,14
+2012,Salo,Sininen tulevaisuus,1
+2012,Salo,Vihreä liitto,5
+2012,Salo,Vasemmistoliitto,4
+2012,Salo,Suomen Keskusta,4
+2012,Porvoo,Suomen Sosialidemokraattinen Puolue,2
+2012,Porvoo,Perussuomalaiset,8
+2012,Porvoo,Kansallinen Kokoomus,3
+2012,Kokkola,Perussuomalaiset,1
+2012,Kokkola,Vihreä liitto,1
+2012,Kokkola,Kansallinen Kokoomus,2
+2012,Kokkola,Suomen Keskusta,3
+2012,Kokkola,Suomen Kristillisdemokraatit,1
+2012,Kokkola,Suomen Sosialidemokraattinen Puolue,2
+2012,Hyvinkää,Suomen Sosialidemokraattinen Puolue,4
+2012,Hyvinkää,Vasemmistoliitto,5
+2012,Hyvinkää,Perussuomalaiset,2
+2012,Hyvinkää,Kansallinen Kokoomus,3
+2012,Hyvinkää,Suomen ruotsalainen kansanpuolue,2
+2012,Hyvinkää,Vihreä liitto,1
+2012,Hyvinkää,Suomen Keskusta,2
+2012,Hyvinkää,Suomen Kristillisdemokraatit,1
+2012,Lohja,Suomen Sosialidemokraattinen Puolue,3
+2012,Järvenpää,Kansallinen Kokoomus,3
+2012,Järvenpää,Suomen Keskusta,1
+2012,Järvenpää,Perussuomalaiset,2
+2012,Rauma,Suomen Kristillisdemokraatit,3
+2012,Rauma,Suomen ruotsalainen kansanpuolue,1
+2012,Rauma,Kansallinen Kokoomus,4
+2012,Rauma,Suomen Sosialidemokraattinen Puolue,10
+2012,Rauma,Perussuomalaiset,2
+2012,Rauma,Vasemmistoliitto,1
+2012,Kerava,Suomen Keskusta,2
+2012,Kerava,Suomen Sosialidemokraattinen Puolue,1
+2012,Kerava,Perussuomalaiset,2
+2012,Kerava,Kansallinen Kokoomus,5
+2012,Kajaani,Suomen Keskusta,4
+2012,Kajaani,Kansallinen Kokoomus,3
+2012,Kajaani,Perussuomalaiset,1
+2012,Kaarina,Suomen Keskusta,1
+2012,Nokia,Kansallinen Kokoomus,34
+2012,Nokia,Suomen Keskusta,10
+2012,Nokia,Perussuomalaiset,23
+2012,Nokia,Vihreä liitto,5
+2012,Nokia,Suomen Sosialidemokraattinen Puolue,12
+2012,Nokia,Vasemmistoliitto,4
+2012,Nokia,Suomen ruotsalainen kansanpuolue,1
+2012,Ylöjärvi,Perussuomalaiset,1
+2012,Ylöjärvi,Suomen Keskusta,2
+2012,Ylöjärvi,Kansallinen Kokoomus,1
+2012,Ylöjärvi,Vihreä liitto,1
+2012,Savonlinna,Perussuomalaiset,14
+2012,Savonlinna,Suomen Keskusta,13
+2012,Savonlinna,Kansallinen Kokoomus,2
+2012,Savonlinna,Suomen Sosialidemokraattinen Puolue,7
+2012,Savonlinna,Vasemmistoliitto,3
+2012,Kangasala,Suomen Keskusta,1
+2012,Riihimäki,Vasemmistoliitto,5
+2012,Riihimäki,Suomen ruotsalainen kansanpuolue,1
+2012,Riihimäki,Kansallinen Kokoomus,13
+2012,Riihimäki,Suomen Keskusta,2
+2012,Riihimäki,Suomen Sosialidemokraattinen Puolue,2
+2012,Riihimäki,Perussuomalaiset,3
+2012,Raasepori,Suomen Sosialidemokraattinen Puolue,3
+2012,Raasepori,Suomen ruotsalainen kansanpuolue,1
+2012,Raasepori,Perussuomalaiset,1
+2012,Imatra,Suomen Sosialidemokraattinen Puolue,13
+2012,Imatra,Vasemmistoliitto,4
+2012,Imatra,Perussuomalaiset,4
+2012,Imatra,Kansallinen Kokoomus,3
+2012,Imatra,Suomen Keskusta,2
+2012,Imatra,Vihreä liitto,1
+2012,Raisio,Suomen Keskusta,3
+2012,Raisio,Kansallinen Kokoomus,3
+2012,Raisio,Vasemmistoliitto,1
+2012,Raisio,Perussuomalaiset,2
+2012,Raahe,Kansallinen Kokoomus,1
+2012,Raahe,Suomen Keskusta,1
+2012,Raahe,Vasemmistoliitto,1
+2012,Raahe,Vihreä liitto,1
+2012,Sastamala,Kansallinen Kokoomus,9
+2012,Sastamala,Sininen tulevaisuus,1
+2012,Sastamala,Perussuomalaiset,1
+2012,Tornio,Suomen Keskusta,3
+2012,Tornio,Vasemmistoliitto,1
+2012,Tornio,Perussuomalaiset,2
+2012,Tornio,Vihreä liitto,1
+2012,Iisalmi,Suomen Keskusta,4
+2012,Iisalmi,Perussuomalaiset,1
+2012,Valkeakoski,Suomen Keskusta,3
+2012,Valkeakoski,Kansallinen Kokoomus,2
+2012,Kurikka,Perussuomalaiset,3
+2012,Kemi,Suomen Keskusta,5
+2012,Kemi,Suomen Sosialidemokraattinen Puolue,8
+2012,Kemi,Vasemmistoliitto,2
+2012,Kemi,Vihreä liitto,2
+2012,Kemi,Perussuomalaiset,2
+2012,Varkaus,Kansallinen Kokoomus,3
+2012,Varkaus,Suomen Sosialidemokraattinen Puolue,2
+2012,Varkaus,Vihreä liitto,1
+2012,Varkaus,Perussuomalaiset,3
+2012,Varkaus,Suomen Keskusta,2
+2012,Jämsä,Suomen Keskusta,12
+2012,Jämsä,Suomen Sosialidemokraattinen Puolue,5
+2012,Jämsä,Perussuomalaiset,3
+2012,Jämsä,Kansallinen Kokoomus,1
+2012,Hamina,Perussuomalaiset,7
+2012,Hamina,Suomen Sosialidemokraattinen Puolue,3
+2012,Hamina,Suomen ruotsalainen kansanpuolue,3
+2012,Hamina,Suomen Keskusta,5
+2012,Hamina,Kansallinen Kokoomus,4
+2012,Hamina,Vasemmistoliitto,1
+2012,Hamina,Suomen Kristillisdemokraatit,1
+2012,Naantali,Suomen Keskusta,1
+2012,Naantali,Kansallinen Kokoomus,1
+2012,Naantali,Perussuomalaiset,1
+2012,Pietarsaari,Suomen Keskusta,4
+2012,Pietarsaari,Suomen Kristillisdemokraatit,1
+2012,Pietarsaari,Perussuomalaiset,1
+2012,Pietarsaari,Suomen Sosialidemokraattinen Puolue,1
+2012,Äänekoski,Suomen Keskusta,2
+2012,Äänekoski,Vihreä liitto,1
+2012,Heinola,Perussuomalaiset,4
+2012,Heinola,Kansallinen Kokoomus,5
+2012,Heinola,Suomen Sosialidemokraattinen Puolue,1
+2012,Heinola,Suomen Keskusta,1
+2012,Heinola,Vihreä liitto,1
+2012,Pieksämäki,Suomen Sosialidemokraattinen Puolue,3
+2012,Pieksämäki,Vasemmistoliitto,1
+2012,Pieksämäki,Perussuomalaiset,1
+2012,Pieksämäki,Suomen Keskusta,1
+2012,Forssa,Suomen Keskusta,2
+2012,Forssa,Kansallinen Kokoomus,5
+2012,Akaa,Kansallinen Kokoomus,2
+2012,Orimattila,Kansallinen Kokoomus,3
+2012,Orimattila,Perussuomalaiset,1
+2012,Loimaa,Kansallinen Kokoomus,2
+2012,Loimaa,Suomen Keskusta,1
+2012,Kauhava,Suomen Keskusta,19
+2012,Kauhava,Kansallinen Kokoomus,9
+2012,Kauhava,Perussuomalaiset,11
+2012,Kauhava,Suomen Sosialidemokraattinen Puolue,4
+2012,Kauhava,Sininen tulevaisuus,1
+2012,Uusikaupunki,Kansallinen Kokoomus,1
+2012,Ylivieska,Perussuomalaiset,2
+2012,Ylivieska,Kansallinen Kokoomus,1
+2012,Kuusamo,Suomen Keskusta,3
+2012,Kuusamo,Vasemmistoliitto,1
+2012,Kuusamo,Vihreä liitto,1
+2012,Kuusamo,Kansallinen Kokoomus,1
+2012,Loviisa,Kansallinen Kokoomus,1
+2012,Loviisa,Sininen tulevaisuus,1
+2012,Kauhajoki,Suomen ruotsalainen kansanpuolue,1
+2012,Kauhajoki,Perussuomalaiset,2
+2012,Kauhajoki,Suomen Sosialidemokraattinen Puolue,1
+2012,Kauhajoki,Kansallinen Kokoomus,2
+2012,Kauhajoki,Vihreä liitto,1
+2012,Kauhajoki,Suomen Keskusta,2
+2012,Kauhajoki,Vasemmistoliitto,1
+2012,Kauhajoki,Sininen tulevaisuus,1
+2012,Ulvila,Suomen Keskusta,1
+2012,Maarianhamina,Kansallinen Kokoomus,1
+2012,Paimio,Vihreä liitto,1
+2012,Lieksa,Suomen Keskusta,2
+2012,Lieksa,Perussuomalaiset,1
+2012,Nivala,Vihreä liitto,1
+2012,Nivala,Suomen Keskusta,1
+2012,Kauniainen,Suomen Keskusta,1
+2012,Kauniainen,Kansallinen Kokoomus,5
+2012,Kauniainen,Vihreä liitto,1
+2012,Kauniainen,Perussuomalaiset,3
+2012,Kauniainen,Vasemmistoliitto,2
+2012,Kauniainen,Suomen Sosialidemokraattinen Puolue,1
+2012,Kauniainen,Sininen tulevaisuus,1
+2012,Huittinen,Kansallinen Kokoomus,1
+2012,Mänttä-Vilppula,Suomen Keskusta,1
+2012,Mänttä-Vilppula,Kansallinen Kokoomus,1
+2012,Nurmes,Suomen Keskusta,2
+2012,Nurmes,Perussuomalaiset,1
+2012,Keuruu,Suomen Keskusta,25
+2012,Keuruu,Kansallinen Kokoomus,6
+2012,Keuruu,Perussuomalaiset,3
+2012,Keuruu,Suomen Sosialidemokraattinen Puolue,3
+2012,Keuruu,Sininen tulevaisuus,1
+2012,Saarijärvi,Suomen Keskusta,1
+2012,Orivesi,Suomen Keskusta,1
+2012,Orivesi,Suomen Sosialidemokraattinen Puolue,1
+2012,Karkkila,Perussuomalaiset,1
+2012,Karkkila,Kansallinen Kokoomus,1
+2012,Hanko,Suomen Sosialidemokraattinen Puolue,6
+2012,Hanko,Perussuomalaiset,4
+2012,Hanko,Suomen Keskusta,3
+2012,Hanko,Kansallinen Kokoomus,1
+2012,Hanko,Suomen ruotsalainen kansanpuolue,1
+2012,Kiuruvesi,Kansallinen Kokoomus,3
+2012,Pudasjärvi,Perussuomalaiset,6
+2012,Pudasjärvi,Suomen Sosialidemokraattinen Puolue,1
+2012,Kemijärvi,Vasemmistoliitto,6
+2012,Kemijärvi,Suomen Keskusta,4
+2012,Kemijärvi,Suomen Sosialidemokraattinen Puolue,2
+2012,Kemijärvi,Perussuomalaiset,1
+2012,Kemijärvi,Kansallinen Kokoomus,1
+2012,Kokemäki,Kansallinen Kokoomus,1
+2012,Suonenjoki,Suomen Keskusta,1
+2012,Haapajärvi,Suomen Keskusta,1
+2012,Haapavesi,Suomen Keskusta,2
+2012,Haapavesi,Sininen tulevaisuus,1
+2012,Outokumpu,Suomen Sosialidemokraattinen Puolue,2
+2012,Outokumpu,Kansallinen Kokoomus,1
+2012,Outokumpu,Vihreä liitto,1
+2012,Outokumpu,Suomen Keskusta,2
+2012,Outokumpu,Vasemmistoliitto,1
+2012,Parkano,Perussuomalaiset,1
+2012,Parkano,Suomen Keskusta,1
+2012,Viitasaari,Suomen Keskusta,1
+2012,Ähtäri,Suomen Keskusta,10
+2012,Ähtäri,Perussuomalaiset,1
+2012,Pyhäjärvi,Suomen Keskusta,1
+2012,Pyhäjärvi,Perussuomalaiset,2
+2012,Pyhäjärvi,Kansallinen Kokoomus,1
+2012,Kaskinen,Perussuomalaiset,2
+2012,Kaskinen,Suomen Sosialidemokraattinen Puolue,1
+2012,Kaskinen,Suomen Keskusta,6

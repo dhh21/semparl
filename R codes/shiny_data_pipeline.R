@@ -40,14 +40,14 @@ process_data <- function(mentions_file_path, population_data, city_list, merger_
     filter(!is.na(population),
            !(city %in% merger_cities)) %>%
     mutate(per_capita = ifelse(population > 0, mention_count/population, NA)) %>%
-    mutate(rate_per_100K = ifelse(!is.na(per_capita) & per_capita >0, per_capita *100000 , NA))
+    mutate(rate_per_100K = ifelse(!is.na(per_capita), per_capita *100000 , NA))
   
   
   return(map_values)
 }
 
 
-city_count_files <- list.files("data/", pattern = "city_counts_statistics_\\d+", full.names = TRUE)
+city_count_files <- list.files("count_data/", pattern = "city_counts_statistics_\\d+", full.names = TRUE)
 
 
 excluded_cities <- c("Raasepori", "Sastamala", "Akaa", "Mänttä-Vilppula")
@@ -96,7 +96,7 @@ process_parties <- function(mentions_file_path, geo_info = d1){
   
 }
 
-party_count_files <- list.files("data/", pattern = "city_counts_statistics_by_parties_\\d+", full.names = TRUE)
+party_count_files <- list.files("count_data/", pattern = "city_counts_statistics_by_parties_\\d+", full.names = TRUE)
 
 party_df_list <- lapply(party_count_files, process_parties)
 

@@ -6,7 +6,7 @@ library(purrr)
 
 d1 <- get_municipalities(year = 2020) 
 
-# Combined population data from Statistics Finland
+# Combined population data from Statistics Finland, see `staistics_finland.Rmd`
 population_data <- read.csv("statfi_population.csv", stringsAsFactors = FALSE) %>% 
   rename(city = Kunta, 
          year = Vuosi, 
@@ -24,21 +24,6 @@ process_data <- function(mentions_file_path, population_data, city_list, merger_
   mentions <- read.csv(mentions_file_path, stringsAsFactors=FALSE) %>%
     complete(city, year, fill = list(mention_count = 0))
   
-  # ## Cities, which have merged as of 2020
-  # merger_cities <- city_list %>%
-  #   filter(!(kaupunki %in% population_data$city)) %>%
-  #   pull(kaupunki)
-  # 
-  # cat("Following cities have probably merged:\n", merger_cities, "\n")
-  
-  # # Cities with 0 population
-  # zero_pop_cities <- population_data %>% 
-  #   filter(population == 0) %>%
-  #   pull(city) %>%
-  #   unique()
-  # 
-  # cat("Following cities had 0 population in some years:\n", zero_pop_cities,"\n")
-  
   # Extract map shape files from Statistics Finland
   map_data <- geo_info %>% 
     select(name_fi, geom) %>%
@@ -54,42 +39,9 @@ process_data <- function(mentions_file_path, population_data, city_list, merger_
     left_join(population_data, by = c("city", "year")) %>%
     filter(!is.na(population),
            !(city %in% merger_cities)) %>%
-    mutate(per_capita = ifelse(population > 0, mention_count/population, NA))
+    mutate(per_capita = ifelse(population > 0, mention_count/population, NA)) %>%
+    mutate(rate_per_100K = ifelse(!is.na(per_capita) & per_capita >0, per_capita *100000 , NA))
   
-  # # add dummy rows, i.e. 0 for missing rows
-  # dummy_cities <- city_map_data %>%
-  #   filter(city %in% city_list$kaupunki,
-  #          !(city %in% merger_cities)) %>%
-  #   group_by(city) %>%
-  #   summarise(n = n()) %>%
-  #   filter(n<10) %>%
-  #   pull(city)
-  # 
-  # time_period <- min(mentions$year, na.rm = TRUE):max(mentions$year, na.rm = TRUE)
-  # 
-  # dummy_data <- lapply(dummy_cities, function(x, years = time_period){
-  #   dummy_df <- data.frame(city = rep(x, length(years)),
-  #                          year = years,
-  #                          mention_count_dummy = rep(0, length(years))
-  #   )
-  #   
-  #   geom_df <- data.frame(city = x, geom = map_data[map_data$city == x, "geom"])
-  #   
-  #   dummy_df <- dummy_df %>% 
-  #     left_join(geom_df, by = "city")
-  #   
-  #   return(dummy_df)
-  # }) %>%  do.call("rbind", .)
-  # 
-  
-  # map_values <- dummy_data %>% 
-  #   left_join(map_values, by = c("city", "year", "geom")) %>%
-  #   mutate(mention_count = ifelse(is.na(mention_count), mention_count_dummy, mention_count)) %>%
-  #   select(-mention_count_dummy) %>%
-  #   left_join(population_data, by = c("city", "year")) %>%
-  #   filter(!is.na(population),
-  #          !(city %in% merger_cities)) %>%
-  #   mutate(per_capita = ifelse(population > 0, mention_count/population, NA))
   
   return(map_values)
 }
@@ -121,6 +73,9 @@ not_city <- d1 %>%
 
 saveRDS(not_city, "citiesinparl/not_city.rds")
 
+
+
+## Not fully implemented to shiny pipeline
 
 # parties
 

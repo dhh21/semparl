@@ -91,7 +91,7 @@ animated3 <- ggplot() +
 animate(animated3)
 ```
 
-### Per capita
+### Rate
 
 ```{r depression_per_capita}
 animated4 <- ggplot() +

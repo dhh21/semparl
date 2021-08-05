@@ -123,7 +123,7 @@ server <- function(input, output, session) {
             geom_sf(data = not_city, col = alpha("white", 1/3), fill = "grey") +
             geom_sf(data = selected_data(), aes_string(fill = input$values, geometry = "geom"), colour = alpha("white", 1/3)) +
             viridis::scale_fill_viridis(limits = global_limits()) +
-            labs(title = paste("Year", input$year, input$values),
+            labs(title = paste("Year", input$year),
                  subtitle = "Cities mentioned in plenary sessions of\nFinnish parliament",
                  caption = "Population data: Statistics Finland (2021)",
                  fill = "No. mentions in\nplenary sessions") +
